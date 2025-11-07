@@ -1,0 +1,114 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "!=",
+        "operator2": null,
+        "parametertype_id": 5500,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 986,
+        "text": null,
+        "translations": null,
+        "value": "\"\"",
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "!=",
+        "operator2": null,
+        "parametertype_id": 5501,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 986,
+        "text": null,
+        "translations": null,
+        "value": "\"\"",
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "<10",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 11677,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 986,
+        "text": null,
+        "translations": null,
+        "value": 10,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "<10",
+        "DDF_type": "OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 11677,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 986,
+        "text": null,
+        "translations": null,
+        "value": 10,
+        "value2": "26"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "<10",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 11677,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 986,
+        "text": null,
+        "translations": null,
+        "value": 26,
+        "value2": null
+      }
+    }
+  ]
+}

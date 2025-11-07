@@ -1,0 +1,10 @@
+spec_id,column,DDF_unit,inverse,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,show,text,translations
+,0,μg/kg,0,5344,,Aflatoxin B1,perfect,green,!=,"""""",,,,,1,,
+,0,,0,5345,,Aflatoxin B2,perfect,green,!=,"""""",,,,,1,,
+,0,,0,5346,,Aflatoxin G1,perfect,green,!=,"""""",,,,,1,,
+,0,,0,5347,,Aflatoxin G2,perfect,green,!=,"""""",,,,,1,,
+,0,,0,5348,,Aflatoxins,perfect,green,!=,"""""",,,,,1,,
+,0,,0,5558,,Ochratoxin A_6763,perfect,green,!=,"""""",,,,,1,,
+,0,,0,12006,<10,Aflatoxins_Total,perfect,green,<,3,,,,,1,,
+,0,,0,12006,<10,Aflatoxins_Total,OK,orange,>,3,AND,<=,10,,1,,
+,0,,0,12006,<10,Aflatoxins_Total,not OK,red,>,10,,,,,1,,

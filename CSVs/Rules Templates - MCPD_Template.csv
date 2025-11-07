@@ -1,0 +1,7 @@
+spec_id,column,DDF_unit,inverse,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,show,text,translations
+,0,,0,11235,,3-MCPD/2-MCPD glycidyl ester,perfect,green,!=,"""""",,,,,1,,
+,0,,0,11236,<1250,"3-MCPD, total (free and ester)",perfect,green,<=,375,,,,,1,,
+,0,,0,11236,<1250,"3-MCPD, total (free and ester)",OK,orange,>,375,AND,<=,1250,,1,,
+,0,,0,11236,<1250,"3-MCPD, total (free and ester)",not OK,red,>,1250,,,,,1,,
+,0,,0,12004,,"MCPD,2-, total",perfect,green,!=,"""""",,,,,1,,
+,0,,0,12005,,"Glycidyl esters, sub-parameters",perfect,green,!=,"""""",,,,,1,,
