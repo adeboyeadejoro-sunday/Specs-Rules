@@ -41,3 +41,8 @@ python update_any_key.py --in Rules_20251105.json --key data.DDF_unit --value nu
 python update_any_key.py --in Rules_20251105.json --key data.DDF_unit --value "mg/kg" --as str --only-missing
 python update_any_key.py --in Rules_20251105.json --key data.DDF_unit --value "ppm" --as str --parametertype-id 101 202
 python update_any_key.py --in Rules_20251105.json --key data.translations --value '{"en":{"name":"Lead","ok":"NULL"}}' --as json
+
+**range_calculator.py**
+python range_calculator.py --target 12 --type active
+python range_calculator.py --target 12 --type limit
+python range_calculator.py --target 0 --type limit
