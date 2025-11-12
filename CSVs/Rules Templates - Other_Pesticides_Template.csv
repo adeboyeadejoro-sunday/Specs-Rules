@@ -1,8 +1,8 @@
 spec_id,column,DDF_unit,inverse,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,show,text,translations
-,0,,0,5369,,"Pesticides GC-MS/MS, QuEChERS",perfect,green,=,not detectable,,,,,1,,
-,0,,0,5369,,"Pesticides GC-MS/MS, QuEChERS",not OK,red,!=,not detectable,,,,,1,,
-,0,,0,5370,,"Pesticides LC-MS/MS, QuEChERS",perfect,green,=,not detectable,,,,,1,,
-,0,,0,5370,,"Pesticides LC-MS/MS, QuEChERS",not OK,red,!=,not detectable,,,,,1,,
+,0,,0,5369,,"Pesticides GC-MS/MS, QuEChERS",perfect,green,=,not detectable,OR,=,nicht nachw.,,1,,
+,0,,0,5369,,"Pesticides GC-MS/MS, QuEChERS",not OK,red,>,0,,,,,1,,
+,0,,0,5370,,"Pesticides LC-MS/MS, QuEChERS",perfect,green,=,not detectable,OR,=,nicht nachw.,,1,,
+,0,,0,5370,,"Pesticides LC-MS/MS, QuEChERS",not OK,red,>,0,,,,,1,,
 ,0,,0,10499,,"1,4-Dimethylnaphthalene",perfect,green,!=,"""""",,,,,1,,
 ,0,,0,10501,,"2,3,4,5-Tetrachloroanisole",perfect,green,!=,"""""",,,,,1,,
 ,0,,0,10502,,"2,3,5,6-Tetrachloroaniline",perfect,green,!=,"""""",,,,,1,,

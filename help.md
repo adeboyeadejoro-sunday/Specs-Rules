@@ -46,3 +46,7 @@ python update_any_key.py --in Rules_20251105.json --key data.translations --valu
 python range_calculator.py --target 12 --type active
 python range_calculator.py --target 12 --type limit
 python range_calculator.py --target 0 --type limit
+
+**remove_parameter.py**
+python remove_parameter.py --in ICP_Template.json --param-id 5282 --out ICP_Template_no5282.json
+python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 5284 --out ICP_Template_filtered.json
