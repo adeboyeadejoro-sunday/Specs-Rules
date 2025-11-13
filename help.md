@@ -50,3 +50,4 @@ python range_calculator.py --target 0 --type limit
 **remove_parameter.py**
 python remove_parameter.py --in ICP_Template.json --param-id 5282 --out ICP_Template_no5282.json
 python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 5284 --out ICP_Template_filtered.json
+python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 --in-place
