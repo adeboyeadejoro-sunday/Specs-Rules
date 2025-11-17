@@ -22,7 +22,7 @@ python export_specs_rules.py \
 
 **update_spec_id.py**
 python update_spec_id.py --in Rules_20251105.json --spec-id 789
-python update_spec_id.py --in Rules_20251105.json --spec-id 789 --out Rules_new.json
+python update_spec_id.py --in [Rules_20251105.json] --spec-id [789] --out [Rules_new.json]
 python update_spec_id.py --in Rules_20251105.json --spec-id 789 --inplace
 
 

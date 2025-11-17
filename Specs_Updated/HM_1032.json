@@ -1,0 +1,268 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "<1",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "<= ",
+        "operator2": null,
+        "parametertype_id": 5284,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.3,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "<1",
+        "DDF_type": "OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 5284,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.3,
+        "value2": "1"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "<1",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 5284,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 1,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "<3",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "<= ",
+        "operator2": null,
+        "parametertype_id": 5286,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.9,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "<3",
+        "DDF_type": "OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 5286,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.9,
+        "value2": "3"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "<3",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 5286,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "<1",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "<= ",
+        "operator2": null,
+        "parametertype_id": 5288,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.3,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "<1",
+        "DDF_type": "OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 5288,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.3,
+        "value2": "1"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "<1",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 5288,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 1,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "<0.1",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "<= ",
+        "operator2": null,
+        "parametertype_id": 5302,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.03,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "<0.1",
+        "DDF_type": "OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 5302,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.03,
+        "value2": "0.1"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "<0.1",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 5302,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1032,
+        "text": null,
+        "translations": null,
+        "value": 0.1,
+        "value2": null
+      }
+    }
+  ]
+}
