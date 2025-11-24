@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Auftrag>
+  <Auftraggeber_ID>24630</Auftraggeber_ID>
+  <Auftraggeber>Sunday Natural Products GmbH</Auftraggeber>
+  <Auftragsbezeichnung>25-06988</Auftragsbezeichnung>
+  <Probe>
+    <Probe_Nr_extern>25-06984</Probe_Nr_extern>
+    <Probenbezeichnung>Liposomal Magnesium Glycinate Pure 15% (FP - Cod. 624A05)</Probenbezeichnung>
+    <Probenahmedatum>2025-11-11</Probenahmedatum>
+    <Artikelbezeichnung>supplier sample</Artikelbezeichnung>
+    <Charge>624-LPFP-10142025-A1</Charge>
+    <Probenbemerkung>TR-12</Probenbemerkung>
+    <Info_extern_03>- Magnesium (from Magnesium Glycinate) 10 - 15 %
+Please test for the mineral purity (NMR)</Info_extern_03>
+    <Analysenumfang>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefpaket_ID>6598</Pruefpaket_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefpaket_ID>9653</Pruefpaket_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefmethode_ID>10563</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;3">
+        <Pruefmethode_ID>10773</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefmethode_ID>10783</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;0.1">
+        <Pruefmethode_ID>10943</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_02="mg/kg">
+        <Pruefmethode_ID>23683</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;10">
+        <Pruefmethode_ID>23703</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>19903</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>13163</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;10">
+        <Pruefmethode_ID>23713</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>32454</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>32469</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>27093</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>30503</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>23723</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>23673</Pruefmethode_ID>
+        </Analyse>
+      </Analysenumfang>
+    </Probe>
+  <Probe>
+    <Probe_Nr_extern>25-06985</Probe_Nr_extern>
+    <Probenbezeichnung>Liposomal Magnesium Malate (FP - Cod. 627A01)</Probenbezeichnung>
+    <Probenahmedatum>2025-11-11</Probenahmedatum>
+    <Artikelbezeichnung>supplier sample</Artikelbezeichnung>
+    <Charge>627-LPFP-10142025-A1</Charge>
+    <Probenbemerkung>TR-12</Probenbemerkung>
+    <Info_extern_03>- Magnesium (from Magnesium Malate) 11 - 15 %
+Please test for the mineral purity (NMR)</Info_extern_03>
+    <Analysenumfang>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefpaket_ID>9653</Pruefpaket_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefpaket_ID>6598</Pruefpaket_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefmethode_ID>10563</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;3">
+        <Pruefmethode_ID>10773</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefmethode_ID>10783</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;0.1">
+        <Pruefmethode_ID>10943</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_02="mg/kg">
+        <Pruefmethode_ID>23683</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;10">
+        <Pruefmethode_ID>23703</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>19903</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>13163</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;10">
+        <Pruefmethode_ID>23713</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>32454</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>32469</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>27093</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>30503</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>23723</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>23673</Pruefmethode_ID>
+        </Analyse>
+      </Analysenumfang>
+    </Probe>
+  <Probe>
+    <Probe_Nr_extern>25-06986</Probe_Nr_extern>
+    <Probenbezeichnung>Liposomal Q10 Ubiquinone (FP — Cod 263A02)-</Probenbezeichnung>
+    <Probenahmedatum>2025-11-11</Probenahmedatum>
+    <Artikelbezeichnung>supplier sample</Artikelbezeichnung>
+    <Charge>263-LPFP-10142025-A2</Charge>
+    <Probenbemerkung>TR-12</Probenbemerkung>
+    <Info_extern_03>Coenzyme Q10 (Ubiquinone) - 70-80%</Info_extern_03>
+    <Analysenumfang>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefpaket_ID>9653</Pruefpaket_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefpaket_ID>6598</Pruefpaket_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefmethode_ID>10563</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;3">
+        <Pruefmethode_ID>10773</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;1">
+        <Pruefmethode_ID>10783</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;0.1">
+        <Pruefmethode_ID>10943</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_02="mg/kg">
+        <Pruefmethode_ID>23683</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;10">
+        <Pruefmethode_ID>23703</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>19903</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>13163</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="&lt;10">
+        <Pruefmethode_ID>23713</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>32454</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>32469</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>27093</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>30503</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>23723</Pruefmethode_ID>
+        </Analyse>
+      <Analyse Info_extern_01="70 - 80%" Info_extern_02="%">
+        <Pruefmethode_ID>39075</Pruefmethode_ID>
+        </Analyse>
+      <Analyse>
+        <Pruefmethode_ID>23673</Pruefmethode_ID>
+        </Analyse>
+      </Analysenumfang>
+    </Probe>
+  </Auftrag>

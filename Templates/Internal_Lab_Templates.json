@@ -1,0 +1,180 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "g/cm3",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">=",
+        "operator2": null,
+        "parametertype_id": 11194,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "not OK",
+        "DDF_unit": "g/cm3",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<",
+        "operator2": null,
+        "parametertype_id": 11194,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "%",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">=",
+        "operator2": null,
+        "parametertype_id": 11196,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "not OK",
+        "DDF_unit": "%",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<",
+        "operator2": null,
+        "parametertype_id": 11196,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "g/cm3",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">=",
+        "operator2": null,
+        "parametertype_id": 11974,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "not OK",
+        "DDF_unit": "g/cm3",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<",
+        "operator2": null,
+        "parametertype_id": 11974,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "%",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">=",
+        "operator2": null,
+        "parametertype_id": 11975,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "not OK",
+        "DDF_unit": "%",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<",
+        "operator2": null,
+        "parametertype_id": 11975,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    }
+  ]
+}

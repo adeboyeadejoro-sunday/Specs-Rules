@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Auftrag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Auftraggeber_ID>24630</Auftraggeber_ID>
+  <Auftraggeber>Sunday Natural Products GmbH</Auftraggeber>
+  <Auftragsbezeichnung>25-07047</Auftragsbezeichnung>
+  <Probe>
+    <Probe_Nr_extern>25-06912</Probe_Nr_extern>
+    <Probenbezeichnung>Milk Thistle Extract 80% Silymarin &amp; 30% Silybinns - Ethanol solvent without maltodextrin</Probenbezeichnung>
+    <Probenahmedatum>2025-11-17</Probenahmedatum>
+    <Artikelbezeichnung>POW-SIL80-01</Artikelbezeichnung>
+    <Charge>VNIMTE250217</Charge>
+    <MHD>2028-02-16</MHD>
+    <Probenbemerkung>TR-04</Probenbemerkung>
+    <Info_extern_03>Botanical name: Silybum marianum(L)
+Extract Ratio: 25-30:1</Info_extern_03>
+    <Analysenumfang>
+      <Analyse>
+        <Pruefpaket_ID>6598</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>8076</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>8703</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>9653</Pruefpaket_ID>
+      </Analyse>
+    </Analysenumfang>
+  </Probe>
+  <Probe>
+    <Probe_Nr_extern>25-06915</Probe_Nr_extern>
+    <Probenbezeichnung>Agaricus bisporus extract</Probenbezeichnung>
+    <Probenahmedatum>2025-11-17</Probenahmedatum>
+    <Artikelbezeichnung>POW-MABE-01</Artikelbezeichnung>
+    <Charge>SBGT250609S08</Charge>
+    <MHD>2027-06-08</MHD>
+    <Probenbemerkung>TR-04</Probenbemerkung>
+    <Analysenumfang>
+      <Analyse>
+        <Pruefpaket_ID>11001</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>9653</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>8703</Pruefpaket_ID>
+      </Analyse>
+    </Analysenumfang>
+  </Probe>
+  <Probe>
+    <Probe_Nr_extern>25-06916</Probe_Nr_extern>
+    <Probenbezeichnung>0313500</Probenbezeichnung>
+    <Probenahmedatum>2025-11-17</Probenahmedatum>
+    <Artikelbezeichnung>OIL-CMCT-BIO-01</Artikelbezeichnung>
+    <Charge>08595-ORG</Charge>
+    <MHD>2028-08-31</MHD>
+    <Probenbemerkung>TR-04</Probenbemerkung>
+    <Analysenumfang>
+      <Analyse>
+        <Pruefpaket_ID>8036</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>8086</Pruefpaket_ID>
+      </Analyse>
+      <Analyse>
+        <Pruefpaket_ID>8552</Pruefpaket_ID>
+      </Analyse>
+    </Analysenumfang>
+  </Probe>
+  <Probe>
+    <Probe_Nr_extern>25-06951</Probe_Nr_extern>
+    <Probenbezeichnung>Alpha-Ketoglutarate</Probenbezeichnung>
+    <Probenahmedatum>2025-11-17</Probenahmedatum>
+    <Artikelbezeichnung>POW-AKGR-01</Artikelbezeichnung>
+    <Charge>LSM241210</Charge>
+    <MHD>2025-12-09</MHD>
+    <Probenbemerkung>TR-07</Probenbemerkung>
+    <Analysenumfang>
+      <Analyse>
+        <Pruefpaket_ID>11001</Pruefpaket_ID>
+      </Analyse>
+    </Analysenumfang>
+  </Probe>
+</Auftrag>

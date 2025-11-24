@@ -91,6 +91,28 @@
     {
       "action": "create",
       "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5549,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "negativ",
+        "value2": "negative"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
         "color": "orange",
         "column": 0,
         "DDF_target_value": "≤1x 10²",
@@ -137,7 +159,7 @@
       "data": {
         "color": "green",
         "column": 0,
-        "DDF_target_value": "≤1x 10",
+        "DDF_target_value": "≤1x 10²",
         "DDF_type": "perfect",
         "DDF_unit": null,
         "inverse": 0,
@@ -150,7 +172,7 @@
         "spec_id": null,
         "text": null,
         "translations": null,
-        "value": 3,
+        "value": 30,
         "value2": null
       }
     },
@@ -159,7 +181,7 @@
       "data": {
         "color": "orange",
         "column": 0,
-        "DDF_target_value": "≤1x 10",
+        "DDF_target_value": "≤1x 10²",
         "DDF_type": "OK",
         "DDF_unit": null,
         "inverse": 0,
@@ -172,8 +194,8 @@
         "spec_id": null,
         "text": null,
         "translations": null,
-        "value": 3,
-        "value2": "10"
+        "value": 30,
+        "value2": "100"
       }
     },
     {
@@ -181,7 +203,7 @@
       "data": {
         "color": "red",
         "column": 0,
-        "DDF_target_value": "≤1x 10",
+        "DDF_target_value": "≤1x 10²",
         "DDF_type": "not OK",
         "DDF_unit": null,
         "inverse": 0,
@@ -194,7 +216,7 @@
         "spec_id": null,
         "text": null,
         "translations": null,
-        "value": 10,
+        "value": 100,
         "value2": null
       }
     },
@@ -218,6 +240,28 @@
         "translations": null,
         "value": 3,
         "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "≤1x 10",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5551,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "negativ",
+        "value2": "negative"
       }
     },
     {
@@ -482,6 +526,28 @@
         "translations": null,
         "value": 0,
         "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "absent in 25 g",
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5555,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "negativ",
+        "value2": "negative"
       }
     },
     {

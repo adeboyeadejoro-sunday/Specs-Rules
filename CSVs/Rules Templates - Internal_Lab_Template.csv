@@ -1,0 +1,9 @@
+spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
+,1,0,0,g/cm3,11194,,Bulk Density,perfect,green,>=,,,,,,,
+,1,0,0,g/cm3,11194,,Bulk Density,not OK,red,<,,,,,,,
+,1,0,0,%,11196,,Moisture content analysis,perfect,green,>=,,,,,,,
+,1,0,0,%,11196,,Moisture content analysis,not OK,red,<,,,,,,,
+,1,0,0,g/cm3,11974,,Tapped Density,perfect,green,>=,,,,,,,
+,1,0,0,g/cm3,11974,,Tapped Density,not OK,red,<,,,,,,,
+,1,0,0,%,11975,,Mesh Size,perfect,green,>=,,,,,,,
+,1,0,0,%,11975,,Mesh Size,not OK,red,<,,,,,,,

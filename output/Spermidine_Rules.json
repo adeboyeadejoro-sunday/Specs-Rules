@@ -1,0 +1,92 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "3",
+        "DDF_type": "pefect",
+        "DDF_unit": "mg",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">=",
+        "operator2": "<=",
+        "parametertype_id": 5253,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1083,
+        "text": null,
+        "translations": null,
+        "value": 2.7,
+        "value2": "3.75"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "3",
+        "DDF_type": "OK",
+        "DDF_unit": "mg",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">=",
+        "operator2": "<",
+        "parametertype_id": 5253,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1083,
+        "text": null,
+        "translations": null,
+        "value": 2.4,
+        "value2": "2.7"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "3",
+        "DDF_type": "OK",
+        "DDF_unit": "mg",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 5253,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1083,
+        "text": null,
+        "translations": null,
+        "value": 3.75,
+        "value2": "4.5"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "3",
+        "DDF_type": "not OK",
+        "DDF_unit": "mg",
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "<",
+        "operator2": ">",
+        "parametertype_id": 5253,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1083,
+        "text": null,
+        "translations": null,
+        "value": 2.4,
+        "value2": "4.5"
+      }
+    }
+  ]
+}
