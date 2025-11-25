@@ -91,6 +91,28 @@
     {
       "action": "create",
       "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5548,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
         "color": "green",
         "column": 0,
         "DDF_target_value": "≤1x 10²",
@@ -179,6 +201,28 @@
     {
       "action": "create",
       "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5549,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
         "color": "green",
         "column": 0,
         "DDF_target_value": "≤1x 10²",
@@ -262,6 +306,28 @@
         "translations": null,
         "value": 100,
         "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5550,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
       }
     },
     {
@@ -355,6 +421,28 @@
     {
       "action": "create",
       "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10",
+        "DDF_type": "",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5551,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
         "color": "green",
         "column": 0,
         "DDF_target_value": "≤1x 10²",
@@ -438,6 +526,28 @@
         "translations": null,
         "value": 100,
         "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5552,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
       }
     },
     {
@@ -531,6 +641,28 @@
     {
       "action": "create",
       "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5553,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
         "color": "green",
         "column": 0,
         "DDF_target_value": "≤1x 10²",
@@ -619,6 +751,28 @@
     {
       "action": "create",
       "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1x 10²",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5554,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
         "color": "green",
         "column": 0,
         "DDF_target_value": "absent in 25 g",
@@ -680,6 +834,28 @@
         "translations": null,
         "value": 0,
         "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "absent in 25 g",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 5555,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
       }
     },
     {
@@ -768,6 +944,28 @@
         "translations": null,
         "value": 10000,
         "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "≤1×10⁴",
+        "DDF_type": "not OK",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 11921,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": "positiv",
+        "value2": "positive"
       }
     }
   ]
