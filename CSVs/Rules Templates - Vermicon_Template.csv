@@ -1,5 +1,0 @@
-spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
-,1,0,0,,11946,,Living,perfect,green,!=,"""""",,,,,,
-,1,0,0,,11947,,Dead,perfect,green,!=,"""""",,,,,,
-,1,0,0,,11948,,Total,perfect,green,!=,"""""",,,,,,
-,1,0,0,,11949,,Share,perfect,green,!=,"""""",,,,,,

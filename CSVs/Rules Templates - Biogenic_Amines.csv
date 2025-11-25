@@ -1,4 +1,0 @@
-spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
-,1,0,0,,5253,,Spermidine,,,,,,,,,,
-,1,0,0,,5254,,Spermine,perfect,green,!=,"""""",,,,,,
-,1,0,0,,11917,,"Biogenic amines, spermidine/spermine",perfect,green,!=,"""""",,,,,,

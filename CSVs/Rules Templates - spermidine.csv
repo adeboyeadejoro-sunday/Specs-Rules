@@ -1,5 +1,0 @@
-spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
-1083,1,0,0,mg,5253,3,Spermidine,pefect,green,>=,2.7,AND,<=,3.75,,,
-1083,1,0,0,mg,5253,3,Spermidine,OK,orange,>=,2.4,AND,<,2.7,,,
-1083,1,0,0,mg,5253,3,Spermidine,OK,orange,>,3.75,AND,<=,4.5,,,
-1083,1,0,0,mg,5253,3,Spermidine,not OK,red,<,2.4,OR,>,4.5,,,

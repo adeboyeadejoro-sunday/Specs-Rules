@@ -1,6 +1,0 @@
-spec_id,column,DDF_unit,inverse,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,show,text,translations
-,0,,0,5500,,Anisidine value,perfect,green,!=,"""""",,,,,1,,
-,0,,0,5501,,Number of peroxides,perfect,green,!=,"""""",,,,,1,,
-,0,,0,11677,<10,Totox number,perfect,green,<=,10,,,,,1,,
-,0,,0,11677,<10,Totox number,OK,orange,>,10,AND,<=,26,,1,,
-,0,,0,11677,<10,Totox number,not OK,red,>,26,,,,,1,,

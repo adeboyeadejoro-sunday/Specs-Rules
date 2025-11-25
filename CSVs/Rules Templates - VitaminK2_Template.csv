@@ -1,8 +1,0 @@
-spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
-,1,0,0,,5506,,Vitamin K2 / Menaquinone-4 (MK4),perfect,green,!=,"""""",,,,,,
-,1,0,0,,5507,,Vitamin K2 / Menaquinone-7 (MK7),perfect,green,!=,"""""",,,,,,
-,1,0,0,,5508,,Vitamin K2 / menaquinone (MK7)*,perfect,green,!=,"""""",,,,,,
-,1,0,0,µg,11479,5µg,"Vitamin K2, MK4/MK7",perfect,green,>=,4.5,AND,<=,6.25,,,
-,1,0,0,µg,11479,5µg,"Vitamin K2, MK4/MK7",OK,orange,>=,4,AND,<,4.5,,,
-,1,0,0,µg,11479,5µg,"Vitamin K2, MK4/MK7",OK,orange,>,6.25,AND,<=,7.5,,,
-,1,0,0,µg,11479,5µg,"Vitamin K2, MK4/MK7",not OK,red,<,4,OR,>,7.5,,,
