@@ -27,9 +27,10 @@ python update_spec_id.py --in Rules_20251105.json --spec-id 789 --inplace
 note: can accept multiple inputs
 
 **remove_parameter.py**
+*python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 --in-place*
 python remove_parameter.py --in ICP_Template.json --param-id 5282 --out ICP_Template_no5282.json
 python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 5284 --out ICP_Template_filtered.json
-python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 --in-place
+
 
 
 **generate_standalone_rules.py**
@@ -88,4 +89,7 @@ python add_sample_number.py --to PDF_Reports/Report.pdf --label LIMS_Sample_ID -
 ***generate_fallback_xml.py***
 python generate_fallback_xml.py --from XMLGBAFallBackQuery_7447.json --out ~/Desktop/pool_7447.xml
 
-
+***convert_specs_csv_to_json.py***
+python convert_specs_csv_to_json.py --from "Create Exim Specification from Batch Table .csv" --to specs_output.json --delim ";"
+***convert_rules_csv_to_json.py***
+python convert_rules_csv_to_json.py --from "Rules Templates - Microbiology_Template.csv" --to "rules_output.json" --delim ","

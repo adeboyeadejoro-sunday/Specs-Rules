@@ -1,0 +1,15 @@
+{
+    "specs": [
+        {
+            "action": "create",
+            "data": {
+                "name": "POW-CBL-001",
+                "type": 263,
+                "status": 1,
+                "archiviert": 0,
+                "order": null,
+                "translations": null
+            }
+        }
+    ]
+}
