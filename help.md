@@ -54,6 +54,18 @@ python generate_standalone_rules.py \
   --param 5369 0 "mg/kg" qualitative \
   --qual "not detectable" "nicht nachw." \
   --out Qual_Rules_1083.json
+# dummy  
+python generate_standalone_rules.py \
+  --spec-id 1029 \
+  --param 5587 null null dummy \
+  --out Dummy_Rules_1029.json
+
+python generate_standalone_rules.py \
+  --spec-id 1083 \
+  --param 5253 3 mg active \
+  --param 7001 100 mg mineral \
+  --param 5587 null null dummy \
+  --out Rules.json  
 
 
 **range_calculator.py**
@@ -93,3 +105,18 @@ python generate_fallback_xml.py --from XMLGBAFallBackQuery_7447.json --out ~/Des
 python convert_specs_csv_to_json.py --from "Create Exim Specification from Batch Table .csv" --to specs_output.json --delim ";"
 ***convert_rules_csv_to_json.py***
 python convert_rules_csv_to_json.py --from "Rules Templates - Microbiology_Template.csv" --to "rules_output.json" --delim ","
+
+***export_rules_specs.py***
+python export_rules_specs.py \
+  --specs Specs_A.csv Specs_B.csv Specs_C.csv \
+  --out-specs merged_specs.json
+# rules
+python export_rules_specs.py \
+  --rules Rules_A.csv Rules_B.csv \
+  --out-rules merged_rules.json
+
+python export_rules_specs.py \
+--specs Specs_A.csv Specs_B.csv \
+--out-specs merged_specs.json \
+--rules Rules_A.csv Rules_B.csv \
+--out-rules merged_rules.json

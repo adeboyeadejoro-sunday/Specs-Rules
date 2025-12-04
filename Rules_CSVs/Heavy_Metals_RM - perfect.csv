@@ -1,0 +1,5 @@
+spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
+1037,1,0,0,,5284,0.2,Arsenic_10563,perfect,green,<=,0.06,,,,,,
+1037,1,0,0,,5286,0.2,Lead_10773,perfect,green,<=,0.06,,,,,,
+1037,1,0,0,,5288,0.3,Cadmium_10783,perfect,green,<=,0.09,,,,,,
+1037,1,0,0,,5302,0.02,Mercury_10943,perfect,green,<=,0.006,,,,,,
