@@ -1,5 +1,0 @@
-spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
-1037,1,0,0,,5284,0.2,Arsenic_10563,not OK,red,>,0.2,,,,,,
-1037,1,0,0,,5286,0.2,Lead_10773,not OK,red,>,0.2,,,,,,
-1037,1,0,0,,5288,0.3,Cadmium_10783,not OK,red,>,0.3,,,,,,
-1037,1,0,0,,5302,0.02,Mercury_10943,not OK,red,>,0.02,,,,,,

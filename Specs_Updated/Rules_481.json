@@ -1,0 +1,114 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": 28.0,
+        "DDF_type": "perfect",
+        "DDF_unit": "mg/2capsules",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">=",
+        "operator2": "<=",
+        "parametertype_id": 11936,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 481,
+        "text": null,
+        "translations": null,
+        "value": 25.2,
+        "value2": 35.0
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": 28.0,
+        "DDF_type": "OK",
+        "DDF_unit": "mg/2capsules",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">=",
+        "operator2": "<",
+        "parametertype_id": 11936,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 481,
+        "text": null,
+        "translations": null,
+        "value": 22.4,
+        "value2": 25.2
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": 28.0,
+        "DDF_type": "OK",
+        "DDF_unit": "mg/2capsules",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 11936,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 481,
+        "text": null,
+        "translations": null,
+        "value": 35.0,
+        "value2": 42.0
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": 28.0,
+        "DDF_type": "not OK",
+        "DDF_unit": "mg/2capsules",
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "<",
+        "operator2": ">",
+        "parametertype_id": 11936,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 481,
+        "text": null,
+        "translations": null,
+        "value": 22.4,
+        "value2": 42.0
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": null,
+        "inverse": 0,
+        "linker": null,
+        "operator": "!=",
+        "operator2": null,
+        "parametertype_id": 11481,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 481,
+        "text": null,
+        "translations": null,
+        "value": "",
+        "value2": null
+      }
+    }
+  ]
+}

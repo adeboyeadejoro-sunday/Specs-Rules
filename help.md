@@ -31,6 +31,11 @@ note: can accept multiple inputs
 python remove_parameter.py --in ICP_Template.json --param-id 5282 --out ICP_Template_no5282.json
 python remove_parameter.py --in ICP_Template.json --param-id 5282 5283 5284 --out ICP_Template_filtered.json
 
+***update_spec_id.py + remove_parameter.py***
+python scripts/update_spec_id.py --in Templates/ICP_Template.json --spec-id 1166 --out Specs_Updated/ICP_1166.json \
+&& python scripts/remove_parameter.py --in Specs_Updated/ICP_1166.json --param-id 5292 --in-place
+
+
 
 
 **generate_standalone_rules.py**
