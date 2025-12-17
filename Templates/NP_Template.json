@@ -1,0 +1,224 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "0.01",
+        "DDF_type": "perfect",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 12050,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 12051,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 12052,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 12053,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": null,
+        "DDF_type": "perfect",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 12054,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "0.01",
+        "DDF_type": "not OK",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 12050,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "0.01",
+        "DDF_type": "not OK",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 12051,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "0.01",
+        "DDF_type": "not OK",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 12052,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "0.01",
+        "DDF_type": "not OK",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 12053,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "0.01",
+        "DDF_type": "not OK",
+        "DDF_unit": "mg/kg",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 12054,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": null,
+        "text": null,
+        "translations": null,
+        "value": 0.01,
+        "value2": null
+      }
+    }
+  ]
+}

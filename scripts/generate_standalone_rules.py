@@ -333,7 +333,7 @@ def build_dummy_rules(ps: ParamSpec, spec_id: int) -> List[Dict[str, Any]]:
         ddf_type="perfect",
         color="green",
         operator="!=",
-        value="",
+        value='""',
     ))
 
     return [rule]

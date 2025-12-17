@@ -1,0 +1,268 @@
+{
+  "rules": [
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "perfect",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 11977,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "perfect",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 11978,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "perfect",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": "<=",
+        "operator2": null,
+        "parametertype_id": 11979,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "green",
+        "column": 0,
+        "DDF_target_value": "absent",
+        "DDF_type": "perfect",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "=",
+        "operator2": "=",
+        "parametertype_id": 11980,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": "negativ",
+        "value2": "nicht nachw."
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 11977,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": "10"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 11978,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": "10"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "orange",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": "AND",
+        "operator": ">",
+        "operator2": "<=",
+        "parametertype_id": 11979,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 3,
+        "value2": "10"
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "",
+        "column": 0,
+        "DDF_target_value": "absent",
+        "DDF_type": "",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": "",
+        "operator2": null,
+        "parametertype_id": 11980,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": null,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "not OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 11977,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 10,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "not OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 11978,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 10,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "10",
+        "DDF_type": "not OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": null,
+        "operator": ">",
+        "operator2": null,
+        "parametertype_id": 11979,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": 10,
+        "value2": null
+      }
+    },
+    {
+      "action": "create",
+      "data": {
+        "color": "red",
+        "column": 0,
+        "DDF_target_value": "absent",
+        "DDF_type": "not OK",
+        "DDF_unit": "CFU/g",
+        "inverse": 0,
+        "linker": "OR",
+        "operator": "!=",
+        "operator2": "!=",
+        "parametertype_id": 11980,
+        "regex_filter": null,
+        "show": 1,
+        "spec_id": 1278,
+        "text": null,
+        "translations": null,
+        "value": "negativ",
+        "value2": "nicht nachw."
+      }
+    }
+  ]
+}
