@@ -1,0 +1,1660 @@
+{
+    "parametertypes": [
+        {
+            "action": "create",
+            "data": {
+                "name": "Tierarzneimittel Screening",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "40558",
+                "translations": {
+                    "en": {
+                        "name": "Veterinary drugs screening",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Chloramphenicol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35843",
+                "translations": {
+                    "en": {
+                        "name": "Chloramphenicol",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Florfenicol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32951",
+                "translations": {
+                    "en": {
+                        "name": "Florfenicol",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Thiamphenicol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38173",
+                "translations": {
+                    "en": {
+                        "name": "Thiamphenicol",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Albendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38174",
+                "translations": {
+                    "en": {
+                        "name": "Albendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Albendazol-2-aminosulfon",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38177",
+                "translations": {
+                    "en": {
+                        "name": "Albendazole-2-aminosulfon",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Albendazolsulfon",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38175",
+                "translations": {
+                    "en": {
+                        "name": "Albendazole sulfon",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Albendazolsulfoxid",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38176",
+                "translations": {
+                    "en": {
+                        "name": "Albendazole sulfoxide",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Cambendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38178",
+                "translations": {
+                    "en": {
+                        "name": "Cambendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Febantel",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35935",
+                "translations": {
+                    "en": {
+                        "name": "Febantel",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Fenbendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32919",
+                "translations": {
+                    "en": {
+                        "name": "Fenbendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Flubendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "36766",
+                "translations": {
+                    "en": {
+                        "name": "Flubendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "2-Aminoflubendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38179",
+                "translations": {
+                    "en": {
+                        "name": "2-Aminoflubendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Levamisol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38180",
+                "translations": {
+                    "en": {
+                        "name": "Levamisole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Mebendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38185",
+                "translations": {
+                    "en": {
+                        "name": "Mebendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Mebendazolamin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38186",
+                "translations": {
+                    "en": {
+                        "name": "Mebendazoleamine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "5-Hydroxymebendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38187",
+                "translations": {
+                    "en": {
+                        "name": "5-Hydroxymebendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Oxfendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38188",
+                "translations": {
+                    "en": {
+                        "name": "Oxfendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Oxfendazolsulfon",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38189",
+                "translations": {
+                    "en": {
+                        "name": "Oxfendazole sulfon",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Oxibendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38190",
+                "translations": {
+                    "en": {
+                        "name": "Oxibendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Thiabendazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38373",
+                "translations": {
+                    "en": {
+                        "name": "Thiabendazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Thiabendazol,5-OH (Metab)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34402",
+                "translations": {
+                    "en": {
+                        "name": "Thiabendazole, 5-OH (Metab)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Cinoxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35179",
+                "translations": {
+                    "en": {
+                        "name": "Cinoxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ciprofloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "22683",
+                "translations": {
+                    "en": {
+                        "name": "Ciprofloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Danofloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "27493",
+                "translations": {
+                    "en": {
+                        "name": "Danofloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Difloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "27503",
+                "translations": {
+                    "en": {
+                        "name": "Difloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Enoxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35168",
+                "translations": {
+                    "en": {
+                        "name": "Enoxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Enrofloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "22693",
+                "translations": {
+                    "en": {
+                        "name": "Enrofloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Flumequin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34112",
+                "translations": {
+                    "en": {
+                        "name": "Flumequine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Lomefloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35172",
+                "translations": {
+                    "en": {
+                        "name": "Lomefloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Marbofloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32959",
+                "translations": {
+                    "en": {
+                        "name": "Marbofloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Nalidixinsäure",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35171",
+                "translations": {
+                    "en": {
+                        "name": "Nalidixic acid",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Norfloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "27513",
+                "translations": {
+                    "en": {
+                        "name": "Norfloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ofloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34536",
+                "translations": {
+                    "en": {
+                        "name": "Ofloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Oxolinsäure",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32882",
+                "translations": {
+                    "en": {
+                        "name": "Oxolinic acid",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sarafloxacin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "27523",
+                "translations": {
+                    "en": {
+                        "name": "Sarafloxacin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Clindamycin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34456",
+                "translations": {
+                    "en": {
+                        "name": "Clindamycin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Erythromycin A",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "37607",
+                "translations": {
+                    "en": {
+                        "name": "Erythromycin A",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Josamycin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35229",
+                "translations": {
+                    "en": {
+                        "name": "Josamycin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Roxithromycin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35531",
+                "translations": {
+                    "en": {
+                        "name": "Roxithromycin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Spiramycin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "31603",
+                "translations": {
+                    "en": {
+                        "name": "Spiramycin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Tiamulin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35432",
+                "translations": {
+                    "en": {
+                        "name": "Tiamulin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Tilmicosin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "31613",
+                "translations": {
+                    "en": {
+                        "name": "Tilmicosin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Tylosin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "31623",
+                "translations": {
+                    "en": {
+                        "name": "Tylosin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Lincomycin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "31593",
+                "translations": {
+                    "en": {
+                        "name": "Lincomycin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Dimetridazol (DMZ)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "33685",
+                "translations": {
+                    "en": {
+                        "name": "Dimetridazole (DMZ)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "HMMNI Metabolit (DMZ-OH und RNZ-OH)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38192",
+                "translations": {
+                    "en": {
+                        "name": "HMMNI metabolite (DMZ-OH and RNZ-OH)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ipronidazol (IPZ)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38193",
+                "translations": {
+                    "en": {
+                        "name": "Ipronidazole (IPZ)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ipronidazol Metabolit (IPZ-OH)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38194",
+                "translations": {
+                    "en": {
+                        "name": "Ipronidazole metabolite (IPZ-OH)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Metronidazol (MNZ)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "33683",
+                "translations": {
+                    "en": {
+                        "name": "Metronidazole (MNZ)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Metronidazol Metabolit (MNZ-OH)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38195",
+                "translations": {
+                    "en": {
+                        "name": "Metronidazole metabolite (MNZ-OH)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ronidazol, fest (RNZ)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "33684",
+                "translations": {
+                    "en": {
+                        "name": "Ronidazole, solid (RNZ)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfabenzamid",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29673",
+                "translations": {
+                    "en": {
+                        "name": "Sulfabenzamide",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfacetamid",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29683",
+                "translations": {
+                    "en": {
+                        "name": "Sulfacetamide",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfachlorpyridazin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29693",
+                "translations": {
+                    "en": {
+                        "name": "Sulfachlorpyridazine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfaclozin (= Sulfachlorpyrazin)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34960",
+                "translations": {
+                    "en": {
+                        "name": "Sulfaclozine (= sulfachloropyrazine)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfadiazin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29703",
+                "translations": {
+                    "en": {
+                        "name": "Sulfadiazine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfadimethoxin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29713",
+                "translations": {
+                    "en": {
+                        "name": "Sulfadimethoxine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfadoxin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29733",
+                "translations": {
+                    "en": {
+                        "name": "Sulfadoxine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfamerazin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29763",
+                "translations": {
+                    "en": {
+                        "name": "Sulfamerazine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfameter",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29773",
+                "translations": {
+                    "en": {
+                        "name": "Sulfameter",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfadimidin (=Sulfamethazin)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32672",
+                "translations": {
+                    "en": {
+                        "name": "Sulfadimidine (=sulfamethazine)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfamethizol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34961",
+                "translations": {
+                    "en": {
+                        "name": "Sulfamethizole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfamethoxazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29793",
+                "translations": {
+                    "en": {
+                        "name": "Sulfamethoxazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfamethoxypyridazin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29803",
+                "translations": {
+                    "en": {
+                        "name": "Sulfamethoxypyridazine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfamonomethoxin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "34958",
+                "translations": {
+                    "en": {
+                        "name": "Sulfamonomethoxine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfaphenazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "36980",
+                "translations": {
+                    "en": {
+                        "name": "Sulfaphenazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfapyridin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29833",
+                "translations": {
+                    "en": {
+                        "name": "Sulfapyridine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfaquinoxalin (= Sulfachinoxalin)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29853",
+                "translations": {
+                    "en": {
+                        "name": "Sulfaquinoxaline (= sulfachinoxaline)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfathiazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29843",
+                "translations": {
+                    "en": {
+                        "name": "Sulfathiazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfisomidin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "36981",
+                "translations": {
+                    "en": {
+                        "name": "Sulfisomidine",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Sulfisoxazol",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29743",
+                "translations": {
+                    "en": {
+                        "name": "Sulfisoxazole",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Dapson",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35535",
+                "translations": {
+                    "en": {
+                        "name": "Dapsone",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ormethoprim",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35534",
+                "translations": {
+                    "en": {
+                        "name": "Ormethoprim",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Trimethoprim",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "33370",
+                "translations": {
+                    "en": {
+                        "name": "Trimethoprim",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Chlortetracyclin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29663",
+                "translations": {
+                    "en": {
+                        "name": "Chlortetracycline",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Doxycyclin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29653",
+                "translations": {
+                    "en": {
+                        "name": "Doxycycline",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Oxytetracyclin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29643",
+                "translations": {
+                    "en": {
+                        "name": "Oxytetracycline",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Tetracyclin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "29633",
+                "translations": {
+                    "en": {
+                        "name": "Tetracycline",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Malachitgrün",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32939",
+                "translations": {
+                    "en": {
+                        "name": "Malachite green",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Leukomalachitgrün",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32940",
+                "translations": {
+                    "en": {
+                        "name": "Leucomalachite green",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Kristallviolett (C.I. 42555)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32941",
+                "translations": {
+                    "en": {
+                        "name": "Crystal violet (C.I. 42555)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Leukokristallviolett",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "32942",
+                "translations": {
+                    "en": {
+                        "name": "Leukocrystal violet",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Brillantgrün",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "30023",
+                "translations": {
+                    "en": {
+                        "name": "Brilliant green",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Methicillin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "38191",
+                "translations": {
+                    "en": {
+                        "name": "Methicillin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Penicillin G (Benzyl-)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35383",
+                "translations": {
+                    "en": {
+                        "name": "Penicillin G (benzyl)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Penicillin V (Phenoxymethyl-)",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35381",
+                "translations": {
+                    "en": {
+                        "name": "Penicillin V (phenoxymethyl)",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Cloxacillin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35384",
+                "translations": {
+                    "en": {
+                        "name": "Cloxacillin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Dicloxacillin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35386",
+                "translations": {
+                    "en": {
+                        "name": "Dicloxacillin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Nafcillin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35387",
+                "translations": {
+                    "en": {
+                        "name": "Nafcillin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Oxacillin",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35385",
+                "translations": {
+                    "en": {
+                        "name": "Oxacillin",
+                        "einheit": ""
+                    }
+                }
+            }
+        },
+        {
+            "action": "create",
+            "data": {
+                "name": "Ceftiofur",
+                "group_id": "207",
+                "DDF_days": "",
+                "DDF_price": "",
+                "description": "",
+                "einheit": "",
+                "DDF_GBAID": "35392",
+                "translations": {
+                    "en": {
+                        "name": "Ceftiofur",
+                        "einheit": ""
+                    }
+                }
+            }
+        }
+    ]
+}

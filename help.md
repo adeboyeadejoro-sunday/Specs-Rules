@@ -125,3 +125,9 @@ python export_rules_specs.py \
 --out-specs merged_specs.json \
 --rules Rules_A.csv Rules_B.csv \
 --out-rules merged_rules.json
+
+***convert_params_csv_to_json.py***
+python convert_params_csv_to_json.py --csv "New Parameters - params.csv" --out "parameters_upload.json"
+
+***convert_packages_csv_to_json.py***
+python convert_packages_csv_to_json.py --csv "New Parameters - packages.csv" --out "packages_upload.json"
