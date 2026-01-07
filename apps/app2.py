@@ -129,7 +129,7 @@ def parse_number_with_locale_and_unit(raw: str) -> ParsedNumber:
     - Extracts unit suffix like 'mg' if present.
     """
     s = (raw or "").strip()
-    if s == "":
+    if s == "" or s.lower() == "null":
         return ParsedNumber(value=None, extracted_unit=None, had_unit_text=False, error=None)
 
     m = _UNIT_RE.match(s)
