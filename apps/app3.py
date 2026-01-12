@@ -3,9 +3,9 @@
 app.py — Exim Int Lab Rules Generator (Streamlit)
 
 Supports mixed per-parameter modes in a single run:
-- Mode A: normal (single threshold)
-- Mode B: dummy (perfect != "")
-- Mode C: upper bound (density only; lower + upper)
+- Lower bound only: normal (single threshold)
+- Dummy mode: perfect != "" (LIMS expects literal '""' string)
+- Lower / upper bound: density only; lower + upper
 
 Rules are generated Apps Script / LIMS compatible.
 """
@@ -16,12 +16,22 @@ import json
 from dataclasses import dataclass
 from datetime import datetime
 from decimal import Decimal, ROUND_HALF_UP, InvalidOperation
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
 import streamlit as st
 
 
 # ----------------------------- Constants -----------------------------
+
+MODE_LOWER_ONLY: str = "lower"
+MODE_DUMMY: str = "dummy"
+MODE_LOWER_UPPER: str = "lower_upper"
+
+MODE_LABELS: Dict[str, str] = {
+    MODE_LOWER_ONLY: "Lower bound only",
+    MODE_DUMMY: "Dummy mode",
+    MODE_LOWER_UPPER: "Lower / upper bound",
+}
 
 Q4 = Decimal("0.0001")
 
@@ -30,17 +40,13 @@ def q4(x: Decimal) -> Decimal:
     return x.quantize(Q4, rounding=ROUND_HALF_UP)
 
 
-def clamp0(x: Decimal) -> Decimal:
-    return x if x >= Decimal("0") else Decimal("0")
-
-
 # ----------------------------- Parameters -----------------------------
 
 @dataclass(frozen=True)
 class Param:
     id: int
     name: str
-    kind: str      # density | moisture | mesh
+    kind: str  # density | moisture | mesh
     default_unit: Optional[str]
 
 
@@ -55,7 +61,6 @@ PARAMS: List[Param] = [
     Param(12032, "Mesh Size 80", "mesh", "%"),
     Param(12033, "Mesh Size 100", "mesh", "%"),
 ]
-
 
 DENSITY_IDS = {11194, 11974}
 
@@ -120,9 +125,9 @@ def main() -> None:
 
     with st.sidebar:
         st.subheader("Global")
-        spec_raw = st.text_input("spec_id", placeholder="e.g. 4906")
-        fname_prefix = st.text_input("Filename prefix", value="Rules_Exim")
-        show_preview = st.checkbox("Show preview", value=True)
+        spec_raw: str = st.text_input("spec_id", placeholder="e.g. 4906")
+        fname_prefix: str = st.text_input("Filename prefix", value="Rules_Exim")
+        show_preview: bool = st.checkbox("Show preview", value=True)
 
     # spec_id validation
     spec_id: Optional[int] = None
@@ -134,7 +139,7 @@ def main() -> None:
 
     st.markdown("### Parameters")
 
-    headers = st.columns([3, 1.3, 1.2, 1.2, 1.2])
+    headers = st.columns([3, 1.5, 1.3, 1.3, 1.2])
     headers[0].markdown("**Parameter**")
     headers[1].markdown("**Mode**")
     headers[2].markdown("**Target / Lower**")
@@ -150,15 +155,22 @@ def main() -> None:
     warnings: List[str] = []
 
     for p in PARAMS:
-        cols = st.columns([3, 1.3, 1.2, 1.2, 1.2])
+        cols = st.columns([3, 1.5, 1.3, 1.3, 1.2])
 
         cols[0].write(f"{p.name}\n`{p.id}`")
 
+        # Mode selector:
+        # - density params: can choose among all 3
+        # - others: only Lower bound only or Dummy mode (no Upper bound mode)
+        if p.id in DENSITY_IDS:
+            mode_options = [MODE_LOWER_ONLY, MODE_DUMMY, MODE_LOWER_UPPER]
+        else:
+            mode_options = [MODE_LOWER_ONLY, MODE_DUMMY]
+
         mode = cols[1].selectbox(
             "",
-            ["Mode A", "Mode B", "Mode C"],
-            index=0 if p.id not in DENSITY_IDS else 0,
-            disabled=(p.id not in DENSITY_IDS),
+            options=mode_options,
+            format_func=lambda k: MODE_LABELS[k],
             key=f"mode_{p.id}",
         )
         modes[p.id] = mode
@@ -167,44 +179,42 @@ def main() -> None:
         target_val: Optional[Decimal] = None
         upper_val: Optional[Decimal] = None
 
-        if mode == "Mode B":
+        if mode == MODE_DUMMY:
             cols[2].write("—")
             cols[3].write("—")
-        elif mode == "Mode A":
+        elif mode == MODE_LOWER_ONLY:
             t_raw = cols[2].text_input("", key=f"t_{p.id}")
             target_val = parse_decimal(t_raw)
             cols[3].write("—")
-        else:  # Mode C
+        elif mode == MODE_LOWER_UPPER:
             t_raw = cols[2].text_input("", key=f"l_{p.id}")
             u_raw = cols[3].text_input("", key=f"u_{p.id}")
             target_val = parse_decimal(t_raw)
             upper_val = parse_decimal(u_raw)
+        else:
+            raise RuntimeError(f"Unknown mode: {mode}")
 
-        # clamp negatives
+        # clamp negatives (and warn)
         if target_val is not None and target_val < 0:
             target_val = Decimal("0")
-            warnings.append(f"{p.name}: lower/target clamped to 0")
+            warnings.append(f"{p.name}: lower/target was negative and was clamped to 0")
 
         if upper_val is not None and upper_val < 0:
             upper_val = Decimal("0")
-            warnings.append(f"{p.name}: upper bound clamped to 0")
+            warnings.append(f"{p.name}: upper bound was negative and was clamped to 0")
 
-        # auto-swap
-        if mode == "Mode C" and target_val is not None and upper_val is not None:
+        # auto-swap for lower/upper mode (and warn)
+        if mode == MODE_LOWER_UPPER and target_val is not None and upper_val is not None:
             if target_val >= upper_val:
                 target_val, upper_val = upper_val, target_val
-                warnings.append(f"{p.name}: lower ≥ upper — values auto-swapped")
+                warnings.append(f"{p.name}: lower ≥ upper — values were auto-swapped")
 
         targets[p.id] = target_val
         uppers[p.id] = upper_val
 
-        # unit
-        if p.default_unit:
-            unit_val = cols[4].text_input(
-                "",
-                value=p.default_unit,
-                key=f"unit_{p.id}",
-            )
+        # unit (editable)
+        if p.default_unit is not None:
+            unit_val = cols[4].text_input("", value=p.default_unit, key=f"unit_{p.id}")
         else:
             unit_val = cols[4].text_input("", key=f"unit_{p.id}")
 
@@ -224,8 +234,8 @@ def main() -> None:
             t = targets[p.id]
             u = uppers[p.id]
 
-            # ---------------- Mode B ----------------
-            if mode == "Mode B":
+            # ---------------- Dummy mode ----------------
+            if mode == MODE_DUMMY:
                 rules.append(
                     rule(
                         spec_id=spec_id,
@@ -233,7 +243,7 @@ def main() -> None:
                         ddf_type="perfect",
                         color="green",
                         operator="!=",
-                        value='""',   # CRITICAL
+                        value='""',  # CRITICAL: LIMS expects literal "" string here
                         linker=None,
                         operator2=None,
                         value2=None,
@@ -243,9 +253,10 @@ def main() -> None:
                 )
                 continue
 
-            # ---------------- Mode A ----------------
-            if mode == "Mode A":
+            # ---------------- Lower bound only ----------------
+            if mode == MODE_LOWER_ONLY:
                 if t is None:
+                    # If no threshold provided, skip generating rules for this param
                     continue
 
                 if p.kind == "moisture":
@@ -313,9 +324,12 @@ def main() -> None:
                     )
                 continue
 
-            # ---------------- Mode C (density only) ----------------
-            if mode == "Mode C":
-                if p.id not in DENSITY_IDS or t is None or u is None:
+            # ---------------- Lower / upper bound (density only) ----------------
+            if mode == MODE_LOWER_UPPER:
+                if p.id not in DENSITY_IDS:
+                    # Shouldn't happen due to UI options, but keep safe
+                    continue
+                if t is None or u is None:
                     continue
 
                 rules.append(
@@ -348,8 +362,11 @@ def main() -> None:
                         unit=unit,
                     )
                 )
+                continue
 
-        payload = {"rules": rules}
+            raise RuntimeError(f"Unknown mode: {mode}")
+
+        payload: Dict[str, Any] = {"rules": rules}
 
         if show_preview:
             st.markdown("### Preview")
