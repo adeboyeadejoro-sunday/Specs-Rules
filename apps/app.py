@@ -6,8 +6,9 @@ Streamlit UI for generate_standalone_rules.py (CLI behavior preserved strictly)
 - In-memory JSON generation + Download button
 - Same rule-building logic as the CLI version
 - Dummy mode keeps value='""' (literal quotes) as required by LIMS
-- Reset button: resets rows + outputs (keeps widget states mostly as-is)
+- Reset button: resets rows + outputs (does NOT force-reset widget-backed values)
 - Clear all button: hard-resets spec_id + all row widgets + qualitative texts + outputs
+  (implemented via a deferred pre-widget hook to avoid StreamlitAPIException)
 """
 
 from __future__ import annotations
@@ -518,31 +519,6 @@ def default_row() -> ParamRow:
     }
 
 
-def clear_all_form_state() -> None:
-    """
-    Hard reset: clears widget states + data rows + outputs.
-    This is stronger than "Reset" and is what you want for "Clear all".
-    """
-    # Reset the logical rows
-    st.session_state["rows"] = [default_row()]
-
-    # Reset spec + qualitative widget values
-    st.session_state["spec_id"] = 0
-    st.session_state["qual_en"] = ""
-    st.session_state["qual_de"] = ""
-
-    # Clear any per-row widget keys from prior renders (important with dynamic rows)
-    prefixes = ("pid_", "mode_", "t_null_", "t_val_", "u_null_", "u_val_", "rm_")
-    for k in list(st.session_state.keys()):
-        if k.startswith(prefixes):
-            st.session_state.pop(k, None)
-
-    # Clear generated outputs
-    st.session_state["generated_json"] = None
-    st.session_state["generated_filename"] = None
-    st.session_state["generated_rules_count"] = 0
-
-
 def get_berlin_now() -> datetime:
     if ZoneInfo is None:
         return datetime.now()
@@ -642,19 +618,48 @@ def build_rules_from_specs(
     return all_rules
 
 
-def rule_count_for(ps: ParamSpec) -> int:
-    if ps.mode in ("active", "mineral", "limit3"):
-        if ps.target == 0:
-            return 2
-    if ps.mode in ("active", "mineral"):
-        return 4
-    if ps.mode == "limit3":
-        return 3
-    if ps.mode in ("limit2", "qualitative"):
-        return 2
-    if ps.mode == "dummy":
-        return 1
-    return 0
+def request_clear_all() -> None:
+    """
+    Streamlit forbids assigning to st.session_state['spec_id'] AFTER the widget
+    with key='spec_id' has been created in the current run.
+
+    So: set a flag, rerun, and perform the clear BEFORE widgets are instantiated.
+    """
+    st.session_state["do_clear_all"] = True
+
+
+def perform_clear_all_pre_widgets() -> None:
+    """
+    Must be called BEFORE any widgets are created.
+    Executes the hard reset when the do_clear_all flag is set.
+    """
+    if not st.session_state.get("do_clear_all", False):
+        return
+
+    # Reset logical data
+    st.session_state["rows"] = [default_row()]
+
+    # Reset widget-backed values (safe only pre-widgets)
+    st.session_state["spec_id"] = 0
+    st.session_state["qual_en"] = ""
+    st.session_state["qual_de"] = ""
+
+    # Clear dynamic widget keys from prior renders
+    prefixes = ("pid_", "mode_", "t_null_", "t_val_", "u_null_", "u_val_", "rm_")
+    for k in list(st.session_state.keys()):
+        if k.startswith(prefixes):
+            st.session_state.pop(k, None)
+
+    # Clear outputs
+    st.session_state["generated_json"] = None
+    st.session_state["generated_filename"] = None
+    st.session_state["generated_rules_count"] = 0
+
+    # Unset flag
+    st.session_state["do_clear_all"] = False
+
+    # Re-run to rebuild UI from clean state
+    st.rerun()
 
 
 # -----------------------------
@@ -664,6 +669,7 @@ def rule_count_for(ps: ParamSpec) -> int:
 st.set_page_config(page_title="Standalone Rules Generator", layout="wide")
 st.title("Standalone Rules Generator")
 
+# Ensure core state exists early
 if "rows" not in st.session_state:
     st.session_state["rows"] = [default_row()]
 if "generated_json" not in st.session_state:
@@ -672,24 +678,37 @@ if "generated_filename" not in st.session_state:
     st.session_state["generated_filename"] = None
 if "generated_rules_count" not in st.session_state:
     st.session_state["generated_rules_count"] = 0
+if "do_clear_all" not in st.session_state:
+    st.session_state["do_clear_all"] = False
+if "spec_id" not in st.session_state:
+    st.session_state["spec_id"] = 0
+if "qual_en" not in st.session_state:
+    st.session_state["qual_en"] = ""
+if "qual_de" not in st.session_state:
+    st.session_state["qual_de"] = ""
+
+# IMPORTANT: must happen BEFORE any widgets are instantiated
+perform_clear_all_pre_widgets()
 
 left, right = st.columns([1, 1], gap="large")
 
 with left:
     st.subheader("Inputs")
 
-    spec_id: int = st.number_input("spec_id", min_value=0, step=1, value=0, key="spec_id")
+    # Widget-backed: safe to read now, but don't write to st.session_state["spec_id"] directly anymore
+    spec_id: int = st.number_input("spec_id", min_value=0, step=1, value=int(st.session_state["spec_id"]), key="spec_id")
 
     rows: List[ParamRow] = cast(List[ParamRow], st.session_state["rows"])
 
     # If any row is qualitative, show qual inputs
     any_qual = any(r["mode"] == "qualitative" for r in rows)
-    qual_en = ""
-    qual_de = ""
     if any_qual:
         st.markdown("**Qualitative texts (required because at least one row is qualitative):**")
-        qual_en = st.text_input("qual_en (EN)", value="", key="qual_en")
-        qual_de = st.text_input("qual_de (DE)", value="", key="qual_de")
+        qual_en = st.text_input("qual_en (EN)", value=str(st.session_state["qual_en"]), key="qual_en")
+        qual_de = st.text_input("qual_de (DE)", value=str(st.session_state["qual_de"]), key="qual_de")
+    else:
+        qual_en = ""
+        qual_de = ""
 
     st.divider()
     st.markdown("**Parameters**")
@@ -780,13 +799,13 @@ with left:
         st.rerun()
 
     if add3.button("Clear all"):
-        clear_all_form_state()
+        request_clear_all()
         st.rerun()
 
     st.divider()
 
     if st.button("Generate JSON"):
-        # If qualitative not shown, ensure we still pass strings
+        # Ensure strings are present even if qualitative inputs are hidden
         if not any_qual:
             qual_en = ""
             qual_de = ""
@@ -797,7 +816,6 @@ with left:
                 st.error(e)
         else:
             param_specs = [to_param_spec(r) for r in rows]
-            # Preserve CLI behavior: qualitative requires --qual EN DE
             if any(ps.mode == "qualitative" for ps in param_specs) and (qual_en == "" or qual_de == ""):
                 st.error("Qualitative mode requires both qual_en and qual_de (non-empty).")
             else:
@@ -830,7 +848,6 @@ with right:
         )
         st.caption(f"Rules count: {rules_count}")
 
-        # Preview JSON (parsed)
         try:
             parsed = json.loads(generated.decode("utf-8"))
             st.json(parsed)
