@@ -6,6 +6,8 @@ Streamlit UI for generate_standalone_rules.py (CLI behavior preserved strictly)
 - In-memory JSON generation + Download button
 - Same rule-building logic as the CLI version
 - Dummy mode keeps value='""' (literal quotes) as required by LIMS
+- Reset button: resets rows + outputs (keeps widget states mostly as-is)
+- Clear all button: hard-resets spec_id + all row widgets + qualitative texts + outputs
 """
 
 from __future__ import annotations
@@ -13,7 +15,6 @@ from __future__ import annotations
 import json
 from dataclasses import dataclass
 from datetime import datetime
-from pathlib import Path
 from typing import Any, Dict, List, Literal, Optional, TypedDict, cast
 
 import streamlit as st
@@ -517,6 +518,31 @@ def default_row() -> ParamRow:
     }
 
 
+def clear_all_form_state() -> None:
+    """
+    Hard reset: clears widget states + data rows + outputs.
+    This is stronger than "Reset" and is what you want for "Clear all".
+    """
+    # Reset the logical rows
+    st.session_state["rows"] = [default_row()]
+
+    # Reset spec + qualitative widget values
+    st.session_state["spec_id"] = 0
+    st.session_state["qual_en"] = ""
+    st.session_state["qual_de"] = ""
+
+    # Clear any per-row widget keys from prior renders (important with dynamic rows)
+    prefixes = ("pid_", "mode_", "t_null_", "t_val_", "u_null_", "u_val_", "rm_")
+    for k in list(st.session_state.keys()):
+        if k.startswith(prefixes):
+            st.session_state.pop(k, None)
+
+    # Clear generated outputs
+    st.session_state["generated_json"] = None
+    st.session_state["generated_filename"] = None
+    st.session_state["generated_rules_count"] = 0
+
+
 def get_berlin_now() -> datetime:
     if ZoneInfo is None:
         return datetime.now()
@@ -532,7 +558,9 @@ def to_param_spec(row: ParamRow) -> ParamSpec:
         unit = None
     else:
         target = None if row["target_is_null"] else float(row["target_value"])
-        unit = None if row["unit_is_null"] else (row["unit_value"] if row["unit_value"] != "" else "")
+        unit = None if row["unit_is_null"] else (
+            row["unit_value"] if row["unit_value"] != "" else ""
+        )
 
     return ParamSpec(
         parametertype_id=int(row["parametertype_id"]),
@@ -572,7 +600,9 @@ def validate_inputs(spec_id: int, rows: List[ParamRow], qual_en: str, qual_de: s
     return errors
 
 
-def build_rules_from_specs(spec_id: int, param_specs: List[ParamSpec], qual_en: str, qual_de: str) -> List[Dict[str, Any]]:
+def build_rules_from_specs(
+    spec_id: int, param_specs: List[ParamSpec], qual_en: str, qual_de: str
+) -> List[Dict[str, Any]]:
     all_rules: List[Dict[str, Any]] = []
 
     for ps in param_specs:
@@ -648,7 +678,7 @@ left, right = st.columns([1, 1], gap="large")
 with left:
     st.subheader("Inputs")
 
-    spec_id: int = st.number_input("spec_id", min_value=0, step=1, value=0)
+    spec_id: int = st.number_input("spec_id", min_value=0, step=1, value=0, key="spec_id")
 
     rows: List[ParamRow] = cast(List[ParamRow], st.session_state["rows"])
 
@@ -658,8 +688,8 @@ with left:
     qual_de = ""
     if any_qual:
         st.markdown("**Qualitative texts (required because at least one row is qualitative):**")
-        qual_en = st.text_input("qual_en (EN)", value="")
-        qual_de = st.text_input("qual_de (DE)", value="")
+        qual_en = st.text_input("qual_en (EN)", value="", key="qual_en")
+        qual_de = st.text_input("qual_de (DE)", value="", key="qual_de")
 
     st.divider()
     st.markdown("**Parameters**")
@@ -735,7 +765,8 @@ with left:
                 st.rerun()
 
     st.write("")
-    add1, add2, _ = st.columns([1, 1, 6])
+    add1, add2, add3, _ = st.columns([1, 1, 1, 5])
+
     if add1.button("Add row"):
         rows.append(default_row())
         st.session_state["rows"] = rows
@@ -748,9 +779,18 @@ with left:
         st.session_state["generated_rules_count"] = 0
         st.rerun()
 
+    if add3.button("Clear all"):
+        clear_all_form_state()
+        st.rerun()
+
     st.divider()
 
     if st.button("Generate JSON"):
+        # If qualitative not shown, ensure we still pass strings
+        if not any_qual:
+            qual_en = ""
+            qual_de = ""
+
         errs = validate_inputs(spec_id, rows, qual_en, qual_de)
         if errs:
             for e in errs:
