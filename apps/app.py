@@ -9,6 +9,8 @@ Streamlit UI for generate_standalone_rules.py (CLI behavior preserved strictly)
 - Reset button: resets rows + outputs (does NOT force-reset widget-backed values)
 - Clear all button: hard-resets spec_id + all row widgets + qualitative texts + outputs
   (implemented via a deferred pre-widget hook to avoid StreamlitAPIException)
+- Param ID name preview: shows "Name (ID)" next to parametertype_id using:
+  Specs&Rules/data/Parameter_Map.json
 """
 
 from __future__ import annotations
@@ -16,6 +18,7 @@ from __future__ import annotations
 import json
 from dataclasses import dataclass
 from datetime import datetime
+from pathlib import Path
 from typing import Any, Dict, List, Literal, Optional, TypedDict, cast
 
 import streamlit as st
@@ -505,6 +508,49 @@ def build_dummy_rules(ps: ParamSpec, spec_id: int) -> List[Dict[str, Any]]:
 
 
 # -----------------------------
+# Param ID -> Name mapping
+# -----------------------------
+
+@st.cache_data(show_spinner=False)
+def load_param_map() -> Dict[int, str]:
+    """
+    Loads Specs&Rules/data/Parameter_Map.json and returns:
+      { Param_ID (int) -> Parameter Name EN (str) }
+    Cached to avoid re-reading/parsing on every rerun.
+    """
+    base_dir = Path(__file__).resolve().parent.parent  # Specs&Rules/
+    json_path = base_dir / "data" / "Parameter_Map.json"
+
+    if not json_path.exists():
+        st.warning(f"Parameter map file not found: {json_path}")
+        return {}
+
+    try:
+        raw = json.loads(json_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        st.error(f"Could not read parameter map JSON: {e}")
+        return {}
+
+    mapping: Dict[int, str] = {}
+    if isinstance(raw, list):
+        for row in raw:
+            if not isinstance(row, dict):
+                continue
+            pid = row.get("Param_ID")
+            name_en = row.get("Parameter Name EN")
+
+            try:
+                pid_int = int(pid)
+            except Exception:
+                continue
+
+            if isinstance(name_en, str) and name_en.strip():
+                mapping[pid_int] = name_en.strip()
+
+    return mapping
+
+
+# -----------------------------
 # Streamlit state helpers
 # -----------------------------
 
@@ -695,17 +741,25 @@ left, right = st.columns([1, 1], gap="large")
 with left:
     st.subheader("Inputs")
 
-    # Widget-backed: safe to read now, but don't write to st.session_state["spec_id"] directly anymore
-    spec_id: int = st.number_input("spec_id", min_value=0, step=1, value=int(st.session_state["spec_id"]), key="spec_id")
+    spec_id: int = st.number_input(
+        "spec_id",
+        min_value=0,
+        step=1,
+        value=int(st.session_state["spec_id"]),
+        key="spec_id",
+    )
 
     rows: List[ParamRow] = cast(List[ParamRow], st.session_state["rows"])
+
+    # Load param map once (cached)
+    param_map: Dict[int, str] = load_param_map()
 
     # If any row is qualitative, show qual inputs
     any_qual = any(r["mode"] == "qualitative" for r in rows)
     if any_qual:
         st.markdown("**Qualitative texts (required because at least one row is qualitative):**")
-        qual_en = st.text_input("qual_en (EN)", value=str(st.session_state["qual_en"]), key="qual_en")
-        qual_de = st.text_input("qual_de (DE)", value=str(st.session_state["qual_de"]), key="qual_de")
+        qual_en: str = st.text_input("qual_en (EN)", value=str(st.session_state["qual_en"]), key="qual_en")
+        qual_de: str = st.text_input("qual_de (DE)", value=str(st.session_state["qual_de"]), key="qual_de")
     else:
         qual_en = ""
         qual_de = ""
@@ -716,15 +770,24 @@ with left:
     # Render each row
     for idx, row in enumerate(rows):
         with st.container(border=True):
-            c1, c2, c3, c4 = st.columns([1.2, 1.2, 1.6, 0.8])
+            c1, c2, c3, c4 = st.columns([1.6, 1.2, 1.6, 0.9])
 
-            row["parametertype_id"] = c1.number_input(
+            # parametertype_id + name preview (next to it)
+            pid_col, name_col = c1.columns([1.0, 1.4], gap="small")
+            row["parametertype_id"] = pid_col.number_input(
                 f"parametertype_id (row {idx+1})",
                 min_value=0,
                 step=1,
                 value=int(row["parametertype_id"]),
                 key=f"pid_{idx}",
             )
+
+            pid_int = int(row["parametertype_id"])
+            pname = param_map.get(pid_int)
+            if pid_int <= 0 or pname is None:
+                name_col.caption("Unknown Param_ID")
+            else:
+                name_col.caption(f"{pname} ({pid_int})")
 
             row["mode"] = cast(
                 Mode,
@@ -805,11 +868,6 @@ with left:
     st.divider()
 
     if st.button("Generate JSON"):
-        # Ensure strings are present even if qualitative inputs are hidden
-        if not any_qual:
-            qual_en = ""
-            qual_de = ""
-
         errs = validate_inputs(spec_id, rows, qual_en, qual_de)
         if errs:
             for e in errs:
