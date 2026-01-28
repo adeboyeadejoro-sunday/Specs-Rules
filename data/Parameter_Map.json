@@ -890,8 +890,8 @@
     },
     {
         "Param_ID": 5375,
-        "Parameter Name DE": "Glyphosat \/ AMPA",
-        "Parameter Name EN": "Glyphosate \/ AMPA",
+        "Parameter Name DE": "Glyphosat \/ AMPA_39262",
+        "Parameter Name EN": "Glyphosate \/ AMPA_39262",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -7652,8 +7652,8 @@
     },
     {
         "Param_ID": 11359,
-        "Parameter Name DE": "Milchsäurebakterien",
-        "Parameter Name EN": "Lactic acid bacteria",
+        "Parameter Name DE": "Milchsäurebakterien_33004",
+        "Parameter Name EN": "Lactic acid bacteria_33004",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -8598,7 +8598,7 @@
     {
         "Param_ID": 11496,
         "Parameter Name DE": "Adenosylcobalamin",
-        "Parameter Name EN": "Adenosylcobalamin ",
+        "Parameter Name EN": "Adenosylcobalamin",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -8941,7 +8941,7 @@
     {
         "Param_ID": 11545,
         "Parameter Name DE": "Ethanol",
-        "Parameter Name EN": "Ethanol ",
+        "Parameter Name EN": "Ethanol",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -12309,6 +12309,55 @@
         "Param_ID": 12199,
         "Parameter Name DE": "Vitamin K1 (trans-form)",
         "Parameter Name EN": "Vitamin K1 (trans-form)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12203,
+        "Parameter Name DE": "Chloroform",
+        "Parameter Name EN": "Chloroform",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12204,
+        "Parameter Name DE": "Benzalkonium chloride",
+        "Parameter Name EN": "Benzalkonium chloride",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12205,
+        "Parameter Name DE": "Protein",
+        "Parameter Name EN": "Protein",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12206,
+        "Parameter Name DE": "Gesamtsäure, berechnet als Milchsäure_36496",
+        "Parameter Name EN": "Total acidity, calculated as lactic acid_36496",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12207,
+        "Parameter Name DE": "Gesamtsäure, berechnet als Essigsäure_36495",
+        "Parameter Name EN": "Total acidity, calculated as acetic acid_36495",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12208,
+        "Parameter Name DE": "Beta-NADH",
+        "Parameter Name EN": "Beta-NADH",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12209,
+        "Parameter Name DE": "MSM",
+        "Parameter Name EN": "MSM",
         "Param Group": 213,
         "Lab": "Plenum"
     }
