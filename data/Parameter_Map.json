@@ -12388,5 +12388,12 @@
         "Parameter Name EN": "4-Hydroxy-2-hexenal (HHE)",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12215,
+        "Parameter Name DE": "Acemannan",
+        "Parameter Name EN": "Acemannan",
+        "Param Group": 213,
+        "Lab": "Plenum"
     }
 ]
