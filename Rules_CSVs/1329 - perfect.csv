@@ -1,0 +1,2 @@
+spec_id,show,column,inverse,DDF_unit,parametertype_id,DDF_target_value,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
+1329,1,0,0,g/100g,11940,22.4,Energy value in kJ (protein = N x 6.25),perfect,green,>=,17.92,AND,<=,26.88,,,
