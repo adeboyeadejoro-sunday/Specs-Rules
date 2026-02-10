@@ -131,3 +131,6 @@ python convert_params_csv_to_json.py --csv "New Parameters - params.csv" --out "
 
 ***convert_packages_csv_to_json.py***
 python convert_packages_csv_to_json.py --csv "New Parameters - packages.csv" --out "packages_upload.json"
+
+***Update apps/app.py***
+put 'Parameter_Map.json' in the data folder.

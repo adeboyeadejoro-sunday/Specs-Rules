@@ -862,8 +862,8 @@
     },
     {
         "Param_ID": 5371,
-        "Parameter Name DE": "Ethylenoxid, QuEChERS_10028",
-        "Parameter Name EN": "Ethylene oxide, QuEChERS_10028",
+        "Parameter Name DE": "Ethylenoxid, QuEChERS",
+        "Parameter Name EN": "Ethylene oxide, QuEChERS",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -890,8 +890,8 @@
     },
     {
         "Param_ID": 5375,
-        "Parameter Name DE": "Glyphosat \/ AMPA_39262",
-        "Parameter Name EN": "Glyphosate \/ AMPA_39262",
+        "Parameter Name DE": "Glyphosat \/ AMPA",
+        "Parameter Name EN": "Glyphosate \/ AMPA",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -2116,7 +2116,7 @@
     {
         "Param_ID": 5552,
         "Parameter Name DE": "Hefen \/ Schimmelpilze insgesamt",
-        "Parameter Name EN": "Total yeasts \/ molds",
+        "Parameter Name EN": "Total yeasts \/ moulds",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -8563,7 +8563,7 @@
     {
         "Param_ID": 11491,
         "Parameter Name DE": "5′-Desoxyadenosylcobalamin",
-        "Parameter Name EN": "5′-Deoxyadenosylcobalamin ",
+        "Parameter Name EN": "5′-Deoxyadenosylcobalamin",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -8646,8 +8646,8 @@
     },
     {
         "Param_ID": 11503,
-        "Parameter Name DE": "Astaxanthi",
-        "Parameter Name EN": "Astaxanthin ",
+        "Parameter Name DE": "Astaxanthin",
+        "Parameter Name EN": "Astaxanthin",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -10984,8 +10984,8 @@
     },
     {
         "Param_ID": 11989,
-        "Parameter Name DE": "Dioxin+dl PCB, NEM, LQM",
-        "Parameter Name EN": "Dioxin+dl PCB, NEM, LQM",
+        "Parameter Name DE": "Dioxin+dl PCB, NEM, LQM_Archived",
+        "Parameter Name EN": "Dioxin+dl PCB, NEM, LQM_Archived",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -12393,6 +12393,34 @@
         "Param_ID": 12215,
         "Parameter Name DE": "Acemannan",
         "Parameter Name EN": "Acemannan",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12216,
+        "Parameter Name DE": "Fruktan",
+        "Parameter Name EN": "Fruktan",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12233,
+        "Parameter Name DE": "Fruktan",
+        "Parameter Name EN": "Fruktan",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12234,
+        "Parameter Name DE": "Saponine",
+        "Parameter Name EN": "Saponine",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12235,
+        "Parameter Name DE": "Thymoquinon",
+        "Parameter Name EN": "Thymoquinone",
         "Param Group": 213,
         "Lab": "Plenum"
     }
