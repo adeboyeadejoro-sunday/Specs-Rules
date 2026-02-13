@@ -12423,5 +12423,12 @@
         "Parameter Name EN": "Thymoquinone",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12238,
+        "Parameter Name DE": "Xyloglucan",
+        "Parameter Name EN": "Xyloglucan",
+        "Param Group": 213,
+        "Lab": "Plenum"
     }
 ]
