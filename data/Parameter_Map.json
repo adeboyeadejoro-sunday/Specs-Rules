@@ -9641,14 +9641,14 @@
     {
         "Param_ID": 11645,
         "Parameter Name DE": "Vitamin B6",
-        "Parameter Name EN": "Vitamin B6 ",
+        "Parameter Name EN": "Vitamin B6",
         "Param Group": 213,
         "Lab": "Plenum"
     },
     {
         "Param_ID": 11646,
         "Parameter Name DE": "Vitamin B6 (Pyridoxal-5´-phosphat)",
-        "Parameter Name EN": "Vitamin B6 (pyridoxal-5'-phosphate) ",
+        "Parameter Name EN": "Vitamin B6 (pyridoxal-5'-phosphate)",
         "Param Group": 213,
         "Lab": "Plenum"
     },
