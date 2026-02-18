@@ -12430,5 +12430,12 @@
         "Parameter Name EN": "Xyloglucan",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12243,
+        "Parameter Name DE": "Calcium (titration)",
+        "Parameter Name EN": "Calcium (titration) ",
+        "Param Group": 213,
+        "Lab": "Plenum"
     }
 ]
