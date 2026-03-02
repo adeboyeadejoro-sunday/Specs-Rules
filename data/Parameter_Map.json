@@ -12343,7 +12343,7 @@
     {
         "Param_ID": 12207,
         "Parameter Name DE": "Gesamtsäure, berechnet als Essigsäure_36495",
-        "Parameter Name EN": "Total acidity, calculated as acetic acid_36495",
+        "Parameter Name EN": "Total acidity, acetic acid_36495",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -12435,6 +12435,160 @@
         "Param_ID": 12243,
         "Parameter Name DE": "Calcium (titration)",
         "Parameter Name EN": "Calcium (titration) ",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12244,
+        "Parameter Name DE": "Potassium sorbate",
+        "Parameter Name EN": "Potassium sorbate",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12246,
+        "Parameter Name DE": "Glycin Direktparameter_40318",
+        "Parameter Name EN": "Glycin Directparameter_40318",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12247,
+        "Parameter Name DE": "Histidin Direktparameter_40317",
+        "Parameter Name EN": "Histidin Direct parameter_40317",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12248,
+        "Parameter Name DE": "Hydroxyprolin frei Direktparameter_40320",
+        "Parameter Name EN": "Hydroxyprolin free direct parameter_40320",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12249,
+        "Parameter Name DE": "Isoleucin Direktparameter_40316",
+        "Parameter Name EN": "Isoleucin Direct Parameter_40316",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12250,
+        "Parameter Name DE": "Leucin, Direktparameter_40315",
+        "Parameter Name EN": "Leucin Direct Parameter_40315",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12251,
+        "Parameter Name DE": "Methionin frei Direktparameter_40360",
+        "Parameter Name EN": "Methionine free Direct Parameter_40360",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12252,
+        "Parameter Name DE": "Ornithin Direktparameter_40475",
+        "Parameter Name EN": "Ornithine Direct parameter_40475",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12253,
+        "Parameter Name DE": "Serin Direktparameter_40569",
+        "Parameter Name EN": "Serine Direct Parameter_40569",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12254,
+        "Parameter Name DE": "Taurin freies_23283",
+        "Parameter Name EN": "Taurine free_23283",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12255,
+        "Parameter Name DE": "Threonin Direktparameter_40359",
+        "Parameter Name EN": "Threonine Direct Parameter_40359",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12256,
+        "Parameter Name DE": "Tryptophan einzeln frei_40321",
+        "Parameter Name EN": "Tryptophan free_40321",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12257,
+        "Parameter Name DE": "Tyrosin freies Direktparameter_40507",
+        "Parameter Name EN": "Tyrosin free Direct Parameter_40507",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12258,
+        "Parameter Name DE": "Valin Direktparameter_40314",
+        "Parameter Name EN": "Valine Direct Parameter_40314",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12259,
+        "Parameter Name DE": "Arginin Direktparameter_40319",
+        "Parameter Name EN": "Arginine Direct Parameter_40319",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12260,
+        "Parameter Name DE": "gamma Aminobuttersäure (GABA) Direktparameter_40449",
+        "Parameter Name EN": "Aminobutyric Acid (GABA) Direct_40449",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12261,
+        "Parameter Name DE": "Glutamine Direktparameter_40592",
+        "Parameter Name EN": "Glutamine Direct Parameter_40592",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12262,
+        "Parameter Name DE": "Lysin Direktparameter_40616",
+        "Parameter Name EN": "Lysin Direct Parameter_40616",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12263,
+        "Parameter Name DE": "Phenylalanin Direktparameter_40344",
+        "Parameter Name EN": "Phenylalanine Direct Parameter_40344",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12264,
+        "Parameter Name DE": "Cyclohexan",
+        "Parameter Name EN": "Cyclohexane",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12265,
+        "Parameter Name DE": "Toluene",
+        "Parameter Name EN": "Toluene",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12269,
+        "Parameter Name DE": "Paeoniflorin",
+        "Parameter Name EN": "Paeoniflorin",
         "Param Group": 213,
         "Lab": "Plenum"
     }
