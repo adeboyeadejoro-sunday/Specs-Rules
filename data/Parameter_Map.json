@@ -12591,5 +12591,40 @@
         "Parameter Name EN": "Paeoniflorin",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12270,
+        "Parameter Name DE": "Gehalt FCC von Calciumglycerophosphat_40632",
+        "Parameter Name EN": "Calcium Glycerophosphate Titration_40632",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12271,
+        "Parameter Name DE": "Trocknungsverlust FCC_38157",
+        "Parameter Name EN": "Loss On Drying Titration_38157",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12272,
+        "Parameter Name DE": "L-Arginin",
+        "Parameter Name EN": "L-Arginin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12273,
+        "Parameter Name DE": "Procyanidin C1 (PCC1)",
+        "Parameter Name EN": "Procyanidin C1 (PCC1)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12274,
+        "Parameter Name DE": "Forskolin",
+        "Parameter Name EN": "Forskolin",
+        "Param Group": 213,
+        "Lab": "Plenum"
     }
 ]
