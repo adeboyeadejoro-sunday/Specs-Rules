@@ -2156,6 +2156,5676 @@
         "Lab": "GBA"
     },
     {
+        "Param_ID": 9687,
+        "Parameter Name DE": "19-Norandrostenedione (anabolic steroids)",
+        "Parameter Name EN": "19-Norandrostenedione (anabolic steroids)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9688,
+        "Parameter Name DE": "3-MCPD ester (det. as free 3-MCPD)",
+        "Parameter Name EN": "3-MCPD ester (det. as free 3-MCPD)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9689,
+        "Parameter Name DE": "Sum 3-MCPD- and glycidyl esters (det. as 3-MCPD)",
+        "Parameter Name EN": "Sum 3-MCPD- and glycidyl esters (det. as 3-MCPD)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9690,
+        "Parameter Name DE": "5-Hydroxytryptophan",
+        "Parameter Name EN": "5-Hydroxytryptophan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9691,
+        "Parameter Name DE": "5-Hydroxytryptophan",
+        "Parameter Name EN": "5-Hydroxytryptophan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9692,
+        "Parameter Name DE": "Methyltetrahydrofolate (5-MTHF)",
+        "Parameter Name EN": "Methyltetrahydrofolate (5-MTHF)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9693,
+        "Parameter Name DE": "Methyltetrahydrofolate (5-MTHF)",
+        "Parameter Name EN": "Methyltetrahydrofolate (5-MTHF)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9694,
+        "Parameter Name DE": "Acrylamide",
+        "Parameter Name EN": "Acrylamide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9695,
+        "Parameter Name DE": "Aerobic Plate Count 30°C",
+        "Parameter Name EN": "Aerobic Plate Count 30°C",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9696,
+        "Parameter Name DE": "Sum of all positive Aflatoxins",
+        "Parameter Name EN": "Sum of all positive Aflatoxins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9697,
+        "Parameter Name DE": "Aflatoxin B1",
+        "Parameter Name EN": "Aflatoxin B1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9698,
+        "Parameter Name DE": "Aflatoxin B2",
+        "Parameter Name EN": "Aflatoxin B2",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9699,
+        "Parameter Name DE": "Aflatoxin G1",
+        "Parameter Name EN": "Aflatoxin G1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9700,
+        "Parameter Name DE": "Aflatoxin G2",
+        "Parameter Name EN": "Aflatoxin G2",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9701,
+        "Parameter Name DE": "Sum of all positive Aflatoxins",
+        "Parameter Name EN": "Sum of all positive Aflatoxins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9702,
+        "Parameter Name DE": "Method Reference",
+        "Parameter Name EN": "Method Reference",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9703,
+        "Parameter Name DE": "Beta Glucan",
+        "Parameter Name EN": "Beta Glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9704,
+        "Parameter Name DE": "Alpha Glucan",
+        "Parameter Name EN": "Alpha Glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9705,
+        "Parameter Name DE": "Total Glucan",
+        "Parameter Name EN": "Total Glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9706,
+        "Parameter Name DE": "Beta Glucan",
+        "Parameter Name EN": "Beta Glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9707,
+        "Parameter Name DE": "Alpha Glucan",
+        "Parameter Name EN": "Alpha Glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9708,
+        "Parameter Name DE": "Total Glucan",
+        "Parameter Name EN": "Total Glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9709,
+        "Parameter Name DE": "Alpha-amylase activity",
+        "Parameter Name EN": "Alpha-amylase activity",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9710,
+        "Parameter Name DE": "Aluminium",
+        "Parameter Name EN": "Aluminium",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9711,
+        "Parameter Name DE": "Serine",
+        "Parameter Name EN": "Serine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9712,
+        "Parameter Name DE": "Proline",
+        "Parameter Name EN": "Proline",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9713,
+        "Parameter Name DE": "Glycine",
+        "Parameter Name EN": "Glycine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9714,
+        "Parameter Name DE": "Alanine",
+        "Parameter Name EN": "Alanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9715,
+        "Parameter Name DE": "Valine",
+        "Parameter Name EN": "Valine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9716,
+        "Parameter Name DE": "Isoleucine",
+        "Parameter Name EN": "Isoleucine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9717,
+        "Parameter Name DE": "Leucine",
+        "Parameter Name EN": "Leucine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9718,
+        "Parameter Name DE": "Tyrosine",
+        "Parameter Name EN": "Tyrosine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9719,
+        "Parameter Name DE": "Histidine",
+        "Parameter Name EN": "Histidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9720,
+        "Parameter Name DE": "Arginine",
+        "Parameter Name EN": "Arginine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9721,
+        "Parameter Name DE": "Hydroxyproline",
+        "Parameter Name EN": "Hydroxyproline",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9722,
+        "Parameter Name DE": "Threonine",
+        "Parameter Name EN": "Threonine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9723,
+        "Parameter Name DE": "Aspartic acid",
+        "Parameter Name EN": "Aspartic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9724,
+        "Parameter Name DE": "Ornithine",
+        "Parameter Name EN": "Ornithine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9725,
+        "Parameter Name DE": "Glutamic acid",
+        "Parameter Name EN": "Glutamic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9726,
+        "Parameter Name DE": "Phenylalanine",
+        "Parameter Name EN": "Phenylalanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9727,
+        "Parameter Name DE": "Lysine",
+        "Parameter Name EN": "Lysine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9728,
+        "Parameter Name DE": "Glutamic acid",
+        "Parameter Name EN": "Glutamic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9729,
+        "Parameter Name DE": "Glycine",
+        "Parameter Name EN": "Glycine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9730,
+        "Parameter Name DE": "Alanine",
+        "Parameter Name EN": "Alanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9731,
+        "Parameter Name DE": "Valine",
+        "Parameter Name EN": "Valine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9732,
+        "Parameter Name DE": "Isoleucine",
+        "Parameter Name EN": "Isoleucine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9733,
+        "Parameter Name DE": "Leucine",
+        "Parameter Name EN": "Leucine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9734,
+        "Parameter Name DE": "Phenylalanine",
+        "Parameter Name EN": "Phenylalanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9735,
+        "Parameter Name DE": "Lysine",
+        "Parameter Name EN": "Lysine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9736,
+        "Parameter Name DE": "Threonine",
+        "Parameter Name EN": "Threonine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9737,
+        "Parameter Name DE": "Serine",
+        "Parameter Name EN": "Serine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9738,
+        "Parameter Name DE": "Ornithine",
+        "Parameter Name EN": "Ornithine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9739,
+        "Parameter Name DE": "Glutamic acid",
+        "Parameter Name EN": "Glutamic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9740,
+        "Parameter Name DE": "Phenylalanine",
+        "Parameter Name EN": "Phenylalanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9741,
+        "Parameter Name DE": "Lysine",
+        "Parameter Name EN": "Lysine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9742,
+        "Parameter Name DE": "Arsenic content",
+        "Parameter Name EN": "Arsenic content",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9743,
+        "Parameter Name DE": "Ascorbyl palmitate",
+        "Parameter Name EN": "Ascorbyl palmitate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9744,
+        "Parameter Name DE": "Ash",
+        "Parameter Name EN": "Ash",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9745,
+        "Parameter Name DE": "Aspartic acid (Total)",
+        "Parameter Name EN": "Aspartic acid (Total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9746,
+        "Parameter Name DE": "Astaxanthin esters",
+        "Parameter Name EN": "Astaxanthin esters",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9747,
+        "Parameter Name DE": "Astaxanthin",
+        "Parameter Name EN": "Astaxanthin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9748,
+        "Parameter Name DE": "Bacillus cereus",
+        "Parameter Name EN": "Bacillus cereus",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9749,
+        "Parameter Name DE": "Bacillus subtilis",
+        "Parameter Name EN": "Bacillus subtilis",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9750,
+        "Parameter Name DE": "Bacterial endotoxins",
+        "Parameter Name EN": "Bacterial endotoxins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9751,
+        "Parameter Name DE": "Bacterial endotoxins",
+        "Parameter Name EN": "Bacterial endotoxins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9752,
+        "Parameter Name DE": "Berberine",
+        "Parameter Name EN": "Berberine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9753,
+        "Parameter Name DE": "Berberine",
+        "Parameter Name EN": "Berberine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9754,
+        "Parameter Name DE": "Beta-Alanine",
+        "Parameter Name EN": "Beta-Alanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9755,
+        "Parameter Name DE": "Beta-Glucan (uncorrected)",
+        "Parameter Name EN": "Beta-Glucan (uncorrected)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9756,
+        "Parameter Name DE": "Alpha-glucan",
+        "Parameter Name EN": "Alpha-glucan",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9757,
+        "Parameter Name DE": "Beta-glucan (hydrolysis corrected)",
+        "Parameter Name EN": "Beta-glucan (hydrolysis corrected)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9758,
+        "Parameter Name DE": "beta-Carotene (all-trans)",
+        "Parameter Name EN": "beta-Carotene (all-trans)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9759,
+        "Parameter Name DE": "cis-beta-Carotene",
+        "Parameter Name EN": "cis-beta-Carotene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9760,
+        "Parameter Name DE": "Total beta-Carotene",
+        "Parameter Name EN": "Total beta-Carotene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9761,
+        "Parameter Name DE": "Total beta-Carotene",
+        "Parameter Name EN": "Total beta-Carotene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9762,
+        "Parameter Name DE": "beta-Carotene (all-trans)",
+        "Parameter Name EN": "beta-Carotene (all-trans)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9763,
+        "Parameter Name DE": "Total beta-Carotene",
+        "Parameter Name EN": "Total beta-Carotene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9764,
+        "Parameter Name DE": "Total beta-Carotene",
+        "Parameter Name EN": "Total beta-Carotene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9765,
+        "Parameter Name DE": "beta-Carotene (all-trans)",
+        "Parameter Name EN": "beta-Carotene (all-trans)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9766,
+        "Parameter Name DE": "beta-Carotene (all-trans)",
+        "Parameter Name EN": "beta-Carotene (all-trans)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9767,
+        "Parameter Name DE": "Betaine",
+        "Parameter Name EN": "Betaine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9768,
+        "Parameter Name DE": "Betaine",
+        "Parameter Name EN": "Betaine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9769,
+        "Parameter Name DE": "Betaine",
+        "Parameter Name EN": "Betaine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9770,
+        "Parameter Name DE": "Total betaine calc. as total betaine hydrochloride",
+        "Parameter Name EN": "Total betaine calc. as total betaine hydrochloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9771,
+        "Parameter Name DE": "Betaine, total",
+        "Parameter Name EN": "Betaine, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9772,
+        "Parameter Name DE": "Putrescine",
+        "Parameter Name EN": "Putrescine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9773,
+        "Parameter Name DE": "Cadaverine",
+        "Parameter Name EN": "Cadaverine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9774,
+        "Parameter Name DE": "Histamine",
+        "Parameter Name EN": "Histamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9775,
+        "Parameter Name DE": "Spermine",
+        "Parameter Name EN": "Spermine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9776,
+        "Parameter Name DE": "Tyramine",
+        "Parameter Name EN": "Tyramine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9777,
+        "Parameter Name DE": "2-Phenylethylamine",
+        "Parameter Name EN": "2-Phenylethylamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9778,
+        "Parameter Name DE": "Tryptamine",
+        "Parameter Name EN": "Tryptamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9779,
+        "Parameter Name DE": "Spermidine",
+        "Parameter Name EN": "Spermidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9780,
+        "Parameter Name DE": "Spermidine",
+        "Parameter Name EN": "Spermidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9781,
+        "Parameter Name DE": "Biotin",
+        "Parameter Name EN": "Biotin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9782,
+        "Parameter Name DE": "Biotin",
+        "Parameter Name EN": "Biotin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9783,
+        "Parameter Name DE": "Biotin",
+        "Parameter Name EN": "Biotin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9784,
+        "Parameter Name DE": "Biotin",
+        "Parameter Name EN": "Biotin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9785,
+        "Parameter Name DE": "Biotin",
+        "Parameter Name EN": "Biotin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9786,
+        "Parameter Name DE": "Vitamine B8 (biotin)",
+        "Parameter Name EN": "Vitamine B8 (biotin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9787,
+        "Parameter Name DE": "Vitamine B8 (biotin)",
+        "Parameter Name EN": "Vitamine B8 (biotin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9788,
+        "Parameter Name DE": "Boswellic Acids",
+        "Parameter Name EN": "Boswellic Acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9789,
+        "Parameter Name DE": "Valine (Total)",
+        "Parameter Name EN": "Valine (Total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9790,
+        "Parameter Name DE": "Isoleucine",
+        "Parameter Name EN": "Isoleucine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9791,
+        "Parameter Name DE": "Leucine",
+        "Parameter Name EN": "Leucine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9792,
+        "Parameter Name DE": "Bromelain",
+        "Parameter Name EN": "Bromelain",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9793,
+        "Parameter Name DE": "Bromelain",
+        "Parameter Name EN": "Bromelain",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9794,
+        "Parameter Name DE": "Cadmium content",
+        "Parameter Name EN": "Cadmium content",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9795,
+        "Parameter Name DE": "Echinacoside",
+        "Parameter Name EN": "Echinacoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9796,
+        "Parameter Name DE": "Caftaric Acid",
+        "Parameter Name EN": "Caftaric Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9797,
+        "Parameter Name DE": "Echinacoside",
+        "Parameter Name EN": "Echinacoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9798,
+        "Parameter Name DE": "Cichoric Acid",
+        "Parameter Name EN": "Cichoric Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9799,
+        "Parameter Name DE": "Caftaric Acid",
+        "Parameter Name EN": "Caftaric Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9800,
+        "Parameter Name DE": "Total Echinacea",
+        "Parameter Name EN": "Total Echinacea",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9801,
+        "Parameter Name DE": "Chlorogenic Acid",
+        "Parameter Name EN": "Chlorogenic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9802,
+        "Parameter Name DE": "Capsule weight, whole",
+        "Parameter Name EN": "Capsule weight, whole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9803,
+        "Parameter Name DE": "Carnitine, total",
+        "Parameter Name EN": "Carnitine, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9804,
+        "Parameter Name DE": "Carnitine, total",
+        "Parameter Name EN": "Carnitine, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9805,
+        "Parameter Name DE": "Carnosine",
+        "Parameter Name EN": "Carnosine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9806,
+        "Parameter Name DE": "Cellulase Units",
+        "Parameter Name EN": "Cellulase Units",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9807,
+        "Parameter Name DE": "Cellulase Units",
+        "Parameter Name EN": "Cellulase Units",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9808,
+        "Parameter Name DE": "Choline, total",
+        "Parameter Name EN": "Choline, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9809,
+        "Parameter Name DE": "Choline, total",
+        "Parameter Name EN": "Choline, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9810,
+        "Parameter Name DE": "Choline, total",
+        "Parameter Name EN": "Choline, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9811,
+        "Parameter Name DE": "Choline, total",
+        "Parameter Name EN": "Choline, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9812,
+        "Parameter Name DE": "Chromium (Cr)",
+        "Parameter Name EN": "Chromium (Cr)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9813,
+        "Parameter Name DE": "Citicoline",
+        "Parameter Name EN": "Citicoline",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9814,
+        "Parameter Name DE": "Clostridium perfringens",
+        "Parameter Name EN": "Clostridium perfringens",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9815,
+        "Parameter Name DE": "Coagulase positive Staphylococcus",
+        "Parameter Name EN": "Coagulase positive Staphylococcus",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9816,
+        "Parameter Name DE": "Coliforms 30°C",
+        "Parameter Name EN": "Coliforms 30°C",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9817,
+        "Parameter Name DE": "Contaminating Germs",
+        "Parameter Name EN": "Contaminating Germs",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9818,
+        "Parameter Name DE": "Content of Bilobalide",
+        "Parameter Name EN": "Content of Bilobalide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9819,
+        "Parameter Name DE": "Content of alpha-lipoic acid",
+        "Parameter Name EN": "Content of alpha-lipoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9820,
+        "Parameter Name DE": "Content of alpha-lipoic acid",
+        "Parameter Name EN": "Content of alpha-lipoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9821,
+        "Parameter Name DE": "Content of alpha-lipoic acid",
+        "Parameter Name EN": "Content of alpha-lipoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9822,
+        "Parameter Name DE": "Content of hesperidine",
+        "Parameter Name EN": "Content of hesperidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9823,
+        "Parameter Name DE": "Content of methylsulfonylmethane",
+        "Parameter Name EN": "Content of methylsulfonylmethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9824,
+        "Parameter Name DE": "Content of polyphenols",
+        "Parameter Name EN": "Content of polyphenols",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9825,
+        "Parameter Name DE": "NA",
+        "Parameter Name EN": "NA",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9826,
+        "Parameter Name DE": "Content of proanthocyanidins as proanthocyanidine",
+        "Parameter Name EN": "Content of proanthocyanidins as proanthocyanidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9827,
+        "Parameter Name DE": "Content of proanthocyanidins as proanthocyanidine",
+        "Parameter Name EN": "Content of proanthocyanidins as proanthocyanidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9828,
+        "Parameter Name DE": "Content of proanthocyanidins as proanthocyanidine",
+        "Parameter Name EN": "Content of proanthocyanidins as proanthocyanidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9829,
+        "Parameter Name DE": "Content of proanthocyanidins as proanthocyanidine",
+        "Parameter Name EN": "Content of proanthocyanidins as proanthocyanidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9830,
+        "Parameter Name DE": "Content of ruscogenin",
+        "Parameter Name EN": "Content of ruscogenin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9831,
+        "Parameter Name DE": "Content of sodium",
+        "Parameter Name EN": "Content of sodium",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9832,
+        "Parameter Name DE": "Copper (Cu)",
+        "Parameter Name EN": "Copper (Cu)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9833,
+        "Parameter Name DE": "Cortisol (Corticoid)",
+        "Parameter Name EN": "Cortisol (Corticoid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9834,
+        "Parameter Name DE": "Cortisol (Corticoid)",
+        "Parameter Name EN": "Cortisol (Corticoid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9835,
+        "Parameter Name DE": "Curcumine E 100",
+        "Parameter Name EN": "Curcumine E 100",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9836,
+        "Parameter Name DE": "Curcumine E 100",
+        "Parameter Name EN": "Curcumine E 100",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9837,
+        "Parameter Name DE": "Curcuminoids",
+        "Parameter Name EN": "Curcuminoids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9838,
+        "Parameter Name DE": "Curcumin",
+        "Parameter Name EN": "Curcumin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9839,
+        "Parameter Name DE": "Bisdemethoxycurcumin",
+        "Parameter Name EN": "Bisdemethoxycurcumin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9840,
+        "Parameter Name DE": "Total Curcuminoids",
+        "Parameter Name EN": "Total Curcuminoids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9841,
+        "Parameter Name DE": "Demethoxycurcumin",
+        "Parameter Name EN": "Demethoxycurcumin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9842,
+        "Parameter Name DE": "Cysteine +Cystine",
+        "Parameter Name EN": "Cysteine +Cystine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9843,
+        "Parameter Name DE": "Methionine",
+        "Parameter Name EN": "Methionine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9844,
+        "Parameter Name DE": "Methionine",
+        "Parameter Name EN": "Methionine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9845,
+        "Parameter Name DE": "Cysteine +Cystine",
+        "Parameter Name EN": "Cysteine +Cystine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9846,
+        "Parameter Name DE": "Methionine",
+        "Parameter Name EN": "Methionine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9847,
+        "Parameter Name DE": "Cysteine (free)",
+        "Parameter Name EN": "Cysteine (free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9848,
+        "Parameter Name DE": "DHEA (Dehydroepiandrosterone)",
+        "Parameter Name EN": "DHEA (Dehydroepiandrosterone)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9849,
+        "Parameter Name DE": "Average weight of a unit",
+        "Parameter Name EN": "Average weight of a unit",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9850,
+        "Parameter Name DE": "Temperature",
+        "Parameter Name EN": "Temperature",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9851,
+        "Parameter Name DE": "Density",
+        "Parameter Name EN": "Density",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9852,
+        "Parameter Name DE": "Rosin",
+        "Parameter Name EN": "Rosin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9853,
+        "Parameter Name DE": "Total Rosavins",
+        "Parameter Name EN": "Total Rosavins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9854,
+        "Parameter Name DE": "Salidroside",
+        "Parameter Name EN": "Salidroside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9855,
+        "Parameter Name DE": "Rosarin",
+        "Parameter Name EN": "Rosarin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9856,
+        "Parameter Name DE": "Rosavin",
+        "Parameter Name EN": "Rosavin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9857,
+        "Parameter Name DE": "Rosavin",
+        "Parameter Name EN": "Rosavin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9858,
+        "Parameter Name DE": "Salidroside",
+        "Parameter Name EN": "Salidroside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9859,
+        "Parameter Name DE": "Screened pesticides",
+        "Parameter Name EN": "Screened pesticides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9860,
+        "Parameter Name DE": "",
+        "Parameter Name EN": null,
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9861,
+        "Parameter Name DE": "Other screened pesticides",
+        "Parameter Name EN": "Other screened pesticides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9862,
+        "Parameter Name DE": "Chlorpyrifos (-ethyl)",
+        "Parameter Name EN": "Chlorpyrifos (-ethyl)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9863,
+        "Parameter Name DE": "Dihydrotestosterone (anabolic steroids)",
+        "Parameter Name EN": "Dihydrotestosterone (anabolic steroids)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9864,
+        "Parameter Name DE": "Dihydrotestosterone (anabolic steroids)",
+        "Parameter Name EN": "Dihydrotestosterone (anabolic steroids)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9865,
+        "Parameter Name DE": "Disintegration",
+        "Parameter Name EN": "Disintegration",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9866,
+        "Parameter Name DE": "Sample preparation",
+        "Parameter Name EN": "Sample preparation",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9867,
+        "Parameter Name DE": "Carbohydrates digestible",
+        "Parameter Name EN": "Carbohydrates digestible",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9868,
+        "Parameter Name DE": "Enterobacteriaceae 37°C",
+        "Parameter Name EN": "Enterobacteriaceae 37°C",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9869,
+        "Parameter Name DE": "Escherichia Coli",
+        "Parameter Name EN": "Escherichia Coli",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9870,
+        "Parameter Name DE": "Ethanol",
+        "Parameter Name EN": "Ethanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9871,
+        "Parameter Name DE": "Ethanol",
+        "Parameter Name EN": "Ethanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9872,
+        "Parameter Name DE": "Ethylene oxide (sum ethylene oxide and 2-chloro-et",
+        "Parameter Name EN": "Ethylene oxide (sum ethylene oxide and 2-chloro-et",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9874,
+        "Parameter Name DE": "Ethylene oxide and 2-chloroethanol",
+        "Parameter Name EN": "Ethylene oxide and 2-chloroethanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9875,
+        "Parameter Name DE": "Ethylene oxide",
+        "Parameter Name EN": "Ethylene oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9876,
+        "Parameter Name DE": "Ethylene oxide (sum ethylene oxide and 2-chloro-et",
+        "Parameter Name EN": "Ethylene oxide (sum ethylene oxide and 2-chloro-et",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9877,
+        "Parameter Name DE": "2-Chlorethanol",
+        "Parameter Name EN": "2-Chlorethanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9878,
+        "Parameter Name DE": "Actual FIP\/g",
+        "Parameter Name EN": "Actual FIP\/g",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9879,
+        "Parameter Name DE": "Butyric acid",
+        "Parameter Name EN": "Butyric acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9880,
+        "Parameter Name DE": "C 18:2 conj. conjugated linoleic acid(CLA)",
+        "Parameter Name EN": "C 18:2 conj. conjugated linoleic acid(CLA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9881,
+        "Parameter Name DE": "C 18:3 (alpha-linolenic acid)",
+        "Parameter Name EN": "C 18:3 (alpha-linolenic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9882,
+        "Parameter Name DE": "C 18:1t (Elaidic Acid)",
+        "Parameter Name EN": "C 18:1t (Elaidic Acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9883,
+        "Parameter Name DE": "C 8:0",
+        "Parameter Name EN": "C 8:0",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9884,
+        "Parameter Name DE": "C18:1 11c",
+        "Parameter Name EN": "C18:1 11c",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9885,
+        "Parameter Name DE": "C18:1 9c",
+        "Parameter Name EN": "C18:1 9c",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9886,
+        "Parameter Name DE": "C 18:1 c others",
+        "Parameter Name EN": "C 18:1 c others",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9887,
+        "Parameter Name DE": "Anteisopentdecanoic acid C15:0",
+        "Parameter Name EN": "Anteisopentdecanoic acid C15:0",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9888,
+        "Parameter Name DE": "C 14:0 (Myristic acid)",
+        "Parameter Name EN": "C 14:0 (Myristic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9889,
+        "Parameter Name DE": "C 16:0 (Palmitic acid)",
+        "Parameter Name EN": "C 16:0 (Palmitic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9890,
+        "Parameter Name DE": "C 17:0 (Margaric acid)",
+        "Parameter Name EN": "C 17:0 (Margaric acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9891,
+        "Parameter Name DE": "C 18:0 (Stearic acid)",
+        "Parameter Name EN": "C 18:0 (Stearic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9892,
+        "Parameter Name DE": "C 20:0 (Arachidic acid)",
+        "Parameter Name EN": "C 20:0 (Arachidic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9893,
+        "Parameter Name DE": "C 6:0 (Caproic acid)",
+        "Parameter Name EN": "C 6:0 (Caproic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9894,
+        "Parameter Name DE": "C 10:0 (Capric acid)",
+        "Parameter Name EN": "C 10:0 (Capric acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9895,
+        "Parameter Name DE": "C 11:0 (Undecanoic acid)",
+        "Parameter Name EN": "C 11:0 (Undecanoic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9896,
+        "Parameter Name DE": "C 12:0 (Lauric acid)",
+        "Parameter Name EN": "C 12:0 (Lauric acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9897,
+        "Parameter Name DE": "C 14:1 (Myristoleic acid)",
+        "Parameter Name EN": "C 14:1 (Myristoleic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9898,
+        "Parameter Name DE": "C 16:1 (Palmitoleic acid)",
+        "Parameter Name EN": "C 16:1 (Palmitoleic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9899,
+        "Parameter Name DE": "C 18:2 (Linoleic acid)",
+        "Parameter Name EN": "C 18:2 (Linoleic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9900,
+        "Parameter Name DE": "C 18:4 (Octadecatetraenic acid)",
+        "Parameter Name EN": "C 18:4 (Octadecatetraenic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9901,
+        "Parameter Name DE": "C 18:2 (trans\/trans)",
+        "Parameter Name EN": "C 18:2 (trans\/trans)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9902,
+        "Parameter Name DE": "C 13:0 (Tridecanoic acid)",
+        "Parameter Name EN": "C 13:0 (Tridecanoic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9903,
+        "Parameter Name DE": "C 15:1 (Pentadecenoic acid) + Isomers",
+        "Parameter Name EN": "C 15:1 (Pentadecenoic acid) + Isomers",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9904,
+        "Parameter Name DE": "C 17:1 (Heptadecenoic acid)",
+        "Parameter Name EN": "C 17:1 (Heptadecenoic acid)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9905,
+        "Parameter Name DE": "C16:2 Hexadecadienoic",
+        "Parameter Name EN": "C16:2 Hexadecadienoic",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9906,
+        "Parameter Name DE": "C16:3 Hexadecatrienoic",
+        "Parameter Name EN": "C16:3 Hexadecatrienoic",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9907,
+        "Parameter Name DE": "Omega-6 fatty acids (%total)",
+        "Parameter Name EN": "Omega-6 fatty acids (%total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9908,
+        "Parameter Name DE": "Omega-3 fatty acids (%total)",
+        "Parameter Name EN": "Omega-3 fatty acids (%total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9909,
+        "Parameter Name DE": "poly-unsaturated fatty acids total",
+        "Parameter Name EN": "poly-unsaturated fatty acids total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9910,
+        "Parameter Name DE": "Omega-9 fatty acids",
+        "Parameter Name EN": "Omega-9 fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9911,
+        "Parameter Name DE": "of which mono unsaturated fatty acids",
+        "Parameter Name EN": "of which mono unsaturated fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9912,
+        "Parameter Name DE": "trans fatty acids",
+        "Parameter Name EN": "trans fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9913,
+        "Parameter Name DE": "Saturated Fat",
+        "Parameter Name EN": "Saturated Fat",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9914,
+        "Parameter Name DE": "Total Trans Fatty Acids",
+        "Parameter Name EN": "Total Trans Fatty Acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9915,
+        "Parameter Name DE": "Omega-3 : Omega-6 Ratio",
+        "Parameter Name EN": "Omega-3 : Omega-6 Ratio",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9916,
+        "Parameter Name DE": "C4:0 Butyric acid",
+        "Parameter Name EN": "C4:0 Butyric acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9917,
+        "Parameter Name DE": "C6:0 Caproic acid",
+        "Parameter Name EN": "C6:0 Caproic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9918,
+        "Parameter Name DE": "C8:0 Caprylic acid",
+        "Parameter Name EN": "C8:0 Caprylic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9919,
+        "Parameter Name DE": "C10:0 Capric acid",
+        "Parameter Name EN": "C10:0 Capric acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9920,
+        "Parameter Name DE": "C12:0 Lauric acid",
+        "Parameter Name EN": "C12:0 Lauric acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9921,
+        "Parameter Name DE": "C14:0 Myristic acid",
+        "Parameter Name EN": "C14:0 Myristic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9922,
+        "Parameter Name DE": "C15:0 Pentadecanoic acid",
+        "Parameter Name EN": "C15:0 Pentadecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9923,
+        "Parameter Name DE": "C16:0 Palmitic acid",
+        "Parameter Name EN": "C16:0 Palmitic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9924,
+        "Parameter Name DE": "C18:0 Stearic acid",
+        "Parameter Name EN": "C18:0 Stearic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9925,
+        "Parameter Name DE": "C18:1(n-9)cis Oleic acid",
+        "Parameter Name EN": "C18:1(n-9)cis Oleic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9926,
+        "Parameter Name DE": "C18:1(n-9)trans Elaidic acid",
+        "Parameter Name EN": "C18:1(n-9)trans Elaidic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9927,
+        "Parameter Name DE": "C18:3(n-3)cis Alpha-Linolenic acid (ALA)",
+        "Parameter Name EN": "C18:3(n-3)cis Alpha-Linolenic acid (ALA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9928,
+        "Parameter Name DE": "C18:3(n-6)cis Gamma-Linolenic acid (GLA)",
+        "Parameter Name EN": "C18:3(n-6)cis Gamma-Linolenic acid (GLA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9929,
+        "Parameter Name DE": "C20:0 Arachidic acid",
+        "Parameter Name EN": "C20:0 Arachidic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9930,
+        "Parameter Name DE": "C20:1(n-11) Gadoleic Acid",
+        "Parameter Name EN": "C20:1(n-11) Gadoleic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9931,
+        "Parameter Name DE": "C20:5(n-3)cis Eicosapentenoic acid (EPA)",
+        "Parameter Name EN": "C20:5(n-3)cis Eicosapentenoic acid (EPA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9932,
+        "Parameter Name DE": "C22:0 Behenic acid",
+        "Parameter Name EN": "C22:0 Behenic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9933,
+        "Parameter Name DE": "C22:1(n-9)cis Erucic acid",
+        "Parameter Name EN": "C22:1(n-9)cis Erucic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9934,
+        "Parameter Name DE": "C22:4(n-6)cis Docosatetraenoic acid",
+        "Parameter Name EN": "C22:4(n-6)cis Docosatetraenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9935,
+        "Parameter Name DE": "C22:6(n-3)cis Docosahexaenoic (DHA)",
+        "Parameter Name EN": "C22:6(n-3)cis Docosahexaenoic (DHA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9936,
+        "Parameter Name DE": "C24:0 Lignoceric acid",
+        "Parameter Name EN": "C24:0 Lignoceric acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9937,
+        "Parameter Name DE": "Unidentified fatty acids",
+        "Parameter Name EN": "Unidentified fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9938,
+        "Parameter Name DE": "C13:0 Tridecanoic acid",
+        "Parameter Name EN": "C13:0 Tridecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9939,
+        "Parameter Name DE": "C22:2(n-6)cis Docosadienoic acid",
+        "Parameter Name EN": "C22:2(n-6)cis Docosadienoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9940,
+        "Parameter Name DE": "Total Omega-6 fatty acids",
+        "Parameter Name EN": "Total Omega-6 fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9941,
+        "Parameter Name DE": "C22:5(n-3)cis Docosapentaenoic (DPA)",
+        "Parameter Name EN": "C22:5(n-3)cis Docosapentaenoic (DPA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9942,
+        "Parameter Name DE": "Monounsaturated fatty acids",
+        "Parameter Name EN": "Monounsaturated fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9943,
+        "Parameter Name DE": "Polyunsaturated fatty acids",
+        "Parameter Name EN": "Polyunsaturated fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9944,
+        "Parameter Name DE": "Saturated fatty acids",
+        "Parameter Name EN": "Saturated fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9945,
+        "Parameter Name DE": "Total Omega-3 fatty acids",
+        "Parameter Name EN": "Total Omega-3 fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9946,
+        "Parameter Name DE": "C16:1(n-7)cis Palmitoleic acid",
+        "Parameter Name EN": "C16:1(n-7)cis Palmitoleic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9947,
+        "Parameter Name DE": "C20:3(n-6)cis cis-8,11,14 Eicosatrienoic acid",
+        "Parameter Name EN": "C20:3(n-6)cis cis-8,11,14 Eicosatrienoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9948,
+        "Parameter Name DE": "C20:2(n-6)cis cis-11,14-Ecosadienoic acid",
+        "Parameter Name EN": "C20:2(n-6)cis cis-11,14-Ecosadienoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9949,
+        "Parameter Name DE": "C22:1(n-11)cis Cetoleic acid",
+        "Parameter Name EN": "C22:1(n-11)cis Cetoleic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9950,
+        "Parameter Name DE": "Total Omega-9 fatty acids",
+        "Parameter Name EN": "Total Omega-9 fatty acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9951,
+        "Parameter Name DE": "C5:0 Valeric acid",
+        "Parameter Name EN": "C5:0 Valeric acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9952,
+        "Parameter Name DE": "C7:0 Heptanoic acid",
+        "Parameter Name EN": "C7:0 Heptanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9953,
+        "Parameter Name DE": "C9:0 Nonanoic acid",
+        "Parameter Name EN": "C9:0 Nonanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9954,
+        "Parameter Name DE": "C10:1(n-1)cis cis-9-Decenoic acid",
+        "Parameter Name EN": "C10:1(n-1)cis cis-9-Decenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9955,
+        "Parameter Name DE": "C12:1(n-3)cis cis-9-Dodecenoic acid",
+        "Parameter Name EN": "C12:1(n-3)cis cis-9-Dodecenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9956,
+        "Parameter Name DE": "C14:0 iso 12-Methyltridecanoic acid",
+        "Parameter Name EN": "C14:0 iso 12-Methyltridecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9957,
+        "Parameter Name DE": "C12:1(n-1)cis cis-11-Dodecenoic acid",
+        "Parameter Name EN": "C12:1(n-1)cis cis-11-Dodecenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9958,
+        "Parameter Name DE": "C14:0 ante-iso 11-Methyltridecanoic acid",
+        "Parameter Name EN": "C14:0 ante-iso 11-Methyltridecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9959,
+        "Parameter Name DE": "C15:0 iso 13-Methylmyristic acid",
+        "Parameter Name EN": "C15:0 iso 13-Methylmyristic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9960,
+        "Parameter Name DE": "C15:0 ante-iso 12-Methyltetradecanoic acid",
+        "Parameter Name EN": "C15:0 ante-iso 12-Methyltetradecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9961,
+        "Parameter Name DE": "C16:0 iso 14-Methylpentadecanoic acid",
+        "Parameter Name EN": "C16:0 iso 14-Methylpentadecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9962,
+        "Parameter Name DE": "C15:1(n-5)cis cis-10-Pentadecenoic Acid",
+        "Parameter Name EN": "C15:1(n-5)cis cis-10-Pentadecenoic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9963,
+        "Parameter Name DE": "C17:0 iso 15-Methylpalmitic acid",
+        "Parameter Name EN": "C17:0 iso 15-Methylpalmitic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9964,
+        "Parameter Name DE": "C16:1(n-9)cis cis-5-Hexadecenoic acid",
+        "Parameter Name EN": "C16:1(n-9)cis cis-5-Hexadecenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9965,
+        "Parameter Name DE": "C17:0 ante-iso 14-Methylhexadecanoic acid",
+        "Parameter Name EN": "C17:0 ante-iso 14-Methylhexadecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9966,
+        "Parameter Name DE": "C16:1(n-5)cis cis-11-Hexadecenoic acid",
+        "Parameter Name EN": "C16:1(n-5)cis cis-11-Hexadecenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9967,
+        "Parameter Name DE": "C18:0 iso 16-Methylheptadecanoic acid",
+        "Parameter Name EN": "C18:0 iso 16-Methylheptadecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9968,
+        "Parameter Name DE": "C18:0 ante-iso 15-Methylheptadecanoic acid",
+        "Parameter Name EN": "C18:0 ante-iso 15-Methylheptadecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9969,
+        "Parameter Name DE": "C17:1(n-7)cis cis-10-Heptadecenoic Acid",
+        "Parameter Name EN": "C17:1(n-7)cis cis-10-Heptadecenoic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9970,
+        "Parameter Name DE": "C18:1(n-11)trans trans-7-Octadecenoic acid",
+        "Parameter Name EN": "C18:1(n-11)trans trans-7-Octadecenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9971,
+        "Parameter Name DE": "C18:1(n-7)trans trans-Vaccenic acid",
+        "Parameter Name EN": "C18:1(n-7)trans trans-Vaccenic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9972,
+        "Parameter Name DE": "C18:1(n-6)trans trans-12-Octadecenoic Acid",
+        "Parameter Name EN": "C18:1(n-6)trans trans-12-Octadecenoic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9973,
+        "Parameter Name DE": "C18:1(n-7)cis cis-Vaccenic Acid",
+        "Parameter Name EN": "C18:1(n-7)cis cis-Vaccenic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9974,
+        "Parameter Name DE": "C18:1(n-6)cis cis-12-Octadecenoic acid",
+        "Parameter Name EN": "C18:1(n-6)cis cis-12-Octadecenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9975,
+        "Parameter Name DE": "C18:2(n-6)trans Linolelaidic acid",
+        "Parameter Name EN": "C18:2(n-6)trans Linolelaidic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9976,
+        "Parameter Name DE": "C18:2(n-6)cis Linoleic acid",
+        "Parameter Name EN": "C18:2(n-6)cis Linoleic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9977,
+        "Parameter Name DE": "C20:1(n9)cis cis-11-Eicosenoic Acid",
+        "Parameter Name EN": "C20:1(n9)cis cis-11-Eicosenoic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9978,
+        "Parameter Name DE": "C18:4(n-3)cis Stearidonic acid",
+        "Parameter Name EN": "C18:4(n-3)cis Stearidonic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9979,
+        "Parameter Name DE": "Total Trans Fatty Acids",
+        "Parameter Name EN": "Total Trans Fatty Acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9980,
+        "Parameter Name DE": "C18:2conj Total Conjugated Linoleic acid (CLA)",
+        "Parameter Name EN": "C18:2conj Total Conjugated Linoleic acid (CLA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9981,
+        "Parameter Name DE": "C14:1(n-5)cis Myristoleic Acid",
+        "Parameter Name EN": "C14:1(n-5)cis Myristoleic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9982,
+        "Parameter Name DE": "C17:0 Heptadecanoic acid",
+        "Parameter Name EN": "C17:0 Heptadecanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9983,
+        "Parameter Name DE": "C20:3(n-3)cis cis-11,14,17-Eicosatrienoic acid",
+        "Parameter Name EN": "C20:3(n-3)cis cis-11,14,17-Eicosatrienoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9984,
+        "Parameter Name DE": "C20:4(n-6)cis Arachidonic Acid",
+        "Parameter Name EN": "C20:4(n-6)cis Arachidonic Acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9985,
+        "Parameter Name DE": "C20:4(n-3)cis cis-8,11,14,17-Eicosatetraenoic acid",
+        "Parameter Name EN": "C20:4(n-3)cis cis-8,11,14,17-Eicosatetraenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9986,
+        "Parameter Name DE": "C24:1(n-9)cis Nervonic acid",
+        "Parameter Name EN": "C24:1(n-9)cis Nervonic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9987,
+        "Parameter Name DE": "C25:0 Pentacosanoic acid",
+        "Parameter Name EN": "C25:0 Pentacosanoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9988,
+        "Parameter Name DE": "C22:5(n-6)cis cis4,7,10,13,16Docosapentaenoic acid",
+        "Parameter Name EN": "C22:5(n-6)cis cis4,7,10,13,16Docosapentaenoic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9989,
+        "Parameter Name DE": "Total dietary fibre",
+        "Parameter Name EN": "Total dietary fibre",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9990,
+        "Parameter Name DE": "Rutin",
+        "Parameter Name EN": "Rutin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9991,
+        "Parameter Name DE": "Quercetin",
+        "Parameter Name EN": "Quercetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9992,
+        "Parameter Name DE": "Myricetin",
+        "Parameter Name EN": "Myricetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9993,
+        "Parameter Name DE": "Isorhamnetin",
+        "Parameter Name EN": "Isorhamnetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9994,
+        "Parameter Name DE": "Kaempferol",
+        "Parameter Name EN": "Kaempferol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9995,
+        "Parameter Name DE": "Dihydromyricetin (DHM)",
+        "Parameter Name EN": "Dihydromyricetin (DHM)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9996,
+        "Parameter Name DE": "Luteolin",
+        "Parameter Name EN": "Luteolin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9997,
+        "Parameter Name DE": "Isoquercetin",
+        "Parameter Name EN": "Isoquercetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9998,
+        "Parameter Name DE": "Folic acid",
+        "Parameter Name EN": "Folic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 9999,
+        "Parameter Name DE": "Forskolin",
+        "Parameter Name EN": "Forskolin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10000,
+        "Parameter Name DE": "Hydrogen cyanide (free HCN)",
+        "Parameter Name EN": "Hydrogen cyanide (free HCN)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10001,
+        "Parameter Name DE": "myo-Inositol",
+        "Parameter Name EN": "myo-Inositol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10002,
+        "Parameter Name DE": "myo-Inositol",
+        "Parameter Name EN": "myo-Inositol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10003,
+        "Parameter Name DE": "myo-Inositol",
+        "Parameter Name EN": "myo-Inositol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10004,
+        "Parameter Name DE": "Cystine (free)",
+        "Parameter Name EN": "Cystine (free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10005,
+        "Parameter Name DE": "Inositol",
+        "Parameter Name EN": "Inositol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10006,
+        "Parameter Name DE": "gamma-Amino-butyric acid (Free)",
+        "Parameter Name EN": "gamma-Amino-butyric acid (Free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10007,
+        "Parameter Name DE": "Gluten",
+        "Parameter Name EN": "Gluten",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10008,
+        "Parameter Name DE": "Glutamine",
+        "Parameter Name EN": "Glutamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10009,
+        "Parameter Name DE": "Glutathione",
+        "Parameter Name EN": "Glutathione",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10010,
+        "Parameter Name DE": "Glutathione",
+        "Parameter Name EN": "Glutathione",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10011,
+        "Parameter Name DE": "Glycidol (calculated)",
+        "Parameter Name EN": "Glycidol (calculated)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10012,
+        "Parameter Name DE": "Total Guggulsterones",
+        "Parameter Name EN": "Total Guggulsterones",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10013,
+        "Parameter Name DE": "Guggulsterone E",
+        "Parameter Name EN": "Guggulsterone E",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10014,
+        "Parameter Name DE": "Guggulsterone Z",
+        "Parameter Name EN": "Guggulsterone Z",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10015,
+        "Parameter Name DE": "DUMMY PREP PM",
+        "Parameter Name EN": "DUMMY PREP PM",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10016,
+        "Parameter Name DE": "hyaluronic acid",
+        "Parameter Name EN": "hyaluronic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10017,
+        "Parameter Name DE": "Identification",
+        "Parameter Name EN": "Identification",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10018,
+        "Parameter Name DE": "Sum of As from Inorganic Species",
+        "Parameter Name EN": "Sum of As from Inorganic Species",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10019,
+        "Parameter Name DE": "Arsenic, inorganic",
+        "Parameter Name EN": "Arsenic, inorganic",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10020,
+        "Parameter Name DE": "Iodine",
+        "Parameter Name EN": "Iodine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10021,
+        "Parameter Name DE": "Iodine",
+        "Parameter Name EN": "Iodine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10022,
+        "Parameter Name DE": "Iron (Fe)",
+        "Parameter Name EN": "Iron (Fe)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10023,
+        "Parameter Name DE": "Iron (Fe)",
+        "Parameter Name EN": "Iron (Fe)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10024,
+        "Parameter Name DE": "Iron (Fe)",
+        "Parameter Name EN": "Iron (Fe)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10025,
+        "Parameter Name DE": "Iron (Fe)",
+        "Parameter Name EN": "Iron (Fe)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10026,
+        "Parameter Name DE": "Iron (Fe)",
+        "Parameter Name EN": "Iron (Fe)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10027,
+        "Parameter Name DE": "Lactase",
+        "Parameter Name EN": "Lactase",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10028,
+        "Parameter Name DE": "Lactoferrin",
+        "Parameter Name EN": "Lactoferrin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10029,
+        "Parameter Name DE": "Lead content",
+        "Parameter Name EN": "Lead content",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10030,
+        "Parameter Name DE": "Listeria monocytogenes",
+        "Parameter Name EN": "Listeria monocytogenes",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10031,
+        "Parameter Name DE": "Zeaxanthin",
+        "Parameter Name EN": "Zeaxanthin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10032,
+        "Parameter Name DE": "Lutein",
+        "Parameter Name EN": "Lutein",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10033,
+        "Parameter Name DE": "Zeaxanthin",
+        "Parameter Name EN": "Zeaxanthin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10034,
+        "Parameter Name DE": "Lutein",
+        "Parameter Name EN": "Lutein",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10035,
+        "Parameter Name DE": "Luteolin",
+        "Parameter Name EN": "Luteolin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10036,
+        "Parameter Name DE": "cis-Lycopene",
+        "Parameter Name EN": "cis-Lycopene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10037,
+        "Parameter Name DE": "trans-Lycopene",
+        "Parameter Name EN": "trans-Lycopene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10038,
+        "Parameter Name DE": "Total Lycopene",
+        "Parameter Name EN": "Total Lycopene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10039,
+        "Parameter Name DE": "Total Lycopene",
+        "Parameter Name EN": "Total Lycopene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10040,
+        "Parameter Name DE": "Lysine (Free)",
+        "Parameter Name EN": "Lysine (Free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10041,
+        "Parameter Name DE": "Lysine HCl calculated",
+        "Parameter Name EN": "Lysine HCl calculated",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10042,
+        "Parameter Name DE": "Lysozyme",
+        "Parameter Name EN": "Lysozyme",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10043,
+        "Parameter Name DE": "Magnesium (Mg)",
+        "Parameter Name EN": "Magnesium (Mg)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10044,
+        "Parameter Name DE": "Magnesium (Mg)",
+        "Parameter Name EN": "Magnesium (Mg)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10045,
+        "Parameter Name DE": "Magnesium (Mg)",
+        "Parameter Name EN": "Magnesium (Mg)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10046,
+        "Parameter Name DE": "Malic acid",
+        "Parameter Name EN": "Malic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10047,
+        "Parameter Name DE": "Manganese (Mn)",
+        "Parameter Name EN": "Manganese (Mn)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10048,
+        "Parameter Name DE": "Melatonin",
+        "Parameter Name EN": "Melatonin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10049,
+        "Parameter Name DE": "Mercury content",
+        "Parameter Name EN": "Mercury content",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10050,
+        "Parameter Name DE": "Mesterolone (anabolic steroids)",
+        "Parameter Name EN": "Mesterolone (anabolic steroids)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10051,
+        "Parameter Name DE": "Metandienon",
+        "Parameter Name EN": "Metandienon",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10052,
+        "Parameter Name DE": "Metenolone (anabolic steroids)",
+        "Parameter Name EN": "Metenolone (anabolic steroids)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10053,
+        "Parameter Name DE": "Methyl-1-testosterone (anabolic steroids)",
+        "Parameter Name EN": "Methyl-1-testosterone (anabolic steroids)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10054,
+        "Parameter Name DE": "Sum of methyl & hydroxycbl exp as methylcobalamin",
+        "Parameter Name EN": "Sum of methyl & hydroxycbl exp as methylcobalamin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10055,
+        "Parameter Name DE": "Methyltestosterone",
+        "Parameter Name EN": "Methyltestosterone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10056,
+        "Parameter Name DE": "Molybdenum (Mo)",
+        "Parameter Name EN": "Molybdenum (Mo)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10057,
+        "Parameter Name DE": "Molybdenum (Mo)",
+        "Parameter Name EN": "Molybdenum (Mo)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10058,
+        "Parameter Name DE": "Moulds",
+        "Parameter Name EN": "Moulds",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10059,
+        "Parameter Name DE": "Yeast",
+        "Parameter Name EN": "Yeast",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10060,
+        "Parameter Name DE": "N-Acetyl-L-Cysteine",
+        "Parameter Name EN": "N-Acetyl-L-Cysteine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10061,
+        "Parameter Name DE": "N-Acetyl-L-Cysteine",
+        "Parameter Name EN": "N-Acetyl-L-Cysteine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10062,
+        "Parameter Name DE": "N-Acetyl-L-Tyrosine",
+        "Parameter Name EN": "N-Acetyl-L-Tyrosine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10063,
+        "Parameter Name DE": "Norovirus GI",
+        "Parameter Name EN": "Norovirus GI",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10064,
+        "Parameter Name DE": "Ochratoxin A",
+        "Parameter Name EN": "Ochratoxin A",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10065,
+        "Parameter Name DE": "Hydroxytyrosol",
+        "Parameter Name EN": "Hydroxytyrosol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10066,
+        "Parameter Name DE": "Tyrosol",
+        "Parameter Name EN": "Tyrosol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10067,
+        "Parameter Name DE": "Oleuropein",
+        "Parameter Name EN": "Oleuropein",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10068,
+        "Parameter Name DE": "Verbascocide",
+        "Parameter Name EN": "Verbascocide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10069,
+        "Parameter Name DE": "3,4-Dihydroxyphenyl glycol (DHPG)",
+        "Parameter Name EN": "3,4-Dihydroxyphenyl glycol (DHPG)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10070,
+        "Parameter Name DE": "DDT (total)",
+        "Parameter Name EN": "DDT (total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10071,
+        "Parameter Name DE": "DDT, p,p'-",
+        "Parameter Name EN": "DDT, p,p'-",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10072,
+        "Parameter Name DE": "Azoxystrobin",
+        "Parameter Name EN": "Azoxystrobin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10073,
+        "Parameter Name DE": "Biphenyl",
+        "Parameter Name EN": "Biphenyl",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10074,
+        "Parameter Name DE": "2-Phenylphenol",
+        "Parameter Name EN": "2-Phenylphenol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10075,
+        "Parameter Name DE": "PABA",
+        "Parameter Name EN": "PABA",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10076,
+        "Parameter Name DE": "Benzo(a)pyrene",
+        "Parameter Name EN": "Benzo(a)pyrene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10077,
+        "Parameter Name DE": "Benz(a)anthracene",
+        "Parameter Name EN": "Benz(a)anthracene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10078,
+        "Parameter Name DE": "Chrysene",
+        "Parameter Name EN": "Chrysene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10079,
+        "Parameter Name DE": "Benzo(b)fluoranthene",
+        "Parameter Name EN": "Benzo(b)fluoranthene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10080,
+        "Parameter Name DE": "Sum PAH 4",
+        "Parameter Name EN": "Sum PAH 4",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10081,
+        "Parameter Name DE": "Papain activity",
+        "Parameter Name EN": "Papain activity",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10082,
+        "Parameter Name DE": "Patulin",
+        "Parameter Name EN": "Patulin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10083,
+        "Parameter Name DE": "Peroxide value",
+        "Parameter Name EN": "Peroxide value",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10084,
+        "Parameter Name DE": "Peroxide value",
+        "Parameter Name EN": "Peroxide value",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10085,
+        "Parameter Name DE": "Ethylene Oxide (free)",
+        "Parameter Name EN": "Ethylene Oxide (free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10086,
+        "Parameter Name DE": "Ethylene oxide (sum ethylene oxide and 2-chloro-et",
+        "Parameter Name EN": "Ethylene oxide (sum ethylene oxide and 2-chloro-et",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10087,
+        "Parameter Name DE": "2-chloro-ethanol (expr. as ethylene oxide)",
+        "Parameter Name EN": "2-chloro-ethanol (expr. as ethylene oxide)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10088,
+        "Parameter Name DE": "Other screened pesticides",
+        "Parameter Name EN": "Other screened pesticides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10089,
+        "Parameter Name DE": "Screened pesticides",
+        "Parameter Name EN": "Screened pesticides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10090,
+        "Parameter Name DE": "Carbendazim\/Benomyl (sum)",
+        "Parameter Name EN": "Carbendazim\/Benomyl (sum)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10091,
+        "Parameter Name DE": "Epoxiconazole",
+        "Parameter Name EN": "Epoxiconazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10092,
+        "Parameter Name DE": "Tebuconazole",
+        "Parameter Name EN": "Tebuconazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10093,
+        "Parameter Name DE": "Tricyclazole",
+        "Parameter Name EN": "Tricyclazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10094,
+        "Parameter Name DE": "Carbendazim",
+        "Parameter Name EN": "Carbendazim",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10095,
+        "Parameter Name DE": "Hexaconazole",
+        "Parameter Name EN": "Hexaconazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10096,
+        "Parameter Name DE": "Cyprodinil",
+        "Parameter Name EN": "Cyprodinil",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10097,
+        "Parameter Name DE": "Thiacloprid",
+        "Parameter Name EN": "Thiacloprid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10098,
+        "Parameter Name DE": "Diethyltoluamide",
+        "Parameter Name EN": "Diethyltoluamide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10099,
+        "Parameter Name DE": "Pyraclostrobin",
+        "Parameter Name EN": "Pyraclostrobin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10100,
+        "Parameter Name DE": "Acetamiprid",
+        "Parameter Name EN": "Acetamiprid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10101,
+        "Parameter Name DE": "Boscalid",
+        "Parameter Name EN": "Boscalid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10102,
+        "Parameter Name DE": "Imidacloprid",
+        "Parameter Name EN": "Imidacloprid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10103,
+        "Parameter Name DE": "Carboxin",
+        "Parameter Name EN": "Carboxin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10104,
+        "Parameter Name DE": "Thiamethoxam",
+        "Parameter Name EN": "Thiamethoxam",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10105,
+        "Parameter Name DE": "Miristalkonium chloride (BAC-C14)",
+        "Parameter Name EN": "Miristalkonium chloride (BAC-C14)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10106,
+        "Parameter Name DE": "Benzalkonium chloride (total) (BAC)",
+        "Parameter Name EN": "Benzalkonium chloride (total) (BAC)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10107,
+        "Parameter Name DE": "Cetalkonium chloride (BAC-C16)",
+        "Parameter Name EN": "Cetalkonium chloride (BAC-C16)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10108,
+        "Parameter Name DE": "Difenoconazole",
+        "Parameter Name EN": "Difenoconazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10109,
+        "Parameter Name DE": "Iprodione",
+        "Parameter Name EN": "Iprodione",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10110,
+        "Parameter Name DE": "Procymidone",
+        "Parameter Name EN": "Procymidone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10111,
+        "Parameter Name DE": "Propiconazole (sum of isomers)",
+        "Parameter Name EN": "Propiconazole (sum of isomers)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10112,
+        "Parameter Name DE": "Pyrimethanil",
+        "Parameter Name EN": "Pyrimethanil",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10113,
+        "Parameter Name DE": "Buprofezin",
+        "Parameter Name EN": "Buprofezin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10114,
+        "Parameter Name DE": "Pyriproxyfen",
+        "Parameter Name EN": "Pyriproxyfen",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10115,
+        "Parameter Name DE": "Fludioxonil",
+        "Parameter Name EN": "Fludioxonil",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10116,
+        "Parameter Name DE": "Metalaxyl and metalaxyl-M (metalaxyl including oth",
+        "Parameter Name EN": "Metalaxyl and metalaxyl-M (metalaxyl including oth",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10117,
+        "Parameter Name DE": "Myclobutanil (sum of constituent isomers)",
+        "Parameter Name EN": "Myclobutanil (sum of constituent isomers)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10118,
+        "Parameter Name DE": "Fenbuconazole (sum of constituent enantiomers)",
+        "Parameter Name EN": "Fenbuconazole (sum of constituent enantiomers)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10119,
+        "Parameter Name DE": "Dimethomorph (sum of isomers)",
+        "Parameter Name EN": "Dimethomorph (sum of isomers)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10120,
+        "Parameter Name DE": "Tetraconazole",
+        "Parameter Name EN": "Tetraconazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10121,
+        "Parameter Name DE": "Trifloxystrobin",
+        "Parameter Name EN": "Trifloxystrobin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10122,
+        "Parameter Name DE": "Spiroxamine",
+        "Parameter Name EN": "Spiroxamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10123,
+        "Parameter Name DE": "Etofenprox",
+        "Parameter Name EN": "Etofenprox",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10124,
+        "Parameter Name DE": "Fluopicolide",
+        "Parameter Name EN": "Fluopicolide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10125,
+        "Parameter Name DE": "Metalaxyl\/Metalaxyl-M (sum)",
+        "Parameter Name EN": "Metalaxyl\/Metalaxyl-M (sum)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10126,
+        "Parameter Name DE": "Mandipropamid (any ratio of constituent isomers)",
+        "Parameter Name EN": "Mandipropamid (any ratio of constituent isomers)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10127,
+        "Parameter Name DE": "Ametoctradin",
+        "Parameter Name EN": "Ametoctradin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10128,
+        "Parameter Name DE": "Fenhexamid",
+        "Parameter Name EN": "Fenhexamid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10129,
+        "Parameter Name DE": "Methoxyfenozide",
+        "Parameter Name EN": "Methoxyfenozide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10130,
+        "Parameter Name DE": "2,4-D",
+        "Parameter Name EN": "2,4-D",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10131,
+        "Parameter Name DE": "Flubendiamide",
+        "Parameter Name EN": "Flubendiamide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10132,
+        "Parameter Name DE": "Clothianidin",
+        "Parameter Name EN": "Clothianidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10133,
+        "Parameter Name DE": "Haloxyfop",
+        "Parameter Name EN": "Haloxyfop",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10134,
+        "Parameter Name DE": "Quizalofop",
+        "Parameter Name EN": "Quizalofop",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10135,
+        "Parameter Name DE": "Chlorantraniliprole",
+        "Parameter Name EN": "Chlorantraniliprole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10136,
+        "Parameter Name DE": "Flusilazole",
+        "Parameter Name EN": "Flusilazole",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10137,
+        "Parameter Name DE": "Cyhalothrin, lambda-(incl. Cyhalothrin, gamma-)",
+        "Parameter Name EN": "Cyhalothrin, lambda-(incl. Cyhalothrin, gamma-)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10138,
+        "Parameter Name DE": "Piperonyl butoxide",
+        "Parameter Name EN": "Piperonyl butoxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10139,
+        "Parameter Name DE": "Triadimenol",
+        "Parameter Name EN": "Triadimenol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10140,
+        "Parameter Name DE": "Metalaxyl (sum of isomers, including Metalaxyl-M)",
+        "Parameter Name EN": "Metalaxyl (sum of isomers, including Metalaxyl-M)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10141,
+        "Parameter Name DE": "Malathion",
+        "Parameter Name EN": "Malathion",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10142,
+        "Parameter Name DE": "Malathion\/Malaoxon (sum)",
+        "Parameter Name EN": "Malathion\/Malaoxon (sum)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10143,
+        "Parameter Name DE": "Terbuthylazine, desethyl-",
+        "Parameter Name EN": "Terbuthylazine, desethyl-",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10144,
+        "Parameter Name DE": "Isoprocarb",
+        "Parameter Name EN": "Isoprocarb",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10145,
+        "Parameter Name DE": "Phthalimide (PI)",
+        "Parameter Name EN": "Phthalimide (PI)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10146,
+        "Parameter Name DE": "Folpet\/PI (Sum calculated as Folpet)",
+        "Parameter Name EN": "Folpet\/PI (Sum calculated as Folpet)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10147,
+        "Parameter Name DE": "Cypermethrin (sum of isomers)",
+        "Parameter Name EN": "Cypermethrin (sum of isomers)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10148,
+        "Parameter Name DE": "Deltamethrin",
+        "Parameter Name EN": "Deltamethrin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10149,
+        "Parameter Name DE": "Anthraquinone",
+        "Parameter Name EN": "Anthraquinone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10150,
+        "Parameter Name DE": "Phycocyanin",
+        "Parameter Name EN": "Phycocyanin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10151,
+        "Parameter Name DE": "Piperine",
+        "Parameter Name EN": "Piperine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10152,
+        "Parameter Name DE": "Piperine",
+        "Parameter Name EN": "Piperine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10153,
+        "Parameter Name DE": "Polyphenols calculated as tannic acid equivalent",
+        "Parameter Name EN": "Polyphenols calculated as tannic acid equivalent",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10154,
+        "Parameter Name DE": "Polyphenols calculated as gallic acid equivalent",
+        "Parameter Name EN": "Polyphenols calculated as gallic acid equivalent",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10155,
+        "Parameter Name DE": "Polyphenols calculated as catechine equivalent",
+        "Parameter Name EN": "Polyphenols calculated as catechine equivalent",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10156,
+        "Parameter Name DE": "Polyphenols calculated as epicatechine equivalent",
+        "Parameter Name EN": "Polyphenols calculated as epicatechine equivalent",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10157,
+        "Parameter Name DE": "Polyphenols calc. as EGCG equivalent",
+        "Parameter Name EN": "Polyphenols calc. as EGCG equivalent",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10158,
+        "Parameter Name DE": "Prednisolone",
+        "Parameter Name EN": "Prednisolone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10159,
+        "Parameter Name DE": "Caffeine complexation",
+        "Parameter Name EN": "Caffeine complexation",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10160,
+        "Parameter Name DE": "Live Cell Count",
+        "Parameter Name EN": "Live Cell Count",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10161,
+        "Parameter Name DE": "Dead Cell Count",
+        "Parameter Name EN": "Dead Cell Count",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10162,
+        "Parameter Name DE": "Injured Cell Count",
+        "Parameter Name EN": "Injured Cell Count",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10163,
+        "Parameter Name DE": "Protease (PC)",
+        "Parameter Name EN": "Protease (PC)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10164,
+        "Parameter Name DE": "Protein (Nx6,25)",
+        "Parameter Name EN": "Protein (Nx6,25)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10165,
+        "Parameter Name DE": "Nitrogen - Kjeldahl",
+        "Parameter Name EN": "Nitrogen - Kjeldahl",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10166,
+        "Parameter Name DE": "Protein * 6.38",
+        "Parameter Name EN": "Protein * 6.38",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10167,
+        "Parameter Name DE": "Punicalagins",
+        "Parameter Name EN": "Punicalagins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10168,
+        "Parameter Name DE": "Lycopsamine",
+        "Parameter Name EN": "Lycopsamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10169,
+        "Parameter Name DE": "Intermedine",
+        "Parameter Name EN": "Intermedine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10170,
+        "Parameter Name DE": "Echimidine",
+        "Parameter Name EN": "Echimidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10171,
+        "Parameter Name DE": "Echimidine N-oxide",
+        "Parameter Name EN": "Echimidine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10172,
+        "Parameter Name DE": "Heliotrine N-oxide",
+        "Parameter Name EN": "Heliotrine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10173,
+        "Parameter Name DE": "Seneciphylline N-oxide",
+        "Parameter Name EN": "Seneciphylline N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10174,
+        "Parameter Name DE": "Monocrotaline N-oxide",
+        "Parameter Name EN": "Monocrotaline N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10175,
+        "Parameter Name DE": "Retrorsine N-oxide",
+        "Parameter Name EN": "Retrorsine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10176,
+        "Parameter Name DE": "Sum Bfr-28 Pyrrolizidine alkaloids",
+        "Parameter Name EN": "Sum Bfr-28 Pyrrolizidine alkaloids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10177,
+        "Parameter Name DE": "Lasiocarpine N-oxide",
+        "Parameter Name EN": "Lasiocarpine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10178,
+        "Parameter Name DE": "Trichodesmine",
+        "Parameter Name EN": "Trichodesmine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10179,
+        "Parameter Name DE": "Erucifoline",
+        "Parameter Name EN": "Erucifoline",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10180,
+        "Parameter Name DE": "Erucifoline N-oxide",
+        "Parameter Name EN": "Erucifoline N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10181,
+        "Parameter Name DE": "Indicine",
+        "Parameter Name EN": "Indicine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10182,
+        "Parameter Name DE": "Jacobine",
+        "Parameter Name EN": "Jacobine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10183,
+        "Parameter Name DE": "Jacobine N-oxide",
+        "Parameter Name EN": "Jacobine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10184,
+        "Parameter Name DE": "Senecivernine",
+        "Parameter Name EN": "Senecivernine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10185,
+        "Parameter Name DE": "Senecivernine N-oxide",
+        "Parameter Name EN": "Senecivernine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10186,
+        "Parameter Name DE": "Lycopsamine N-oxide",
+        "Parameter Name EN": "Lycopsamine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10187,
+        "Parameter Name DE": "Monocrotaline",
+        "Parameter Name EN": "Monocrotaline",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10188,
+        "Parameter Name DE": "Senkirkine",
+        "Parameter Name EN": "Senkirkine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10189,
+        "Parameter Name DE": "Seneciphylline",
+        "Parameter Name EN": "Seneciphylline",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10190,
+        "Parameter Name DE": "Heliotrine",
+        "Parameter Name EN": "Heliotrine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10191,
+        "Parameter Name DE": "Senecionine",
+        "Parameter Name EN": "Senecionine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10192,
+        "Parameter Name DE": "Lasiocarpine",
+        "Parameter Name EN": "Lasiocarpine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10193,
+        "Parameter Name DE": "Europine N-oxide",
+        "Parameter Name EN": "Europine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10194,
+        "Parameter Name DE": "Retrorsine \/ Usaramine",
+        "Parameter Name EN": "Retrorsine \/ Usaramine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10195,
+        "Parameter Name DE": "Senecionine N-oxide \/ Integerrimine N-oxide",
+        "Parameter Name EN": "Senecionine N-oxide \/ Integerrimine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10196,
+        "Parameter Name DE": "Intermedine N-Ox\/Indicine N-Ox\/Echinatine N-Ox",
+        "Parameter Name EN": "Intermedine N-Ox\/Indicine N-Ox\/Echinatine N-Ox",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10197,
+        "Parameter Name DE": "Europine",
+        "Parameter Name EN": "Europine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10198,
+        "Parameter Name DE": "Echinatine",
+        "Parameter Name EN": "Echinatine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10199,
+        "Parameter Name DE": "Heliosupine",
+        "Parameter Name EN": "Heliosupine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10200,
+        "Parameter Name DE": "Heliosupine N-oxide",
+        "Parameter Name EN": "Heliosupine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10201,
+        "Parameter Name DE": "Integerrimine",
+        "Parameter Name EN": "Integerrimine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10202,
+        "Parameter Name DE": "Rinderine",
+        "Parameter Name EN": "Rinderine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10203,
+        "Parameter Name DE": "Rinderine N-oxide",
+        "Parameter Name EN": "Rinderine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10204,
+        "Parameter Name DE": "Usaramine N-oxide",
+        "Parameter Name EN": "Usaramine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10205,
+        "Parameter Name DE": "Sum of Pyrrolizidine alkaloids CR (EU) 2023\/915",
+        "Parameter Name EN": "Sum of Pyrrolizidine alkaloids CR (EU) 2023\/915",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10206,
+        "Parameter Name DE": "Spartioidine",
+        "Parameter Name EN": "Spartioidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10207,
+        "Parameter Name DE": "Spartioidine N-oxide",
+        "Parameter Name EN": "Spartioidine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10208,
+        "Parameter Name DE": "Cannabidivarin (CBDV)",
+        "Parameter Name EN": "Cannabidivarin (CBDV)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10209,
+        "Parameter Name DE": "Cannabigerolic Acid (CBGA)",
+        "Parameter Name EN": "Cannabigerolic Acid (CBGA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10210,
+        "Parameter Name DE": "Δ9- Tetrahydrocannabinol (Δ9 -THC)",
+        "Parameter Name EN": "Δ9- Tetrahydrocannabinol (Δ9 -THC)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10211,
+        "Parameter Name DE": "Δ8- Tetrahydrocannabinol (Δ8 -THC)",
+        "Parameter Name EN": "Δ8- Tetrahydrocannabinol (Δ8 -THC)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10212,
+        "Parameter Name DE": "Cannabichromene (CBC)",
+        "Parameter Name EN": "Cannabichromene (CBC)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10213,
+        "Parameter Name DE": "Tetrahydrocannabinolic Acid (THCA)",
+        "Parameter Name EN": "Tetrahydrocannabinolic Acid (THCA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10214,
+        "Parameter Name DE": "Cannabigerol (CBG)",
+        "Parameter Name EN": "Cannabigerol (CBG)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10215,
+        "Parameter Name DE": "Cannabidiolic Acid (CBDA)",
+        "Parameter Name EN": "Cannabidiolic Acid (CBDA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10216,
+        "Parameter Name DE": "Cannabichromenic Acid (CBCA)",
+        "Parameter Name EN": "Cannabichromenic Acid (CBCA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10217,
+        "Parameter Name DE": "Cannabicyclol (CBL)",
+        "Parameter Name EN": "Cannabicyclol (CBL)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10218,
+        "Parameter Name DE": "Cannabidivarinic Acid (CBDVA)",
+        "Parameter Name EN": "Cannabidivarinic Acid (CBDVA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10219,
+        "Parameter Name DE": "Cannabinolic Acid (CBNA)",
+        "Parameter Name EN": "Cannabinolic Acid (CBNA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10220,
+        "Parameter Name DE": "Tetrahydrocannabivarin (THCV)",
+        "Parameter Name EN": "Tetrahydrocannabivarin (THCV)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10221,
+        "Parameter Name DE": "Tetrahydrocannabivarinic Acid (THCVA)",
+        "Parameter Name EN": "Tetrahydrocannabivarinic Acid (THCVA)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10222,
+        "Parameter Name DE": "Total CBD (CBD+(CBDA X 0.877))",
+        "Parameter Name EN": "Total CBD (CBD+(CBDA X 0.877))",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10223,
+        "Parameter Name DE": "Total THC (THC+ (THCA x 0.877))",
+        "Parameter Name EN": "Total THC (THC+ (THCA x 0.877))",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10224,
+        "Parameter Name DE": "Cannabinol (CBN)",
+        "Parameter Name EN": "Cannabinol (CBN)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10225,
+        "Parameter Name DE": "Cannabidiol (CBD)",
+        "Parameter Name EN": "Cannabidiol (CBD)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10226,
+        "Parameter Name DE": "Activity in Iodine 131",
+        "Parameter Name EN": "Activity in Iodine 131",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10227,
+        "Parameter Name DE": "Activity in Cesium 134",
+        "Parameter Name EN": "Activity in Cesium 134",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10228,
+        "Parameter Name DE": "Activity in Cesium 137",
+        "Parameter Name EN": "Activity in Cesium 137",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10229,
+        "Parameter Name DE": "Total Resveratrol",
+        "Parameter Name EN": "Total Resveratrol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10230,
+        "Parameter Name DE": "cis-Resveratrol",
+        "Parameter Name EN": "cis-Resveratrol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10231,
+        "Parameter Name DE": "Cis-Resveratrol Glucoside",
+        "Parameter Name EN": "Cis-Resveratrol Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10232,
+        "Parameter Name DE": "Trans-Resveratrol Glucoside",
+        "Parameter Name EN": "Trans-Resveratrol Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10233,
+        "Parameter Name DE": "Resveratrol",
+        "Parameter Name EN": "Resveratrol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10234,
+        "Parameter Name DE": "trans-Resveratrol",
+        "Parameter Name EN": "trans-Resveratrol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10235,
+        "Parameter Name DE": "Riboflavin incl. phosphorylated forms",
+        "Parameter Name EN": "Riboflavin incl. phosphorylated forms",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10236,
+        "Parameter Name DE": "S-Adenosyl-L-Methionine_FS0PW-1",
+        "Parameter Name EN": "S-Adenosyl-L-Methionine_FS0PW-1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10237,
+        "Parameter Name DE": "Saccharomyces cerevisiae spp. boulardii",
+        "Parameter Name EN": "Saccharomyces cerevisiae spp. boulardii",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10238,
+        "Parameter Name DE": "Salmonella",
+        "Parameter Name EN": "Salmonella",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10239,
+        "Parameter Name DE": "Salt calculated as NaCl",
+        "Parameter Name EN": "Salt calculated as NaCl",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10240,
+        "Parameter Name DE": "Selenium (Se)",
+        "Parameter Name EN": "Selenium (Se)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10241,
+        "Parameter Name DE": "Number of units",
+        "Parameter Name EN": "Number of units",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10242,
+        "Parameter Name DE": "Silymarin (as Silibinin)",
+        "Parameter Name EN": "Silymarin (as Silibinin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10243,
+        "Parameter Name DE": "water additional (slurry)",
+        "Parameter Name EN": "water additional (slurry)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10244,
+        "Parameter Name DE": "Toluene",
+        "Parameter Name EN": "Toluene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10245,
+        "Parameter Name DE": "Ethylbenzene",
+        "Parameter Name EN": "Ethylbenzene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10246,
+        "Parameter Name DE": "Xylene (ortho-)",
+        "Parameter Name EN": "Xylene (ortho-)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10247,
+        "Parameter Name DE": "Styrene",
+        "Parameter Name EN": "Styrene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10248,
+        "Parameter Name DE": "Bromodichloromethane",
+        "Parameter Name EN": "Bromodichloromethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10249,
+        "Parameter Name DE": "Dibromochloromethane",
+        "Parameter Name EN": "Dibromochloromethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10250,
+        "Parameter Name DE": "1,2-Dichloroethane",
+        "Parameter Name EN": "1,2-Dichloroethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10251,
+        "Parameter Name DE": "Chloroform (Trichloromethane)",
+        "Parameter Name EN": "Chloroform (Trichloromethane)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10252,
+        "Parameter Name DE": "Dichloromethane",
+        "Parameter Name EN": "Dichloromethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10253,
+        "Parameter Name DE": "Tetrachloromethane",
+        "Parameter Name EN": "Tetrachloromethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10254,
+        "Parameter Name DE": "Tribromomethane",
+        "Parameter Name EN": "Tribromomethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10255,
+        "Parameter Name DE": "1,1,1-Trichloroethane",
+        "Parameter Name EN": "1,1,1-Trichloroethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10256,
+        "Parameter Name DE": "Trichloroethene",
+        "Parameter Name EN": "Trichloroethene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10257,
+        "Parameter Name DE": "Tetrachloroethene",
+        "Parameter Name EN": "Tetrachloroethene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10258,
+        "Parameter Name DE": "1,1,2-Trichloroethane",
+        "Parameter Name EN": "1,1,2-Trichloroethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10259,
+        "Parameter Name DE": "trans-Dichloroethene",
+        "Parameter Name EN": "trans-Dichloroethene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10260,
+        "Parameter Name DE": "cis-Dichloroethene",
+        "Parameter Name EN": "cis-Dichloroethene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10261,
+        "Parameter Name DE": "1,1-Dichloroethane",
+        "Parameter Name EN": "1,1-Dichloroethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10262,
+        "Parameter Name DE": "1,1,1,2-Tetrachloroethane",
+        "Parameter Name EN": "1,1,1,2-Tetrachloroethane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10263,
+        "Parameter Name DE": "n-Hexane",
+        "Parameter Name EN": "n-Hexane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10264,
+        "Parameter Name DE": "Ethyl Acetate",
+        "Parameter Name EN": "Ethyl Acetate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10265,
+        "Parameter Name DE": "n-Pentane",
+        "Parameter Name EN": "n-Pentane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10266,
+        "Parameter Name DE": "3-Methylpentane",
+        "Parameter Name EN": "3-Methylpentane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10267,
+        "Parameter Name DE": "Technical Hexane (calculated)",
+        "Parameter Name EN": "Technical Hexane (calculated)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10268,
+        "Parameter Name DE": "Sum 3 chlorinated solvents",
+        "Parameter Name EN": "Sum 3 chlorinated solvents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10269,
+        "Parameter Name DE": "2-Methylpentane",
+        "Parameter Name EN": "2-Methylpentane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10270,
+        "Parameter Name DE": "2-Butanon (Methylethylketon)",
+        "Parameter Name EN": "2-Butanon (Methylethylketon)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10271,
+        "Parameter Name DE": "n-Heptane",
+        "Parameter Name EN": "n-Heptane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10272,
+        "Parameter Name DE": "Methylcyclopentane",
+        "Parameter Name EN": "Methylcyclopentane",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10273,
+        "Parameter Name DE": "m-\/-p-Xylene",
+        "Parameter Name EN": "m-\/-p-Xylene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10274,
+        "Parameter Name DE": "Methyl acetate",
+        "Parameter Name EN": "Methyl acetate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10275,
+        "Parameter Name DE": "Benzene",
+        "Parameter Name EN": "Benzene",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10276,
+        "Parameter Name DE": "Aceton",
+        "Parameter Name EN": "Aceton",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10277,
+        "Parameter Name DE": "Methanol",
+        "Parameter Name EN": "Methanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10278,
+        "Parameter Name DE": "1-Propanol",
+        "Parameter Name EN": "1-Propanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10279,
+        "Parameter Name DE": "Ethanol",
+        "Parameter Name EN": "Ethanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10280,
+        "Parameter Name DE": "2-Propanol",
+        "Parameter Name EN": "2-Propanol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10281,
+        "Parameter Name DE": "Soy protein",
+        "Parameter Name EN": "Soy protein",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10282,
+        "Parameter Name DE": "Stanozolol",
+        "Parameter Name EN": "Stanozolol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10283,
+        "Parameter Name DE": "Days kept in climate chamber",
+        "Parameter Name EN": "Days kept in climate chamber",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10284,
+        "Parameter Name DE": "Storage conditions",
+        "Parameter Name EN": "Storage conditions",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10285,
+        "Parameter Name DE": "Sucrose",
+        "Parameter Name EN": "Sucrose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10286,
+        "Parameter Name DE": "Glucose",
+        "Parameter Name EN": "Glucose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10287,
+        "Parameter Name DE": "Fructose",
+        "Parameter Name EN": "Fructose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10288,
+        "Parameter Name DE": "Maltose",
+        "Parameter Name EN": "Maltose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10289,
+        "Parameter Name DE": "Total sugars",
+        "Parameter Name EN": "Total sugars",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10290,
+        "Parameter Name DE": "Raffinose",
+        "Parameter Name EN": "Raffinose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10291,
+        "Parameter Name DE": "SO2",
+        "Parameter Name EN": "SO2",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10292,
+        "Parameter Name DE": "Diphenylamine",
+        "Parameter Name EN": "Diphenylamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10293,
+        "Parameter Name DE": "o-Phenylphenol",
+        "Parameter Name EN": "o-Phenylphenol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10294,
+        "Parameter Name DE": "BIPHENYL",
+        "Parameter Name EN": "BIPHENYL",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10295,
+        "Parameter Name DE": "Totox (cal.: 2x POZ + AnZ)",
+        "Parameter Name EN": "Totox (cal.: 2x POZ + AnZ)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10296,
+        "Parameter Name DE": "Tablet weight",
+        "Parameter Name EN": "Tablet weight",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10297,
+        "Parameter Name DE": "Taurine",
+        "Parameter Name EN": "Taurine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10298,
+        "Parameter Name DE": "Taurine",
+        "Parameter Name EN": "Taurine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10299,
+        "Parameter Name DE": "Temperature at reception (Vitamin Center)",
+        "Parameter Name EN": "Temperature at reception (Vitamin Center)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10300,
+        "Parameter Name DE": "Testosterone",
+        "Parameter Name EN": "Testosterone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10301,
+        "Parameter Name DE": "Tetrahydrocurcumin",
+        "Parameter Name EN": "Tetrahydrocurcumin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10302,
+        "Parameter Name DE": "Theanine",
+        "Parameter Name EN": "Theanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10303,
+        "Parameter Name DE": "Theanine",
+        "Parameter Name EN": "Theanine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10304,
+        "Parameter Name DE": "Thymoquinone",
+        "Parameter Name EN": "Thymoquinone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10305,
+        "Parameter Name DE": "Total 3-MCPD (free and bound)",
+        "Parameter Name EN": "Total 3-MCPD (free and bound)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10306,
+        "Parameter Name DE": "Total 3-MCPD (free and bound) incl. Glycidol",
+        "Parameter Name EN": "Total 3-MCPD (free and bound) incl. Glycidol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10307,
+        "Parameter Name DE": "Cyanidin 3-O-Rutinoside",
+        "Parameter Name EN": "Cyanidin 3-O-Rutinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10308,
+        "Parameter Name DE": "Cyanidin 3-O-Glucoside",
+        "Parameter Name EN": "Cyanidin 3-O-Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10309,
+        "Parameter Name DE": "Cyanidin 3-O-Galactoside",
+        "Parameter Name EN": "Cyanidin 3-O-Galactoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10310,
+        "Parameter Name DE": "Delphinidin 3-O-Glucoside",
+        "Parameter Name EN": "Delphinidin 3-O-Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10311,
+        "Parameter Name DE": "Delphinidin 3-O-Galactoside",
+        "Parameter Name EN": "Delphinidin 3-O-Galactoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10312,
+        "Parameter Name DE": "Delphinidin 3-O-Arabinoside",
+        "Parameter Name EN": "Delphinidin 3-O-Arabinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10313,
+        "Parameter Name DE": "Malvidin 3-O-Glucoside",
+        "Parameter Name EN": "Malvidin 3-O-Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10314,
+        "Parameter Name DE": "Total Anthocyanosides",
+        "Parameter Name EN": "Total Anthocyanosides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10315,
+        "Parameter Name DE": "Petunidin 3-O-Galactoside",
+        "Parameter Name EN": "Petunidin 3-O-Galactoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10316,
+        "Parameter Name DE": "Cyanidin 3-O-Arabinoside",
+        "Parameter Name EN": "Cyanidin 3-O-Arabinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10317,
+        "Parameter Name DE": "Peonidin 3-O-Glucoside",
+        "Parameter Name EN": "Peonidin 3-O-Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10318,
+        "Parameter Name DE": "Petunidin 3-O-Glucoside",
+        "Parameter Name EN": "Petunidin 3-O-Glucoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10319,
+        "Parameter Name DE": "Peonidin 3-O-Galactoside",
+        "Parameter Name EN": "Peonidin 3-O-Galactoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10320,
+        "Parameter Name DE": "Peonidin 3-O-Arabinoside",
+        "Parameter Name EN": "Peonidin 3-O-Arabinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10321,
+        "Parameter Name DE": "Malvidin 3-O-Galactoside",
+        "Parameter Name EN": "Malvidin 3-O-Galactoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10322,
+        "Parameter Name DE": "Petunidin 3-O-Arabinoside",
+        "Parameter Name EN": "Petunidin 3-O-Arabinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10323,
+        "Parameter Name DE": "Malvidin 3-O-Arabinoside",
+        "Parameter Name EN": "Malvidin 3-O-Arabinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10324,
+        "Parameter Name DE": "Delphinidin",
+        "Parameter Name EN": "Delphinidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10325,
+        "Parameter Name DE": "Cyanidin",
+        "Parameter Name EN": "Cyanidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10326,
+        "Parameter Name DE": "Petunidin",
+        "Parameter Name EN": "Petunidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10327,
+        "Parameter Name DE": "Peonidin",
+        "Parameter Name EN": "Peonidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10328,
+        "Parameter Name DE": "Malvidin",
+        "Parameter Name EN": "Malvidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10329,
+        "Parameter Name DE": "Total Anthocyanidins",
+        "Parameter Name EN": "Total Anthocyanidins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10330,
+        "Parameter Name DE": "Total Free Anthocyanidins",
+        "Parameter Name EN": "Total Free Anthocyanidins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10331,
+        "Parameter Name DE": "Petunidin 3-O-Rutinoside",
+        "Parameter Name EN": "Petunidin 3-O-Rutinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10332,
+        "Parameter Name DE": "Cyanidin 3-O-Rutinoside Chloride",
+        "Parameter Name EN": "Cyanidin 3-O-Rutinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10333,
+        "Parameter Name DE": "Delphinidin 3-O-Rutinoside",
+        "Parameter Name EN": "Delphinidin 3-O-Rutinoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10334,
+        "Parameter Name DE": "Total Anthocyanosides (Chloride)",
+        "Parameter Name EN": "Total Anthocyanosides (Chloride)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10335,
+        "Parameter Name DE": "Petunidin 3-O-Arabinoside Chloride",
+        "Parameter Name EN": "Petunidin 3-O-Arabinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10336,
+        "Parameter Name DE": "Petunidin 3-O-Glucoside Chloride",
+        "Parameter Name EN": "Petunidin 3-O-Glucoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10337,
+        "Parameter Name DE": "Malvidin Chloride",
+        "Parameter Name EN": "Malvidin Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10338,
+        "Parameter Name DE": "Peonidin 3-O-Glucoside Chloride",
+        "Parameter Name EN": "Peonidin 3-O-Glucoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10339,
+        "Parameter Name DE": "Malvidin 3-O-Galactoside Chloride",
+        "Parameter Name EN": "Malvidin 3-O-Galactoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10340,
+        "Parameter Name DE": "Peonidin 3-O-Galactoside Chloride",
+        "Parameter Name EN": "Peonidin 3-O-Galactoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10341,
+        "Parameter Name DE": "Malvidin 3-O-Glucoside Chloride",
+        "Parameter Name EN": "Malvidin 3-O-Glucoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10342,
+        "Parameter Name DE": "Delphinidin 3-O-Galactoside Chloride",
+        "Parameter Name EN": "Delphinidin 3-O-Galactoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10343,
+        "Parameter Name DE": "Petunidin 3-O-Rutinoside Chloride",
+        "Parameter Name EN": "Petunidin 3-O-Rutinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10344,
+        "Parameter Name DE": "Peonidin 3-O-Arabinoside Chloride",
+        "Parameter Name EN": "Peonidin 3-O-Arabinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10345,
+        "Parameter Name DE": "Delphinidin 3-O-Rutinoside Chloride",
+        "Parameter Name EN": "Delphinidin 3-O-Rutinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10346,
+        "Parameter Name DE": "Delphinidin 3-O-Arabinoside Chloride",
+        "Parameter Name EN": "Delphinidin 3-O-Arabinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10347,
+        "Parameter Name DE": "Peonidin Chloride",
+        "Parameter Name EN": "Peonidin Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10348,
+        "Parameter Name DE": "Delphinidin 3-O-Glucoside Chloride",
+        "Parameter Name EN": "Delphinidin 3-O-Glucoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10349,
+        "Parameter Name DE": "Petunidin Chloride",
+        "Parameter Name EN": "Petunidin Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10350,
+        "Parameter Name DE": "Total Anthocyanosides and Total Anthocyanidins",
+        "Parameter Name EN": "Total Anthocyanosides and Total Anthocyanidins",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10351,
+        "Parameter Name DE": "Cyanidin 3-O-Arabinoside Chloride",
+        "Parameter Name EN": "Cyanidin 3-O-Arabinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10352,
+        "Parameter Name DE": "Cyanidin 3-O-Galactoside Chloride",
+        "Parameter Name EN": "Cyanidin 3-O-Galactoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10353,
+        "Parameter Name DE": "Cyanidin Chloride",
+        "Parameter Name EN": "Cyanidin Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10354,
+        "Parameter Name DE": "Petunidin 3-O-Galactoside Chloride",
+        "Parameter Name EN": "Petunidin 3-O-Galactoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10355,
+        "Parameter Name DE": "Malvidin 3-O-Arabinoside Chloride",
+        "Parameter Name EN": "Malvidin 3-O-Arabinoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10356,
+        "Parameter Name DE": "Delphinidin Chloride",
+        "Parameter Name EN": "Delphinidin Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10357,
+        "Parameter Name DE": "Cyanidin 3-O-Glucoside Chloride",
+        "Parameter Name EN": "Cyanidin 3-O-Glucoside Chloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10358,
+        "Parameter Name DE": "Astaxanthin",
+        "Parameter Name EN": "Astaxanthin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10359,
+        "Parameter Name DE": "Astaxanthin",
+        "Parameter Name EN": "Astaxanthin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10360,
+        "Parameter Name DE": "11-Keto-beta-boswellic acid",
+        "Parameter Name EN": "11-Keto-beta-boswellic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10361,
+        "Parameter Name DE": "3-Acetyl-11-keto-beta-boswellic acid",
+        "Parameter Name EN": "3-Acetyl-11-keto-beta-boswellic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10362,
+        "Parameter Name DE": "Alpha-boswellic acid",
+        "Parameter Name EN": "Alpha-boswellic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10363,
+        "Parameter Name DE": "Beta-boswellic acid",
+        "Parameter Name EN": "Beta-boswellic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10364,
+        "Parameter Name DE": "3-Acetyl-alpha-boswellic acid",
+        "Parameter Name EN": "3-Acetyl-alpha-boswellic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10365,
+        "Parameter Name DE": "3-Acetyl-beta-boswellic acid",
+        "Parameter Name EN": "3-Acetyl-beta-boswellic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10366,
+        "Parameter Name DE": "Total Boswellic Acids",
+        "Parameter Name EN": "Total Boswellic Acids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10367,
+        "Parameter Name DE": "Hesperidin",
+        "Parameter Name EN": "Hesperidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10368,
+        "Parameter Name DE": "Naringin",
+        "Parameter Name EN": "Naringin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10369,
+        "Parameter Name DE": "Narirutin",
+        "Parameter Name EN": "Narirutin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10370,
+        "Parameter Name DE": "Neohesperidin",
+        "Parameter Name EN": "Neohesperidin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10371,
+        "Parameter Name DE": "Eriocitrin",
+        "Parameter Name EN": "Eriocitrin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10372,
+        "Parameter Name DE": "Neohesperidin Dihydroxychalcone",
+        "Parameter Name EN": "Neohesperidin Dihydroxychalcone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10373,
+        "Parameter Name DE": "Naringenin",
+        "Parameter Name EN": "Naringenin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10374,
+        "Parameter Name DE": "Total Citrus Bioflavonoids",
+        "Parameter Name EN": "Total Citrus Bioflavonoids",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10375,
+        "Parameter Name DE": "Hesperetin",
+        "Parameter Name EN": "Hesperetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10376,
+        "Parameter Name DE": "Didymin",
+        "Parameter Name EN": "Didymin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10377,
+        "Parameter Name DE": "Rutin",
+        "Parameter Name EN": "Rutin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10378,
+        "Parameter Name DE": "Rutin",
+        "Parameter Name EN": "Rutin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10379,
+        "Parameter Name DE": "Total fat",
+        "Parameter Name EN": "Total fat",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10380,
+        "Parameter Name DE": "Quercetin",
+        "Parameter Name EN": "Quercetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10381,
+        "Parameter Name DE": "Isorhamnetin",
+        "Parameter Name EN": "Isorhamnetin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10382,
+        "Parameter Name DE": "Kaempferol",
+        "Parameter Name EN": "Kaempferol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10383,
+        "Parameter Name DE": "Total Ginkgo Flavone Glycosides",
+        "Parameter Name EN": "Total Ginkgo Flavone Glycosides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10384,
+        "Parameter Name DE": "Total Probiotic Microbial Count",
+        "Parameter Name EN": "Total Probiotic Microbial Count",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10385,
+        "Parameter Name DE": "Total Probiotic Microbial Count",
+        "Parameter Name EN": "Total Probiotic Microbial Count",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10386,
+        "Parameter Name DE": "Total Probiotic Microbial Count",
+        "Parameter Name EN": "Total Probiotic Microbial Count",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10387,
+        "Parameter Name DE": "Silychristin",
+        "Parameter Name EN": "Silychristin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10388,
+        "Parameter Name DE": "Silydianin",
+        "Parameter Name EN": "Silydianin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10389,
+        "Parameter Name DE": "Silybin B",
+        "Parameter Name EN": "Silybin B",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10390,
+        "Parameter Name DE": "Isosilybin A",
+        "Parameter Name EN": "Isosilybin A",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10391,
+        "Parameter Name DE": "Isosilybin B",
+        "Parameter Name EN": "Isosilybin B",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10392,
+        "Parameter Name DE": "Silybin A",
+        "Parameter Name EN": "Silybin A",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10393,
+        "Parameter Name DE": "Silymarin",
+        "Parameter Name EN": "Silymarin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10394,
+        "Parameter Name DE": "Madecassoside",
+        "Parameter Name EN": "Madecassoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10395,
+        "Parameter Name DE": "Asiaticoside",
+        "Parameter Name EN": "Asiaticoside",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10396,
+        "Parameter Name DE": "Madecassic acid",
+        "Parameter Name EN": "Madecassic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10397,
+        "Parameter Name DE": "Asiatic acid",
+        "Parameter Name EN": "Asiatic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10398,
+        "Parameter Name DE": "Total Triterpenes",
+        "Parameter Name EN": "Total Triterpenes",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10399,
+        "Parameter Name DE": "Asiaticoside B",
+        "Parameter Name EN": "Asiaticoside B",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10400,
+        "Parameter Name DE": "Terminolic acid",
+        "Parameter Name EN": "Terminolic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10401,
+        "Parameter Name DE": "Total content of ginsenosides",
+        "Parameter Name EN": "Total content of ginsenosides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10402,
+        "Parameter Name DE": "Content of ginsenoside Rb1",
+        "Parameter Name EN": "Content of ginsenoside Rb1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10403,
+        "Parameter Name DE": "Content of ginsenoside Rb2",
+        "Parameter Name EN": "Content of ginsenoside Rb2",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10404,
+        "Parameter Name DE": "Content of ginsenoside Rc",
+        "Parameter Name EN": "Content of ginsenoside Rc",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10405,
+        "Parameter Name DE": "Content of ginsenoside Rd",
+        "Parameter Name EN": "Content of ginsenoside Rd",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10406,
+        "Parameter Name DE": "Content of ginsenoside Re",
+        "Parameter Name EN": "Content of ginsenoside Re",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10407,
+        "Parameter Name DE": "Content of ginsenoside Rf",
+        "Parameter Name EN": "Content of ginsenoside Rf",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10408,
+        "Parameter Name DE": "Content of ginsenoside Rg1",
+        "Parameter Name EN": "Content of ginsenoside Rg1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10409,
+        "Parameter Name DE": "Total content of ginsenosides",
+        "Parameter Name EN": "Total content of ginsenosides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10410,
+        "Parameter Name DE": "Content of ginsenoside Rb1",
+        "Parameter Name EN": "Content of ginsenoside Rb1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10411,
+        "Parameter Name DE": "Content of ginsenoside Rb2",
+        "Parameter Name EN": "Content of ginsenoside Rb2",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10412,
+        "Parameter Name DE": "Content of ginsenoside Rc",
+        "Parameter Name EN": "Content of ginsenoside Rc",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10413,
+        "Parameter Name DE": "Content of ginsenoside Rd",
+        "Parameter Name EN": "Content of ginsenoside Rd",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10414,
+        "Parameter Name DE": "Content of ginsenoside Re",
+        "Parameter Name EN": "Content of ginsenoside Re",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10415,
+        "Parameter Name DE": "Content of ginsenoside Rf",
+        "Parameter Name EN": "Content of ginsenoside Rf",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10416,
+        "Parameter Name DE": "Content of ginsenoside Rg1",
+        "Parameter Name EN": "Content of ginsenoside Rg1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10417,
+        "Parameter Name DE": "Total content of ginsenosides",
+        "Parameter Name EN": "Total content of ginsenosides",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10418,
+        "Parameter Name DE": "Content of ginsenoside Rb1",
+        "Parameter Name EN": "Content of ginsenoside Rb1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10419,
+        "Parameter Name DE": "Content of ginsenoside Rb2",
+        "Parameter Name EN": "Content of ginsenoside Rb2",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10420,
+        "Parameter Name DE": "Content of ginsenoside Rc",
+        "Parameter Name EN": "Content of ginsenoside Rc",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10421,
+        "Parameter Name DE": "Content of ginsenoside Rd",
+        "Parameter Name EN": "Content of ginsenoside Rd",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10422,
+        "Parameter Name DE": "Content of ginsenoside Re",
+        "Parameter Name EN": "Content of ginsenoside Re",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10423,
+        "Parameter Name DE": "Content of ginsenoside Rf",
+        "Parameter Name EN": "Content of ginsenoside Rf",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10424,
+        "Parameter Name DE": "Content of ginsenoside Rg1",
+        "Parameter Name EN": "Content of ginsenoside Rg1",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10425,
+        "Parameter Name DE": "Content of fat after hydrolisis",
+        "Parameter Name EN": "Content of fat after hydrolisis",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10426,
+        "Parameter Name DE": "Trenbolone",
+        "Parameter Name EN": "Trenbolone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10427,
+        "Parameter Name DE": "Trenbolone",
+        "Parameter Name EN": "Trenbolone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10428,
+        "Parameter Name DE": "Scopolamine",
+        "Parameter Name EN": "Scopolamine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10429,
+        "Parameter Name DE": "Atropine",
+        "Parameter Name EN": "Atropine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10430,
+        "Parameter Name DE": "Sum of Atropin\/Scopolamin",
+        "Parameter Name EN": "Sum of Atropin\/Scopolamin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10431,
+        "Parameter Name DE": "Tryptophan (Total)",
+        "Parameter Name EN": "Tryptophan (Total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10432,
+        "Parameter Name DE": "Retinol (vitamin A)",
+        "Parameter Name EN": "Retinol (vitamin A)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10433,
+        "Parameter Name DE": "Retinyl palmitate (vitamin A palmitate)",
+        "Parameter Name EN": "Retinyl palmitate (vitamin A palmitate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10434,
+        "Parameter Name DE": "Retinyl palmitate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl palmitate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10435,
+        "Parameter Name DE": "Retinyl palmitate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl palmitate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10436,
+        "Parameter Name DE": "Retinyl palmitate (vitamin A palmitate)",
+        "Parameter Name EN": "Retinyl palmitate (vitamin A palmitate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10437,
+        "Parameter Name DE": "Retinyl palmitate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl palmitate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10438,
+        "Parameter Name DE": "Retinyl palmitate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl palmitate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10439,
+        "Parameter Name DE": "Retinyl acetate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl acetate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10440,
+        "Parameter Name DE": "Retinyl acetate (vitamin A acetate)",
+        "Parameter Name EN": "Retinyl acetate (vitamin A acetate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10441,
+        "Parameter Name DE": "Retinyl acetate (vitamin A acetate)",
+        "Parameter Name EN": "Retinyl acetate (vitamin A acetate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10442,
+        "Parameter Name DE": "Retinyl acetate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl acetate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10443,
+        "Parameter Name DE": "Retinyl acetate (vitamin A acetate)",
+        "Parameter Name EN": "Retinyl acetate (vitamin A acetate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10444,
+        "Parameter Name DE": "Retinyl acetate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl acetate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10445,
+        "Parameter Name DE": "Retinyl acetate (vitamin A acetate)",
+        "Parameter Name EN": "Retinyl acetate (vitamin A acetate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10446,
+        "Parameter Name DE": "Retinyl acetate calc. as retinol equivalents",
+        "Parameter Name EN": "Retinyl acetate calc. as retinol equivalents",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10447,
+        "Parameter Name DE": "Retinyl acetate (vitamin A acetate)",
+        "Parameter Name EN": "Retinyl acetate (vitamin A acetate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10448,
+        "Parameter Name DE": "Thiamine hydrochloride (vitamin B1-HCl)",
+        "Parameter Name EN": "Thiamine hydrochloride (vitamin B1-HCl)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10449,
+        "Parameter Name DE": "Thiamine hydrochloride (vitamin B1-HCl)",
+        "Parameter Name EN": "Thiamine hydrochloride (vitamin B1-HCl)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10450,
+        "Parameter Name DE": "Thiamine calc. as thiamine chloride, hydrochloride",
+        "Parameter Name EN": "Thiamine calc. as thiamine chloride, hydrochloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10451,
+        "Parameter Name DE": "Thiamine (vitamin B1)",
+        "Parameter Name EN": "Thiamine (vitamin B1)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10452,
+        "Parameter Name DE": "Thiamine calc. as thiamine chloride, hydrochloride",
+        "Parameter Name EN": "Thiamine calc. as thiamine chloride, hydrochloride",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10453,
+        "Parameter Name DE": "Thiamine (vitamin B1)",
+        "Parameter Name EN": "Thiamine (vitamin B1)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10454,
+        "Parameter Name DE": "Thiamine (vitamin B1)",
+        "Parameter Name EN": "Thiamine (vitamin B1)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10455,
+        "Parameter Name DE": "Thiamine (vitamin B1)",
+        "Parameter Name EN": "Thiamine (vitamin B1)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10456,
+        "Parameter Name DE": "Thiamine (vitamin B1)",
+        "Parameter Name EN": "Thiamine (vitamin B1)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10457,
+        "Parameter Name DE": "Thiamine mononitrate (vitamin B1 mononitrate)",
+        "Parameter Name EN": "Thiamine mononitrate (vitamin B1 mononitrate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10458,
+        "Parameter Name DE": "Thiamine hydrochloride (vitamin B1-HCl)",
+        "Parameter Name EN": "Thiamine hydrochloride (vitamin B1-HCl)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10459,
+        "Parameter Name DE": "Adenosylcobalamin",
+        "Parameter Name EN": "Adenosylcobalamin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10460,
+        "Parameter Name DE": "Hydroxocobalamin",
+        "Parameter Name EN": "Hydroxocobalamin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10461,
+        "Parameter Name DE": "Methylcobalamin",
+        "Parameter Name EN": "Methylcobalamin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10462,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10463,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10464,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10465,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10466,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10467,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10468,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10469,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10470,
+        "Parameter Name DE": "Vitamin B12 (cyanocobalamin)",
+        "Parameter Name EN": "Vitamin B12 (cyanocobalamin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10471,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10472,
+        "Parameter Name DE": "Vitamin B2 (riboflavin)",
+        "Parameter Name EN": "Vitamin B2 (riboflavin)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10473,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10474,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10475,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10476,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10477,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10478,
+        "Parameter Name DE": "Riboflavin (vitamin B2)",
+        "Parameter Name EN": "Riboflavin (vitamin B2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10479,
+        "Parameter Name DE": "Niacin (vitamin B3)",
+        "Parameter Name EN": "Niacin (vitamin B3)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10480,
+        "Parameter Name DE": "Pantothenic acid (vitamin B5)",
+        "Parameter Name EN": "Pantothenic acid (vitamin B5)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10481,
+        "Parameter Name DE": "Pyridoxine (vitamin B6)",
+        "Parameter Name EN": "Pyridoxine (vitamin B6)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10482,
+        "Parameter Name DE": "Biotin (vitamin B8)",
+        "Parameter Name EN": "Biotin (vitamin B8)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10483,
+        "Parameter Name DE": "Biotin (vitamin B8)",
+        "Parameter Name EN": "Biotin (vitamin B8)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10484,
+        "Parameter Name DE": "Folic acid",
+        "Parameter Name EN": "Folic acid",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10485,
+        "Parameter Name DE": "Vitamin C (total)",
+        "Parameter Name EN": "Vitamin C (total)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10486,
+        "Parameter Name DE": "Calciferol quantified as cholecalciferol",
+        "Parameter Name EN": "Calciferol quantified as cholecalciferol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10487,
+        "Parameter Name DE": "alpha-Tocopheryl acetate (vitamin E acetate)",
+        "Parameter Name EN": "alpha-Tocopheryl acetate (vitamin E acetate)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10488,
+        "Parameter Name DE": "Phylloquinone (vitamin K1)",
+        "Parameter Name EN": "Phylloquinone (vitamin K1)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10489,
+        "Parameter Name DE": "Menaquinone 4 (vitamin K2)",
+        "Parameter Name EN": "Menaquinone 4 (vitamin K2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10490,
+        "Parameter Name DE": "Menaquinone 7 (vitamin K2)",
+        "Parameter Name EN": "Menaquinone 7 (vitamin K2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10491,
+        "Parameter Name DE": "Menaquinone 7 (vitamin K2)",
+        "Parameter Name EN": "Menaquinone 7 (vitamin K2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10492,
+        "Parameter Name DE": "Menaquinone 7 (vitamin K2)",
+        "Parameter Name EN": "Menaquinone 7 (vitamin K2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10493,
+        "Parameter Name DE": "Menaquinone 4 (vitamin K2)",
+        "Parameter Name EN": "Menaquinone 4 (vitamin K2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10494,
+        "Parameter Name DE": "Menaquinone 7 (vitamin K2)",
+        "Parameter Name EN": "Menaquinone 7 (vitamin K2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10495,
+        "Parameter Name DE": "Zinc (Zn)",
+        "Parameter Name EN": "Zinc (Zn)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10496,
+        "Parameter Name DE": "Zinc (Zn)",
+        "Parameter Name EN": "Zinc (Zn)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 10497,
+        "Parameter Name DE": "Zinc (Zn)",
+        "Parameter Name EN": "Zinc (Zn)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
         "Param_ID": 10498,
         "Parameter Name DE": "Pyrrolochinolinchinon (PQQ)_38085",
         "Parameter Name EN": "Pyrroloquinoline quinone (PQQ)_38085",
@@ -10535,6 +16205,755 @@
         "Lab": "GBA"
     },
     {
+        "Param_ID": 11778,
+        "Parameter Name DE": "Testing performed on whole capsule",
+        "Parameter Name EN": "Testing performed on whole capsule",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11779,
+        "Parameter Name DE": "Pantothenic acid calc. as calcium pantothenate",
+        "Parameter Name EN": "Pantothenic acid calc. as calcium pantothenate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11780,
+        "Parameter Name DE": "Cystine ( free)",
+        "Parameter Name EN": "Cystine ( free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11781,
+        "Parameter Name DE": "Yeasts & Moulds",
+        "Parameter Name EN": "Yeasts & Moulds",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11782,
+        "Parameter Name DE": "Vitamin C",
+        "Parameter Name EN": "Vitamin C",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11783,
+        "Parameter Name DE": "weight for slurry",
+        "Parameter Name EN": "weight for slurry",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11784,
+        "Parameter Name DE": "Pyridoxine hydrochloride (vitamin B6-HCl)",
+        "Parameter Name EN": "Pyridoxine hydrochloride (vitamin B6-HCl)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11785,
+        "Parameter Name DE": "Folate (vitamin B9)",
+        "Parameter Name EN": "Folate (vitamin B9)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11786,
+        "Parameter Name DE": "Gliadin",
+        "Parameter Name EN": "Gliadin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11787,
+        "Parameter Name DE": "Pyridoxine calc. as Pyridoxal 5'-Phosphate",
+        "Parameter Name EN": "Pyridoxine calc. as Pyridoxal 5'-Phosphate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11788,
+        "Parameter Name DE": "Pyridoxine calc.as Pyridoxal 5-Phosphate Monohydra",
+        "Parameter Name EN": "Pyridoxine calc.as Pyridoxal 5-Phosphate Monohydra",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11789,
+        "Parameter Name DE": "Anisidine value",
+        "Parameter Name EN": "Anisidine value",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11790,
+        "Parameter Name DE": "Taste",
+        "Parameter Name EN": "Taste",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11791,
+        "Parameter Name DE": "Odour",
+        "Parameter Name EN": "Odour",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11792,
+        "Parameter Name DE": "Appearance",
+        "Parameter Name EN": "Appearance",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11793,
+        "Parameter Name DE": "Consistency",
+        "Parameter Name EN": "Consistency",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11794,
+        "Parameter Name DE": "Anisidine Value",
+        "Parameter Name EN": "Anisidine Value",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11795,
+        "Parameter Name DE": "Weight of drop",
+        "Parameter Name EN": "Weight of drop",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11796,
+        "Parameter Name DE": "Coenzyme Q10",
+        "Parameter Name EN": "Coenzyme Q10",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11797,
+        "Parameter Name DE": "Ubiquinol",
+        "Parameter Name EN": "Ubiquinol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11798,
+        "Parameter Name DE": "alpha-Tocopherol (vitamin E)",
+        "Parameter Name EN": "alpha-Tocopherol (vitamin E)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11799,
+        "Parameter Name DE": "beta-Tocopherol (vitamin E)",
+        "Parameter Name EN": "beta-Tocopherol (vitamin E)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11800,
+        "Parameter Name DE": "gamma-Tocopherol (vitamin E)",
+        "Parameter Name EN": "gamma-Tocopherol (vitamin E)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11801,
+        "Parameter Name DE": "delta-Tocopherol (vitamin E)",
+        "Parameter Name EN": "delta-Tocopherol (vitamin E)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11802,
+        "Parameter Name DE": "Sum of tocopherols",
+        "Parameter Name EN": "Sum of tocopherols",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11803,
+        "Parameter Name DE": "Calcium (Ca)",
+        "Parameter Name EN": "Calcium (Ca)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11804,
+        "Parameter Name DE": "friability",
+        "Parameter Name EN": "friability",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11805,
+        "Parameter Name DE": "Tablet hardness",
+        "Parameter Name EN": "Tablet hardness",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11806,
+        "Parameter Name DE": "Testing performed on capsule content",
+        "Parameter Name EN": "Testing performed on capsule content",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11807,
+        "Parameter Name DE": "Content Weight",
+        "Parameter Name EN": "Content Weight",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11808,
+        "Parameter Name DE": "Boron (B)",
+        "Parameter Name EN": "Boron (B)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11809,
+        "Parameter Name DE": "Cholecalciferol (vitamin D3)",
+        "Parameter Name EN": "Cholecalciferol (vitamin D3)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11810,
+        "Parameter Name DE": "alpha-Tocopheryl acetate calc. as alpha-Tocopherol",
+        "Parameter Name EN": "alpha-Tocopheryl acetate calc. as alpha-Tocopherol",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11811,
+        "Parameter Name DE": "Soy",
+        "Parameter Name EN": "Soy",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11812,
+        "Parameter Name DE": "Reference date for activities",
+        "Parameter Name EN": "Reference date for activities",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11813,
+        "Parameter Name DE": "Dry matter",
+        "Parameter Name EN": "Dry matter",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11814,
+        "Parameter Name DE": "Moisture (103 °C)",
+        "Parameter Name EN": "Moisture (103 °C)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11815,
+        "Parameter Name DE": "Caffeine",
+        "Parameter Name EN": "Caffeine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11816,
+        "Parameter Name DE": "Carnitine, free",
+        "Parameter Name EN": "Carnitine, free",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11817,
+        "Parameter Name DE": "Pending validation",
+        "Parameter Name EN": "Pending validation",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11818,
+        "Parameter Name DE": "alfa-Tocopheryl succinate",
+        "Parameter Name EN": "alfa-Tocopheryl succinate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11819,
+        "Parameter Name DE": "BIPHENYL",
+        "Parameter Name EN": "BIPHENYL",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11820,
+        "Parameter Name DE": "Result pending",
+        "Parameter Name EN": "Result pending",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11821,
+        "Parameter Name DE": "sum tocopherols",
+        "Parameter Name EN": "sum tocopherols",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11822,
+        "Parameter Name DE": "Sulphur dioxide",
+        "Parameter Name EN": "Sulphur dioxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11823,
+        "Parameter Name DE": "Cystine (Free)",
+        "Parameter Name EN": "Cystine (Free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11824,
+        "Parameter Name DE": "Ergocalciferol (vitamin D2)",
+        "Parameter Name EN": "Ergocalciferol (vitamin D2)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11825,
+        "Parameter Name DE": "Norovirus GII",
+        "Parameter Name EN": "Norovirus GII",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11826,
+        "Parameter Name DE": "Glycine (Free)",
+        "Parameter Name EN": "Glycine (Free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11827,
+        "Parameter Name DE": "Citrinin",
+        "Parameter Name EN": "Citrinin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11828,
+        "Parameter Name DE": "Beta-nicotinamide mononucleotide",
+        "Parameter Name EN": "Beta-nicotinamide mononucleotide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11829,
+        "Parameter Name DE": "Proline (Free)",
+        "Parameter Name EN": "Proline (Free)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11830,
+        "Parameter Name DE": "Total Soy protein",
+        "Parameter Name EN": "Total Soy protein",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11831,
+        "Parameter Name DE": "Androstenedione",
+        "Parameter Name EN": "Androstenedione",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11832,
+        "Parameter Name DE": "Boldenone",
+        "Parameter Name EN": "Boldenone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11833,
+        "Parameter Name DE": "Prednisone",
+        "Parameter Name EN": "Prednisone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11834,
+        "Parameter Name DE": "methylprednisolone",
+        "Parameter Name EN": "methylprednisolone",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11835,
+        "Parameter Name DE": "Pyrroloquinoline Quinone Disodium Salt",
+        "Parameter Name EN": "Pyrroloquinoline Quinone Disodium Salt",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11836,
+        "Parameter Name DE": "Carbohydrate calculated (difference)",
+        "Parameter Name EN": "Carbohydrate calculated (difference)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11837,
+        "Parameter Name DE": "Energy value (kcal)",
+        "Parameter Name EN": "Energy value (kcal)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11838,
+        "Parameter Name DE": "Energy value (kJ)",
+        "Parameter Name EN": "Energy value (kJ)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11839,
+        "Parameter Name DE": "Lactose",
+        "Parameter Name EN": "Lactose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11840,
+        "Parameter Name DE": "Galactose",
+        "Parameter Name EN": "Galactose",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11841,
+        "Parameter Name DE": "Coenzyme Q10 (ubiqinone)",
+        "Parameter Name EN": "Coenzyme Q10 (ubiqinone)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11842,
+        "Parameter Name DE": "Citicoline (CDP-Choline)",
+        "Parameter Name EN": "Citicoline (CDP-Choline)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11843,
+        "Parameter Name DE": "Astaxanthin, free and bound",
+        "Parameter Name EN": "Astaxanthin, free and bound",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11844,
+        "Parameter Name DE": "Astaxanthin",
+        "Parameter Name EN": "Astaxanthin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11845,
+        "Parameter Name DE": "Fipronil, total",
+        "Parameter Name EN": "Fipronil, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11846,
+        "Parameter Name DE": "Arsenic, organic",
+        "Parameter Name EN": "Arsenic, organic",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11847,
+        "Parameter Name DE": "Indoxacarb, total",
+        "Parameter Name EN": "Indoxacarb, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11848,
+        "Parameter Name DE": "Carbofuran, total",
+        "Parameter Name EN": "Carbofuran, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11849,
+        "Parameter Name DE": "Spinosad, total",
+        "Parameter Name EN": "Spinosad, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11850,
+        "Parameter Name DE": "Coenzyme Q10 (ubiqinone and ubiqinol)",
+        "Parameter Name EN": "Coenzyme Q10 (ubiqinone and ubiqinol)",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11851,
+        "Parameter Name DE": "Propiconazol, total",
+        "Parameter Name EN": "Propiconazol, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11852,
+        "Parameter Name DE": "Diniconazole, total",
+        "Parameter Name EN": "Diniconazole, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11853,
+        "Parameter Name DE": "Metconazole, total",
+        "Parameter Name EN": "Metconazole, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11854,
+        "Parameter Name DE": "Pencycuron, total",
+        "Parameter Name EN": "Pencycuron, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11855,
+        "Parameter Name DE": "Paclobutrazol, total",
+        "Parameter Name EN": "Paclobutrazol, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11856,
+        "Parameter Name DE": "Copper, calculated via density",
+        "Parameter Name EN": "Copper, calculated via density",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11857,
+        "Parameter Name DE": "Astaxanthin from astaxanthin esters, calculated via density",
+        "Parameter Name EN": "Astaxanthin from astaxanthin esters, calculated via density",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11858,
+        "Parameter Name DE": "Biotin, calculated via density",
+        "Parameter Name EN": "Biotin, calculated via density",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11859,
+        "Parameter Name DE": "Vitamin B12, calculated via density",
+        "Parameter Name EN": "Vitamin B12, calculated via density",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11860,
+        "Parameter Name DE": "Dioxathion, total",
+        "Parameter Name EN": "Dioxathion, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11861,
+        "Parameter Name DE": "Curcuminoids, calculated as curcumin",
+        "Parameter Name EN": "Curcuminoids, calculated as curcumin",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11862,
+        "Parameter Name DE": "Penflufen, total",
+        "Parameter Name EN": "Penflufen, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11863,
+        "Parameter Name DE": "Nitrate",
+        "Parameter Name EN": "Nitrate",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11864,
+        "Parameter Name DE": "Nitrite",
+        "Parameter Name EN": "Nitrite",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11865,
+        "Parameter Name DE": "Cyfluthrin, total",
+        "Parameter Name EN": "Cyfluthrin, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11866,
+        "Parameter Name DE": "Imazalil, total",
+        "Parameter Name EN": "Imazalil, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11867,
+        "Parameter Name DE": "Fenpropidine, total",
+        "Parameter Name EN": "Fenpropidine, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11868,
+        "Parameter Name DE": "Senecionine N-oxide",
+        "Parameter Name EN": "Senecionine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11869,
+        "Parameter Name DE": "Retrorsine",
+        "Parameter Name EN": "Retrorsine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11870,
+        "Parameter Name DE": "Retrorsine N-oxide",
+        "Parameter Name EN": "Retrorsine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11871,
+        "Parameter Name DE": "Echimidine",
+        "Parameter Name EN": "Echimidine",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11872,
+        "Parameter Name DE": "Intermedine N-oxide",
+        "Parameter Name EN": "Intermedine N-oxide",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11873,
+        "Parameter Name DE": "Pyrrolizidine alkaloids, sum",
+        "Parameter Name EN": "Pyrrolizidine alkaloids, sum",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11874,
+        "Parameter Name DE": "Total THC",
+        "Parameter Name EN": "Total THC",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11875,
+        "Parameter Name DE": "Phorate total",
+        "Parameter Name EN": "Phorate total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11876,
+        "Parameter Name DE": "Lufenuron, total",
+        "Parameter Name EN": "Lufenuron, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11877,
+        "Parameter Name DE": "Sulfoxaflor, total",
+        "Parameter Name EN": "Sulfoxaflor, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11878,
+        "Parameter Name DE": "Carboxin, total",
+        "Parameter Name EN": "Carboxin, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11879,
+        "Parameter Name DE": "Emamectin B1a, total",
+        "Parameter Name EN": "Emamectin B1a, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11880,
+        "Parameter Name DE": "Fenpropimorph, total",
+        "Parameter Name EN": "Fenpropimorph, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11881,
+        "Parameter Name DE": "Fenthion, total",
+        "Parameter Name EN": "Fenthion, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11882,
+        "Parameter Name DE": "Ivermectin, gesamt",
+        "Parameter Name EN": "Ivermectin, gesamt",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11883,
+        "Parameter Name DE": "Cyflumetofen, total",
+        "Parameter Name EN": "Cyflumetofen, total",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 11884,
+        "Parameter Name DE": "Solvent residues",
+        "Parameter Name EN": "Solvent residues",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
         "Param_ID": 11886,
         "Parameter Name DE": "Pyrethrine",
         "Parameter Name EN": "Pyrethrins",
@@ -12624,6 +19043,83 @@
         "Param_ID": 12274,
         "Parameter Name DE": "Forskolin",
         "Parameter Name EN": "Forskolin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12275,
+        "Parameter Name DE": "Glycerin freies_27373",
+        "Parameter Name EN": "Glycerin free_27373",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12276,
+        "Parameter Name DE": "Fettsäuren (Summe) - aus NC-Fett",
+        "Parameter Name EN": "Fatty acids (total) - from non-constituent fat",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12277,
+        "Parameter Name DE": "Zuckeralkohole",
+        "Parameter Name EN": "Sugar alcohols (Polyols)",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12278,
+        "Parameter Name DE": "Zuckeralkohole, Summe, fest",
+        "Parameter Name EN": "Sugar alcohols, total, solid",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12279,
+        "Parameter Name DE": "Isomalt",
+        "Parameter Name EN": "Isomalt",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12280,
+        "Parameter Name DE": "Maltit",
+        "Parameter Name EN": "Maltitol",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12281,
+        "Parameter Name DE": "Mannit",
+        "Parameter Name EN": "Mannitol",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12282,
+        "Parameter Name DE": "Laktit, fest",
+        "Parameter Name EN": "Lactitol, solid",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12283,
+        "Parameter Name DE": "Sorbit",
+        "Parameter Name EN": "Sorbitol",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12284,
+        "Parameter Name DE": "Xylit",
+        "Parameter Name EN": "Xylitol",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12285,
+        "Parameter Name DE": "Carotine",
+        "Parameter Name EN": "Carotine",
         "Param Group": 213,
         "Lab": "Plenum"
     }
