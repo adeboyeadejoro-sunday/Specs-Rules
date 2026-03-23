@@ -13700,8 +13700,8 @@
     },
     {
         "Param_ID": 11415,
-        "Parameter Name DE": "Polyphenole, gesamt, berechnet als Catechin-Äquivalente_39480",
-        "Parameter Name EN": "Polyphenols, total, calculated as catechin equivalents_39480",
+        "Parameter Name DE": "Polyphenole als Catechin-Äquivalente_39480",
+        "Parameter Name EN": "Polyphenols as catechin equivalents_39480",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -14807,7 +14807,7 @@
     {
         "Param_ID": 11573,
         "Parameter Name DE": "Hydroxycobalamin",
-        "Parameter Name EN": "Hydroxycobalamin ",
+        "Parameter Name EN": "Hydroxycobalamin",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -14954,7 +14954,7 @@
     {
         "Param_ID": 11594,
         "Parameter Name DE": "Naringenin",
-        "Parameter Name EN": "Naringenin ",
+        "Parameter Name EN": "Naringenin",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -15255,7 +15255,7 @@
     {
         "Param_ID": 11637,
         "Parameter Name DE": "Vitamin A- acetat",
-        "Parameter Name EN": "Vitamin A acetate ",
+        "Parameter Name EN": "Vitamin A acetate",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -15597,8 +15597,8 @@
     },
     {
         "Param_ID": 11691,
-        "Parameter Name DE": "Gamma-Aminobuttersäure (GABA)",
-        "Parameter Name EN": "Gamma-aminobutyric acid (GABA)",
+        "Parameter Name DE": "Gamma-Aminobuttersäure (GABA)_Direkt_40449",
+        "Parameter Name EN": "Gamma-aminobutyric acid (GABA)_Direct_40449",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -18712,8 +18712,8 @@
     },
     {
         "Param_ID": 12194,
-        "Parameter Name DE": "Gesamt-Vitamin-B12",
-        "Parameter Name EN": "Vitamin B12 Total",
+        "Parameter Name DE": "Gesamt-Vitamin-B12 (All forms)",
+        "Parameter Name EN": "Vitamin B12 All forms",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -19120,6 +19120,153 @@
         "Param_ID": 12285,
         "Parameter Name DE": "Carotine",
         "Parameter Name EN": "Carotine",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12286,
+        "Parameter Name DE": "Gesamt-Vitamin-B12 (Adenosyl + Methyl)",
+        "Parameter Name EN": "Vitamin B12 (Adenosyl + Methyl)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12287,
+        "Parameter Name DE": "Ketosterone",
+        "Parameter Name EN": "Ketosterone",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12288,
+        "Parameter Name DE": "Ruscogenin",
+        "Parameter Name EN": "Ruscogenin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12289,
+        "Parameter Name DE": "Flavonoids",
+        "Parameter Name EN": "Flavonoids",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12290,
+        "Parameter Name DE": "MOSH\/POSH C10-16",
+        "Parameter Name EN": "MOSH\/POSH C10-16",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12291,
+        "Parameter Name DE": "MOSH\/POSH C16-20",
+        "Parameter Name EN": "MOSH\/POSH C16-20",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12292,
+        "Parameter Name DE": "MOSH\/POSH C20-25",
+        "Parameter Name EN": "MOSH\/POSH C20-25",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12293,
+        "Parameter Name DE": "MOSH\/POSH C25-35",
+        "Parameter Name EN": "MOSH\/POSH C25-35",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12294,
+        "Parameter Name DE": "MOSH\/POSH C35-40",
+        "Parameter Name EN": "MOSH\/POSH C35-40",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12295,
+        "Parameter Name DE": "MOSH\/POSH C40-50",
+        "Parameter Name EN": "MOSH\/POSH C40-50",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12296,
+        "Parameter Name DE": "MOSH\/POSH C10-50",
+        "Parameter Name EN": "MOSH\/POSH C10-50",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12297,
+        "Parameter Name DE": "MOSH\/POSH C14-54",
+        "Parameter Name EN": "MOSH\/POSH C14-54",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12298,
+        "Parameter Name DE": "MOAH C10-16",
+        "Parameter Name EN": "MOAH C10-16",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12299,
+        "Parameter Name DE": "MOAH C16-25",
+        "Parameter Name EN": "MOAH C16-25",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12300,
+        "Parameter Name DE": "MOAH C25-35",
+        "Parameter Name EN": "MOAH C25-35",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12301,
+        "Parameter Name DE": "MOAH C35-50",
+        "Parameter Name EN": "MOAH C35-50",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12302,
+        "Parameter Name DE": "MOAH C10-50",
+        "Parameter Name EN": "MOAH C10-50",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12303,
+        "Parameter Name DE": "MOAH C14-42",
+        "Parameter Name EN": "MOAH C14-42",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12304,
+        "Parameter Name DE": "Ursolic Acid",
+        "Parameter Name EN": "Ursolic Acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12305,
+        "Parameter Name DE": "Acetic acid",
+        "Parameter Name EN": "Acetic acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12306,
+        "Parameter Name DE": "6-Shogaol",
+        "Parameter Name EN": "6-Shogaol",
         "Param Group": 213,
         "Lab": "Plenum"
     }

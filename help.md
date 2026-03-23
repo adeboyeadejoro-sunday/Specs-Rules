@@ -136,3 +136,7 @@ python convert_packages_csv_to_json.py --csv "New Parameters - packages.csv" --o
 - put 'Parameter_Map.json' in the data folder.
 - Then do git push
 - Then refresh app on streamlit
+
+***update_rules.py***
+python scripts/update_rules.py CSVs/Conts\ 1600\ -\ Sheet1.csv 
+- python scripts/update_rules.py [*path_to_rules_csv*] then follow instructions
