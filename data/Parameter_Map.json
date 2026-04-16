@@ -15010,7 +15010,7 @@
     {
         "Param_ID": 11602,
         "Parameter Name DE": "Pantothensäure",
-        "Parameter Name EN": "Pantothenic Acid ",
+        "Parameter Name EN": "Pantothenic Acid",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -19269,5 +19269,61 @@
         "Parameter Name EN": "6-Shogaol",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12307,
+        "Parameter Name DE": "Fructose nach Inversion",
+        "Parameter Name EN": "Fructose after inversion",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12308,
+        "Parameter Name DE": "Oligofructose berechnet",
+        "Parameter Name EN": "Oligofructose calculated",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12309,
+        "Parameter Name DE": "Wassergehalt, f., Karl-Fischer",
+        "Parameter Name EN": "Water Karl-Fischer",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12310,
+        "Parameter Name DE": "Rosavins",
+        "Parameter Name EN": "Rosavins",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12311,
+        "Parameter Name DE": "Salidroside",
+        "Parameter Name EN": "Salidroside",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12312,
+        "Parameter Name DE": "Hypercin",
+        "Parameter Name EN": "Hypercin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12313,
+        "Parameter Name DE": "Gypenosides",
+        "Parameter Name EN": "Gypenosides",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12318,
+        "Parameter Name DE": "Peroxide Value_39168",
+        "Parameter Name EN": "Peroxide Value_39168",
+        "Param Group": 207,
+        "Lab": "GBA"
     }
 ]
