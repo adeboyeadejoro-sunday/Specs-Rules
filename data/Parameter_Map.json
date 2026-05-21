@@ -2059,8 +2059,8 @@
     },
     {
         "Param_ID": 5544,
-        "Parameter Name DE": "Melatonin_36330",
-        "Parameter Name EN": "Melatonin_36330",
+        "Parameter Name DE": "Melatonin_39058",
+        "Parameter Name EN": "Melatonin_39058",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -14106,15 +14106,15 @@
     },
     {
         "Param_ID": 11473,
-        "Parameter Name DE": "Vitamin B1 (Thiamin), berechnet über Dichte_39312",
-        "Parameter Name EN": "Vitamin B1 (thiamine), calculated via density_39312",
+        "Parameter Name DE": "Vitamin-B1-Rohstoff_39312",
+        "Parameter Name EN": "Vitamin B1 only in raw material\/substance_39312",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11474,
-        "Parameter Name DE": "Vitamin B2 (Riboflavin), berechnet über density_39531",
-        "Parameter Name EN": "Vitamin B2 (riboflavin), calculated via density_39531",
+        "Parameter Name DE": "Vitamin B2 Rohstoff_39531",
+        "Parameter Name EN": "Vitamin B2 only in raw material\/substance_39531",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -15625,8 +15625,8 @@
     },
     {
         "Param_ID": 11695,
-        "Parameter Name DE": "Folpet °",
-        "Parameter Name EN": "Folpet °",
+        "Parameter Name DE": "Folpet, Phthalamide Total",
+        "Parameter Name EN": "Folpet, Phthalamide Total",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -18712,8 +18712,8 @@
     },
     {
         "Param_ID": 12194,
-        "Parameter Name DE": "Gesamt-Vitamin-B12 (All forms)",
-        "Parameter Name EN": "Vitamin B12 All forms",
+        "Parameter Name DE": "Gesamt-Vitamin-B12 All forms (Order the package)",
+        "Parameter Name EN": "Vitamin B12 All forms (Order the package)",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -19323,6 +19323,181 @@
         "Param_ID": 12318,
         "Parameter Name DE": "Peroxide Value_39168",
         "Parameter Name EN": "Peroxide Value_39168",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12321,
+        "Parameter Name DE": "Humic acid",
+        "Parameter Name EN": "Humic acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12322,
+        "Parameter Name DE": "Fulvic acid",
+        "Parameter Name EN": "Fulvic acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12329,
+        "Parameter Name DE": "Alpha-mangostin",
+        "Parameter Name EN": "Alpha-mangostin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12330,
+        "Parameter Name DE": "Sclareol",
+        "Parameter Name EN": "Sclareol",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12331,
+        "Parameter Name DE": "Isorhamnetin",
+        "Parameter Name EN": "Isorhamnetin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12332,
+        "Parameter Name DE": "Naringin",
+        "Parameter Name EN": "Naringin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12333,
+        "Parameter Name DE": "Optical Density",
+        "Parameter Name EN": "Optical Density",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12334,
+        "Parameter Name DE": "MagnesiumV2_40494",
+        "Parameter Name EN": "MagnesiumV2_40494",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12335,
+        "Parameter Name DE": "Piperin",
+        "Parameter Name EN": "Piperin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12342,
+        "Parameter Name DE": "Cumarin",
+        "Parameter Name EN": "Cumarin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12343,
+        "Parameter Name DE": "1-Methylnicotinamide Chloride",
+        "Parameter Name EN": "1-Methylnicotinamide Chloride",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12344,
+        "Parameter Name DE": "Bacoside",
+        "Parameter Name EN": "Bacoside",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12345,
+        "Parameter Name DE": "Eleutheroside",
+        "Parameter Name EN": "Eleutheroside",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12346,
+        "Parameter Name DE": "Anthocyane",
+        "Parameter Name EN": "Anthocyane ",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12347,
+        "Parameter Name DE": "Bulk Density ASTA_34585",
+        "Parameter Name EN": "Bulk Density ASTA_34585",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12348,
+        "Parameter Name DE": "Untapped Bulk Density_7673",
+        "Parameter Name EN": "Untapped Bulk Density_7673",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12349,
+        "Parameter Name DE": "Thiamine Hydrochloride",
+        "Parameter Name EN": "Thiamine Hydrochloride",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12350,
+        "Parameter Name DE": "S-Adenosyl-L-methionine Disulfate Tosylate",
+        "Parameter Name EN": "S-Adenosyl-L-methionine Disulfate Tosylate",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12351,
+        "Parameter Name DE": "Alanine_40734",
+        "Parameter Name EN": "Alanine_40734",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12352,
+        "Parameter Name DE": "Betulin",
+        "Parameter Name EN": "Betulin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12353,
+        "Parameter Name DE": "Ginkgolide",
+        "Parameter Name EN": "Ginkgolide",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12354,
+        "Parameter Name DE": "Beta-Alanin",
+        "Parameter Name EN": "Beta-Alanin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12355,
+        "Parameter Name DE": "Phenols",
+        "Parameter Name EN": "Phenols",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12356,
+        "Parameter Name DE": "Lignans",
+        "Parameter Name EN": "Lignans",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12357,
+        "Parameter Name DE": "Manganese_40512",
+        "Parameter Name EN": "Manganese_40512",
         "Param Group": 207,
         "Lab": "GBA"
     }
