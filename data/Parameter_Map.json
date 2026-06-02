@@ -14324,7 +14324,7 @@
     {
         "Param_ID": 11504,
         "Parameter Name DE": "Astaxanthin",
-        "Parameter Name EN": "Astaxanthin ",
+        "Parameter Name EN": "Astaxanthin",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -19377,8 +19377,8 @@
     },
     {
         "Param_ID": 12334,
-        "Parameter Name DE": "MagnesiumV2_40494",
-        "Parameter Name EN": "MagnesiumV2_40494",
+        "Parameter Name DE": "Magnesium-V2_40494",
+        "Parameter Name EN": "Magnesium-V2_40494",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19426,15 +19426,15 @@
     },
     {
         "Param_ID": 12347,
-        "Parameter Name DE": "Bulk Density ASTA_34585",
-        "Parameter Name EN": "Bulk Density ASTA_34585",
+        "Parameter Name DE": "Bulk Density ASTA-V2_34585",
+        "Parameter Name EN": "Bulk Density ASTA-V2_34585",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 12348,
-        "Parameter Name DE": "Untapped Bulk Density_7673",
-        "Parameter Name EN": "Untapped Bulk Density_7673",
+        "Parameter Name DE": "Untapped Bulk Density-V2_7673",
+        "Parameter Name EN": "Untapped Bulk Density-V2_7673",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19454,8 +19454,8 @@
     },
     {
         "Param_ID": 12351,
-        "Parameter Name DE": "Alanine_40734",
-        "Parameter Name EN": "Alanine_40734",
+        "Parameter Name DE": "Alanine-V2_40734",
+        "Parameter Name EN": "Alanine-V2_40734",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19496,8 +19496,57 @@
     },
     {
         "Param_ID": 12357,
-        "Parameter Name DE": "Manganese_40512",
-        "Parameter Name EN": "Manganese_40512",
+        "Parameter Name DE": "Manganese-V2_40512",
+        "Parameter Name EN": "Manganese-V2_40512",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12358,
+        "Parameter Name DE": "Beta-Carotin-V2_40430",
+        "Parameter Name EN": "Beta-Carotin-V2_40430",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12359,
+        "Parameter Name DE": "Kreatin-V2_39716",
+        "Parameter Name EN": "Creatin-V2_39716",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12360,
+        "Parameter Name DE": "Kreatinin-V2_39717",
+        "Parameter Name EN": "Creatinin-V2_39717",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12361,
+        "Parameter Name DE": "Kalzium-V2_40510",
+        "Parameter Name EN": "Calcium-V2_40510",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12362,
+        "Parameter Name DE": "Organic Acids",
+        "Parameter Name EN": "Organic Acids",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12363,
+        "Parameter Name DE": "Sambubioside",
+        "Parameter Name EN": "Sambubioside",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12364,
+        "Parameter Name DE": "Fett Soxhlet-V2_4983",
+        "Parameter Name EN": "Fat Soxhlet-V2_4983",
         "Param Group": 207,
         "Lab": "GBA"
     }
