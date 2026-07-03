@@ -392,7 +392,7 @@ def build_limit3_rules(ps: ParamSpec, spec_id: int) -> List[Dict[str, Any]]:
             target=t,
             ddf_type="OK",
             color="orange",
-            operator=">=",
+            operator=">",
             operator2="<=",
             linker="AND",
             value=threshold_perfect,
