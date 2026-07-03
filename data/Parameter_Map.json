@@ -12608,7 +12608,7 @@
     },
     {
         "Param_ID": 11249,
-        "Parameter Name DE": "Esche",
+        "Parameter Name DE": "Asche",
         "Parameter Name EN": "Ash",
         "Param Group": 207,
         "Lab": "GBA"
@@ -13189,8 +13189,8 @@
     },
     {
         "Param_ID": 11340,
-        "Parameter Name DE": "Glycyrrhizinsäure",
-        "Parameter Name EN": "Glycyrrhizic acid",
+        "Parameter Name DE": "Glycyrrhizinsäure_5693",
+        "Parameter Name EN": "Glycyrrhizic acid_5693",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -13756,8 +13756,8 @@
     },
     {
         "Param_ID": 11423,
-        "Parameter Name DE": "Eiweiß, N x 6,25",
-        "Parameter Name EN": "Protein, N x 6.25",
+        "Parameter Name DE": "Eiweiß, N x 6,25_4763",
+        "Parameter Name EN": "Protein, N x 6.25_4763",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -15276,7 +15276,7 @@
     {
         "Param_ID": 11640,
         "Parameter Name DE": "Vitamin B12",
-        "Parameter Name EN": "Vitamin B12 ",
+        "Parameter Name EN": "Vitamin B12",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -16976,113 +16976,113 @@
     },
     {
         "Param_ID": 11889,
-        "Parameter Name DE": "THC, HPLC-DAD (hohe Werte)10539",
-        "Parameter Name EN": "THC, HPLC-DAD (high values)10539",
+        "Parameter Name DE": "THC, HPLC-DAD (hohe Werte)",
+        "Parameter Name EN": "THC, HPLC-DAD (high values)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11891,
-        "Parameter Name DE": "THC, LC-MS\/MS (niedriger BG)8801",
-        "Parameter Name EN": "THC, LC-MS\/MS (low BG)8801",
+        "Parameter Name DE": "THC, LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "THC, LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11893,
-        "Parameter Name DE": "THC, delta-9, LC-MS\/MS (niedriger BG)35446",
-        "Parameter Name EN": "THC, delta-9, LC-MS\/MS (low BG)35446",
+        "Parameter Name DE": "THC, delta-9, LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "THC, delta-9, LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11896,
-        "Parameter Name DE": "THC, SUM, HPLC-DAD, hoher Gehalt39537",
-        "Parameter Name EN": "THC, SUM, HPLC-DAD, high content39537",
+        "Parameter Name DE": "THC, SUM, HPLC-DAD, hoher Gehalt",
+        "Parameter Name EN": "THC, SUM, HPLC-DAD, high content",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11897,
-        "Parameter Name DE": "Cannabinoide, HPLC-DAD (hohe Werte)37499",
-        "Parameter Name EN": "Cannabinoids, HPLC-DAD (high values)37499",
+        "Parameter Name DE": "Cannabinoide, HPLC-DAD (hohe Werte)",
+        "Parameter Name EN": "Cannabinoids, HPLC-DAD (high values)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11898,
-        "Parameter Name DE": "Cannabidiole. (CBDA), HPLC-DAD (h. Geh.)37498",
-        "Parameter Name EN": "Cannabidiols. (CBDA), HPLC-DAD (h. Geh.)37498",
+        "Parameter Name DE": "Cannabidiole. (CBDA), HPLC-DAD (h. Geh.)",
+        "Parameter Name EN": "Cannabidiols. (CBDA), HPLC-DAD (h. Geh.)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11899,
-        "Parameter Name DE": "Cannabinol (CBN), HPLC-DAD (h. Gehalt)37500",
-        "Parameter Name EN": "Cannabinol (CBN), HPLC-DAD (h. content)37500",
+        "Parameter Name DE": "Cannabinol (CBN), HPLC-DAD (h. Gehalt)",
+        "Parameter Name EN": "Cannabinol (CBN), HPLC-DAD (h. content)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11900,
-        "Parameter Name DE": "THC und Cannabis, niedrig BG9451",
-        "Parameter Name EN": "THC and cannabis, low BG9451",
+        "Parameter Name DE": "THC und Cannabis, niedrig BG",
+        "Parameter Name EN": "THC and cannabis, low BG",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11901,
-        "Parameter Name DE": "THC, gesamt, LC-MS\/MS (niedriger BG)34833",
-        "Parameter Name EN": "THC, total, LC-MS\/MS (low BG)34833",
+        "Parameter Name DE": "THC, gesamt, LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "THC, total, LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11903,
-        "Parameter Name DE": "THCA, delta-9, LC-MS\/MS (niedriger BG)35447",
-        "Parameter Name EN": "THCA, delta-9, LC-MS\/MS (low BG)35447",
+        "Parameter Name DE": "THCA, delta-9, LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "THCA, delta-9, LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11904,
-        "Parameter Name DE": "THC, SUM, mittels LC-MS\/MS (niedriger BG)39536",
-        "Parameter Name EN": "THC, SUM, by LC-MS\/MS (low BG)39536",
+        "Parameter Name DE": "THC, SUM, mittels LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "THC, SUM, by LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11905,
-        "Parameter Name DE": "Cannabinoide, LC-MS\/MS (niedriger BG)35784",
-        "Parameter Name EN": "Cannabinoids, LC-MS\/MS (low BG)35784",
+        "Parameter Name DE": "Cannabinoide, LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "Cannabinoids, LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11906,
-        "Parameter Name DE": "Cannabidiol (CBD), LC-MS\/MS (niedriger BG)35783",
-        "Parameter Name EN": "Cannabidiol (CBD), LC-MS\/MS (low BG)35783",
+        "Parameter Name DE": "Cannabidiol (CBD), LC-MS\/MS (niedriger BG)",
+        "Parameter Name EN": "Cannabidiol (CBD), LC-MS\/MS (low BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11907,
-        "Parameter Name DE": "Cannabidiole. (CBDA), LC-MS\/MS (n. BG)35785",
-        "Parameter Name EN": "Cannabidiols. (CBDA), LC-MS\/MS (n. BG)35785",
+        "Parameter Name DE": "Cannabidiole. (CBDA), LC-MS\/MS (n. BG)",
+        "Parameter Name EN": "Cannabidiols. (CBDA), LC-MS\/MS (n. BG)",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11908,
-        "Parameter Name DE": "Cannabinoide, hohe Werte9944",
-        "Parameter Name EN": "Cannabinoids, high values9944",
+        "Parameter Name DE": "Cannabinoide, hohe Werte",
+        "Parameter Name EN": "Cannabinoids, high values",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 11912,
-        "Parameter Name DE": "Cannabinoide, niedrig BG9086",
-        "Parameter Name EN": "Cannabinoids, low BG9086",
+        "Parameter Name DE": "Cannabinoide, niedrig BG",
+        "Parameter Name EN": "Cannabinoids, low BG",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -17193,8 +17193,8 @@
     },
     {
         "Param_ID": 11931,
-        "Parameter Name DE": "Verdauung\/Drucken_3423",
-        "Parameter Name EN": "Digestion\/Printing_3423",
+        "Parameter Name DE": "Verdauung\/Druck_3423",
+        "Parameter Name EN": "Digestion\/Pressure_3423",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -17351,6 +17351,41 @@
         "Parameter Name EN": "Tocopherols\/tocotrienols",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 11960,
+        "Parameter Name DE": "PABA (P-Aminobenzoic Acid)",
+        "Parameter Name EN": "PABA (P-Aminobenzoic Acid)",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 11961,
+        "Parameter Name DE": "Total Ginkgo Flavone Glycosides",
+        "Parameter Name EN": "Total Ginkgo Flavone Glycosides",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 11962,
+        "Parameter Name DE": "Mannose",
+        "Parameter Name EN": "Mannose",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 11963,
+        "Parameter Name DE": "Inulin",
+        "Parameter Name EN": "Inulin",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 11964,
+        "Parameter Name DE": "Alpha-amylase activity",
+        "Parameter Name EN": "Alpha-amylase activity",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 11965,
@@ -17589,6 +17624,13 @@
         "Parameter Name EN": "Dalton Weight",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12019,
+        "Parameter Name DE": "Luca Parameter",
+        "Parameter Name EN": "Luca Parameter",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 12020,
@@ -17890,6 +17932,20 @@
         "Parameter Name EN": "Picrocrocin relative to dry matter",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12073,
+        "Parameter Name DE": "Acrylnitril (C)",
+        "Parameter Name EN": "Acrylnitril (C)",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12074,
+        "Parameter Name DE": "Butylated Hydroxytoluene (C)",
+        "Parameter Name EN": "Butylated Hydroxytoluene (C)",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 12075,
@@ -18725,11 +18781,39 @@
         "Lab": "Plenum"
     },
     {
+        "Param_ID": 12196,
+        "Parameter Name DE": "NMR",
+        "Parameter Name EN": "NMR",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12197,
+        "Parameter Name DE": "Botanical Identification",
+        "Parameter Name EN": "Botanical Identification",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
         "Param_ID": 12199,
         "Parameter Name DE": "Vitamin K1 (trans-form)",
         "Parameter Name EN": "Vitamin K1 (trans-form)",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12201,
+        "Parameter Name DE": "Phytochemical Authentification",
+        "Parameter Name EN": "Phytochemical Authentification",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12202,
+        "Parameter Name DE": "Test param",
+        "Parameter Name EN": "Test param",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 12203,
@@ -18849,6 +18933,27 @@
         "Parameter Name EN": "Xyloglucan",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12239,
+        "Parameter Name DE": "Zeta Potential",
+        "Parameter Name EN": "Zeta Potential",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12240,
+        "Parameter Name DE": "DLS size of particles or liposomes",
+        "Parameter Name EN": "DLS size of particles or liposomes",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12241,
+        "Parameter Name DE": "Liposome size distribution",
+        "Parameter Name EN": "Liposome size distribution",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 12243,
@@ -19320,11 +19425,53 @@
         "Lab": "Plenum"
     },
     {
+        "Param_ID": 12314,
+        "Parameter Name DE": "Gesamtbakterienzahl aerob",
+        "Parameter Name EN": "Total bacteria count aerobic",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12315,
+        "Parameter Name DE": "Lactobacillus sp., quantitative",
+        "Parameter Name EN": "Lactobacillus sp., quantitative",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12316,
+        "Parameter Name DE": "Bifidobacterium sp., quantitative",
+        "Parameter Name EN": "Bifidobacterium sp., quantitative",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12317,
+        "Parameter Name DE": "16S Sequenzierung",
+        "Parameter Name EN": "16S sequencing",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
         "Param_ID": 12318,
         "Parameter Name DE": "Peroxide Value_39168",
         "Parameter Name EN": "Peroxide Value_39168",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12319,
+        "Parameter Name DE": "LaborLS",
+        "Parameter Name EN": "LaborLS",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12320,
+        "Parameter Name DE": "SGS_Vitamin D3",
+        "Parameter Name EN": "SGS_Vitamin D3",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 12321,
@@ -19377,8 +19524,8 @@
     },
     {
         "Param_ID": 12334,
-        "Parameter Name DE": "Magnesium-V2_40494",
-        "Parameter Name EN": "Magnesium-V2_40494",
+        "Parameter Name DE": "Magnesium-V2",
+        "Parameter Name EN": "Magnesium-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19388,6 +19535,41 @@
         "Parameter Name EN": "Piperin",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12336,
+        "Parameter Name DE": "Encapsulation efficiency",
+        "Parameter Name EN": "Encapsulation efficiency",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12337,
+        "Parameter Name DE": "aerobe Milchsäurebakterien_LaborLS",
+        "Parameter Name EN": "Aerobic Bacteria_LaborLS",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12338,
+        "Parameter Name DE": "Hefen_LaborLS",
+        "Parameter Name EN": "Yeast_LaborLS",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12339,
+        "Parameter Name DE": "Gesamtkeimzahl aerobe_LaborLS",
+        "Parameter Name EN": "Total Aerobic Bacteria_LaborLS",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12341,
+        "Parameter Name DE": "Limbach Analytics _Vitamin D3",
+        "Parameter Name EN": "Limbach Analytics _Vitamin D3",
+        "Param Group": 220,
+        "Lab": "Others"
     },
     {
         "Param_ID": 12342,
@@ -19426,15 +19608,15 @@
     },
     {
         "Param_ID": 12347,
-        "Parameter Name DE": "Bulk Density ASTA-V2_34585",
-        "Parameter Name EN": "Bulk Density ASTA-V2_34585",
+        "Parameter Name DE": "Bulk Density ASTA-V2",
+        "Parameter Name EN": "Bulk Density ASTA-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 12348,
-        "Parameter Name DE": "Untapped Bulk Density-V2_7673",
-        "Parameter Name EN": "Untapped Bulk Density-V2_7673",
+        "Parameter Name DE": "Untapped Bulk Density-V2",
+        "Parameter Name EN": "Untapped Bulk Density-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19454,8 +19636,8 @@
     },
     {
         "Param_ID": 12351,
-        "Parameter Name DE": "Alanine-V2_40734",
-        "Parameter Name EN": "Alanine-V2_40734",
+        "Parameter Name DE": "Alanine-V2",
+        "Parameter Name EN": "Alanine-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19496,36 +19678,36 @@
     },
     {
         "Param_ID": 12357,
-        "Parameter Name DE": "Manganese-V2_40512",
-        "Parameter Name EN": "Manganese-V2_40512",
+        "Parameter Name DE": "Manganese-V2",
+        "Parameter Name EN": "Manganese-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 12358,
-        "Parameter Name DE": "Beta-Carotin-V2_40430",
-        "Parameter Name EN": "Beta-Carotin-V2_40430",
+        "Parameter Name DE": "Beta-Carotin_40430",
+        "Parameter Name EN": "Beta-Carotene_40430",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 12359,
-        "Parameter Name DE": "Kreatin-V2_39716",
-        "Parameter Name EN": "Creatin-V2_39716",
+        "Parameter Name DE": "Kreatin-V2",
+        "Parameter Name EN": "Creatin-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 12360,
-        "Parameter Name DE": "Kreatinin-V2_39717",
-        "Parameter Name EN": "Creatinin-V2_39717",
+        "Parameter Name DE": "Kreatinin-V2",
+        "Parameter Name EN": "Creatinin-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
     {
         "Param_ID": 12361,
-        "Parameter Name DE": "Kalzium-V2_40510",
-        "Parameter Name EN": "Calcium-V2_40510",
+        "Parameter Name DE": "Kalzium-V2",
+        "Parameter Name EN": "Calcium-V2",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -19545,9 +19727,639 @@
     },
     {
         "Param_ID": 12364,
-        "Parameter Name DE": "Fett Soxhlet-V2_4983",
-        "Parameter Name EN": "Fat Soxhlet-V2_4983",
+        "Parameter Name DE": "Fett Soxhlet-V2",
+        "Parameter Name EN": "Fat Soxhlet-V2",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12365,
+        "Parameter Name DE": "Analytice_Linamarin",
+        "Parameter Name EN": "Analytice_Linamarin",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12366,
+        "Parameter Name DE": "Analytice_Cyanogenic Glycosides",
+        "Parameter Name EN": "Analytice_Cyanogenic Glycosides",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12367,
+        "Parameter Name DE": "PABA P-aminobenzoic acid",
+        "Parameter Name EN": "PABA P-aminobenzoic acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12368,
+        "Parameter Name DE": "Limbach Analytics_Default",
+        "Parameter Name EN": "Limbach Analytics_Default",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12369,
+        "Parameter Name DE": "Eurofins PL",
+        "Parameter Name EN": "Eurofins PL",
+        "Param Group": 211,
+        "Lab": "Eurofins_PL"
+    },
+    {
+        "Param_ID": 12374,
+        "Parameter Name DE": "Selen-V2",
+        "Parameter Name EN": "Selenium-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12375,
+        "Parameter Name DE": "Allicin (Knoblauchprodukte)_1763",
+        "Parameter Name EN": "Allicin (garlic products)_1763",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12376,
+        "Parameter Name DE": "BAV_default",
+        "Parameter Name EN": "BAV_default",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12377,
+        "Parameter Name DE": "Hyaluronic Acid",
+        "Parameter Name EN": "Hyaluronic Acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12378,
+        "Parameter Name DE": "5-Methyltetrahydrofolic",
+        "Parameter Name EN": "5-Methyltetrahydrofolic",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12382,
+        "Parameter Name DE": "Withanolides - KSM66 Method",
+        "Parameter Name EN": "Withanolides - KSM66 Method",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12383,
+        "Parameter Name DE": "Mitraphylline (CAS: 509-80-8)",
+        "Parameter Name EN": "Mitraphylline (CAS: 509-80-8)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12384,
+        "Parameter Name DE": "Isomitraphylline (CAS: 4963-01-3)",
+        "Parameter Name EN": "Isomitraphylline (CAS: 4963-01-3)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12385,
+        "Parameter Name DE": "Pteropodine \/ Uncarine C (CAS: 5629-60-7)",
+        "Parameter Name EN": "Pteropodine \/ Uncarine C (CAS: 5629-60-7)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12386,
+        "Parameter Name DE": "Isopteropodine \/ Uncarine E (CAS: 5171-44-8)",
+        "Parameter Name EN": "Isopteropodine \/ Uncarine E (CAS: 5171-44-8)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12387,
+        "Parameter Name DE": "Rhynchophylline (CAS: 76-66-4)",
+        "Parameter Name EN": "Rhynchophylline (CAS: 76-66-4)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12388,
+        "Parameter Name DE": "Isorhynchophylline (CAS: 6859-01-4)",
+        "Parameter Name EN": "Isorhynchophylline (CAS: 6859-01-4)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12389,
+        "Parameter Name DE": "Linalool",
+        "Parameter Name EN": "Linalool",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12390,
+        "Parameter Name DE": "Alliin (CAS: 556-27-4)",
+        "Parameter Name EN": "Alliin (CAS: 556-27-4)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12391,
+        "Parameter Name DE": "S-Allyl-Cysteine \/ SAC (CAS: 21594-58-9)",
+        "Parameter Name EN": "S-Allyl-Cysteine \/ SAC (CAS: 21594-58-9)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12392,
+        "Parameter Name DE": "DL-Phenylalanine",
+        "Parameter Name EN": "DL-Phenylalanine",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12393,
+        "Parameter Name DE": "E-Coli_Bilacon",
+        "Parameter Name EN": "E-Coli_Bilacon",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12394,
+        "Parameter Name DE": "Total Cell Count (Neubauer)",
+        "Parameter Name EN": "Total Cell Count (Neubauer)",
+        "Param Group": 220,
+        "Lab": "Others"
+    },
+    {
+        "Param_ID": 12395,
+        "Parameter Name DE": "Lead",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12396,
+        "Parameter Name DE": "Cadmium",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12397,
+        "Parameter Name DE": "Arsenic",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12398,
+        "Parameter Name DE": "Mercury",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12399,
+        "Parameter Name DE": "Ochratoxin A",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12400,
+        "Parameter Name DE": "Aflatoxin B1",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12401,
+        "Parameter Name DE": "Aflatoxin B2",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12402,
+        "Parameter Name DE": "Aflatoxin G1",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12403,
+        "Parameter Name DE": "Aflatoxin G2",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12404,
+        "Parameter Name DE": "Sum of Aflatoxins B1, B2, G1, G2",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12405,
+        "Parameter Name DE": "Protein",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12406,
+        "Parameter Name DE": "Dietary fiber",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12407,
+        "Parameter Name DE": "Water content",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12408,
+        "Parameter Name DE": "Ash",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12409,
+        "Parameter Name DE": "Total Fat",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12410,
+        "Parameter Name DE": "Energy (kJ)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12411,
+        "Parameter Name DE": "Energy (kcal)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12412,
+        "Parameter Name DE": "Carbohydrates (Kohlenhydrate)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12413,
+        "Parameter Name DE": "Glucose",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12414,
+        "Parameter Name DE": "Fructose",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12415,
+        "Parameter Name DE": "Sucrose",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12416,
+        "Parameter Name DE": "Galactose",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12417,
+        "Parameter Name DE": "Lactose",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12418,
+        "Parameter Name DE": "Maltose",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12419,
+        "Parameter Name DE": "Total Sugar (Gesamtzucker)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12420,
+        "Parameter Name DE": "Sodium (Natrium)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12421,
+        "Parameter Name DE": "Salt content (Salzgehalt)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12422,
+        "Parameter Name DE": "Saturated fatty acids",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12423,
+        "Parameter Name DE": "Monounsaturated fatty acids",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12424,
+        "Parameter Name DE": "Polyunsaturated fatty acids",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12425,
+        "Parameter Name DE": "Trans fatty acids",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12426,
+        "Parameter Name DE": "Omega-3 fatty acids",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12427,
+        "Parameter Name DE": "Omega-6 fatty acids",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12428,
+        "Parameter Name DE": "Pirimiphos-methyl",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12429,
+        "Parameter Name DE": "Dimethomorph (Sum of isomers)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12430,
+        "Parameter Name DE": "Pesticides GC-MS\/MS (Quechers)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12431,
+        "Parameter Name DE": "Pesticides LC-MS\/MS (Quechers)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12432,
+        "Parameter Name DE": "Pyraclostrobin",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12433,
+        "Parameter Name DE": "Tebuconazole",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12434,
+        "Parameter Name DE": "Chrysen",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12435,
+        "Parameter Name DE": "Benzo(a)anthracene",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12436,
+        "Parameter Name DE": "Benzo(a)pyrene",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12437,
+        "Parameter Name DE": "Benzo(b)fluoranthene",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12438,
+        "Parameter Name DE": "Sum of PAHs (Summe PAKs)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12439,
+        "Parameter Name DE": "1-Butanol",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12440,
+        "Parameter Name DE": "1-Propanol",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12441,
+        "Parameter Name DE": "2-Butanol",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12442,
+        "Parameter Name DE": "2-Propanol",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12443,
+        "Parameter Name DE": "Acetone (Aceton)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12444,
+        "Parameter Name DE": "Cyclohexane (Cyclohexan)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12445,
+        "Parameter Name DE": "Dichloromethane (Dichlormethan)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12446,
+        "Parameter Name DE": "Diethyl ether (Diethylether)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12447,
+        "Parameter Name DE": "Ethanol",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12448,
+        "Parameter Name DE": "Ethylmethylketone (Ethylmethylketon)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12449,
+        "Parameter Name DE": "Ethyl acetate (Ethylacetat)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12450,
+        "Parameter Name DE": "Hexane (Hexan)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12451,
+        "Parameter Name DE": "Methyl acetate (Methylacetat)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12452,
+        "Parameter Name DE": "Methanol",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12453,
+        "Parameter Name DE": "1,1,1,2-Tetrafluoroethane",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12454,
+        "Parameter Name DE": "Trichloromethane (Trichlormethan)",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12455,
+        "Parameter Name DE": "Total plate count",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12456,
+        "Parameter Name DE": "Enterobacteriaceae",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12457,
+        "Parameter Name DE": "Escherichia coli",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12458,
+        "Parameter Name DE": "Yeasts",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12459,
+        "Parameter Name DE": "Moulds",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12460,
+        "Parameter Name DE": "Coagulase-positive Staphylococci",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12461,
+        "Parameter Name DE": "Salmonella in 25 g",
+        "Parameter Name EN": null,
+        "Param Group": 225,
+        "Lab": "Limbach"
     }
 ]
