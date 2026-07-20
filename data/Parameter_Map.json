@@ -20322,8 +20322,8 @@
     },
     {
         "Param_ID": 12358,
-        "Parameter Name DE": "Beta-Carotin_40430",
-        "Parameter Name EN": "Beta-Carotene_40430",
+        "Parameter Name DE": "Vitamin A as Beta-Carotin_40430",
+        "Parameter Name EN": "Vitamin A as Beta-Carotene_40430",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -21159,5 +21159,47 @@
         "Parameter Name EN": "5´-Methylthioadenosin",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12478,
+        "Parameter Name DE": "Beta-Carotin, berechnet als Vitamin A",
+        "Parameter Name EN": "Beta-Carotin calculated as Vitamin A",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12479,
+        "Parameter Name DE": "Bilacon_Test_Parameter",
+        "Parameter Name EN": "Bilacon_Test_Parameter",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12480,
+        "Parameter Name DE": "Gewicht Dosis NEM_Tropfen_Sunday",
+        "Parameter Name EN": "Weight_Per_Dosage_NEM_Drops_Sunday",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12481,
+        "Parameter Name DE": "Raumtemperatur_Tropfen_Sunday",
+        "Parameter Name EN": "Room_Temperature_Drops_Sunday",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12482,
+        "Parameter Name DE": "Vitamin A (gesamt) - Sum. aus A und beta-Carotin",
+        "Parameter Name EN": "Vitamin A (gesamt) - Sum. aus A und beta-Carotin",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12483,
+        "Parameter Name DE": "Magnesium",
+        "Parameter Name EN": "Magnesium",
+        "Param Group": 225,
+        "Lab": "Limbach"
     }
 ]

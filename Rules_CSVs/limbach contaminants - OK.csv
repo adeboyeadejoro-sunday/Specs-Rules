@@ -1,0 +1,13 @@
+spec_id,show,column,inverse,DDF_unit,DDF_target_value,parametertype_id,param_name,DDF_type,color,operator,value,linker,operator2,value2,regex_filter,text,translations
+1205,1,0,0,µg/kg,10,12399,Ochratoxin A,OK,orange,>,3,AND,<=,10,,,
+1205,1,0,0,µg/kg,5,12400,Aflatoxin B1,OK,orange,>,1.5,AND,<=,5,,,
+1205,1,0,0,µg/kg,10,12404,"Sum of Aflatoxins B1, B2, G1, G2",OK,orange,>,3,AND,<=,10,,,
+1205,1,0,0,µg/kg,10,12436,Benzo(a)pyrene,OK,orange,>,3,AND,<=,10,,,
+1205,1,0,0,µg/kg,50,12438,Sum of PAHs (Summe PAKs),OK,orange,>,15,AND,<=,50,,,
+1205,1,0,0,mg/kg,10,12442,2-Propanol,OK,orange,>,3,AND,<=,10,,,
+1205,1,0,0,mg/kg,10,12452,Methanol,OK,orange,>,3,AND,<=,10,,,
+1205,1,0,0,CFU,1.00E+04,12455,Total plate count,OK,orange,>,3.00E+03,AND,<=,1.00E+04,,,
+1205,1,0,0,CFU,1.00E+02,12456,Enterobacteriaceae,OK,orange,>,3.00E+01,AND,<=,1.00E+02,,,
+1205,1,0,0,CFU,1.00E+02,12458,Yeasts,OK,orange,>,3.00E+01,AND,<=,1.00E+02,,,
+1205,1,0,0,CFU,1.00E+02,12459,Moulds,OK,orange,>,3.00E+01,AND,<=,1.00E+02,,,
+1205,1,0,0,CFU,1.00E+02,12460,Coagulase-positive Staphylococci,OK,orange,>,3.00E+01,AND,<=,1.00E+02,,,
