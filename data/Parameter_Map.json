@@ -499,7 +499,7 @@
     {
         "Param_ID": 5297,
         "Parameter Name DE": "Mangan_10863",
-        "Parameter Name EN": "Mangananese_10863",
+        "Parameter Name EN": "Manganese_10863",
         "Param Group": 207,
         "Lab": "GBA"
     },
@@ -21201,5 +21201,54 @@
         "Parameter Name EN": "Magnesium",
         "Param Group": 225,
         "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 12484,
+        "Parameter Name DE": "Total aerobic mesophilic count (Bilacon)",
+        "Parameter Name EN": "Total aerobic mesophilic count  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12485,
+        "Parameter Name DE": "Enterobacteriaceae  (Bilacon)",
+        "Parameter Name EN": "Enterobacteriaceae  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12486,
+        "Parameter Name DE": "coagulase-positive Staphylococcus  (Bilacon)",
+        "Parameter Name EN": "coagulase-positive Staphylococcus  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12487,
+        "Parameter Name DE": "Yeasts  (Bilacon)",
+        "Parameter Name EN": "Yeasts  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12488,
+        "Parameter Name DE": "Mould fungi  (Bilacon)",
+        "Parameter Name EN": "Mould fungi  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12489,
+        "Parameter Name DE": "Listeria monocytogenes in 25 g  (Bilacon)",
+        "Parameter Name EN": "Listeria monocytogenes in 25 g  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12490,
+        "Parameter Name DE": "Salmonella spp. in 25 g  (Bilacon)",
+        "Parameter Name EN": "Salmonella spp. in 25 g  (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
     }
 ]
