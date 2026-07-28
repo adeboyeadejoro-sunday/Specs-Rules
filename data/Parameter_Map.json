@@ -20206,7 +20206,7 @@
         "Parameter Name DE": "Limbach Analytics _Vitamin D3",
         "Parameter Name EN": "Limbach Analytics _Vitamin D3",
         "Param Group": 220,
-        "Lab": "Limbach Analytics"
+        "Lab": "Limbach"
     },
     {
         "Param_ID": 12342,
@@ -20395,7 +20395,7 @@
         "Parameter Name DE": "Limbach Analytics_Default",
         "Parameter Name EN": "Limbach Analytics_Default",
         "Param Group": 220,
-        "Lab": "Limbach Analytics"
+        "Lab": "Limbach"
     },
     {
         "Param_ID": 12369,
@@ -21250,5 +21250,229 @@
         "Parameter Name EN": "Salmonella spp. in 25 g  (Bilacon)",
         "Param Group": 220,
         "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12491,
+        "Parameter Name DE": "Beta-Carotin, berechnet als Vitamin A",
+        "Parameter Name EN": "Beta Carotin calculated as Vitamin A",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12492,
+        "Parameter Name DE": "Benzalkonium chloride",
+        "Parameter Name EN": "Benzalkonium chloride",
+        "Param Group": 220,
+        "Lab": "BAV"
+    },
+    {
+        "Param_ID": 12493,
+        "Parameter Name DE": "2-Phenylphenol Bilacon",
+        "Parameter Name EN": "2-Phenylphenol Bilacon",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12494,
+        "Parameter Name DE": "2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)(Bil",
+        "Parameter Name EN": "2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)(Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12495,
+        "Parameter Name DE": "Anthraquinone (Bilacon)",
+        "Parameter Name EN": "Anthraquinone (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12496,
+        "Parameter Name DE": "Chlorthaldimethyl- (Bilacon)",
+        "Parameter Name EN": "Chlorthaldimethyl- (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12497,
+        "Parameter Name DE": "Phthalimid (Metabolit Folpet) (Bilacon)",
+        "Parameter Name EN": "Phthalimid (Metabolit Folpet) (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12498,
+        "Parameter Name DE": "Procymidone (Bilacon)",
+        "Parameter Name EN": "Procymidone (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12499,
+        "Parameter Name DE": "Tri-Allate (Bilacon)",
+        "Parameter Name EN": "Tri-Allate (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12500,
+        "Parameter Name DE": "Acetamiprid (Bilacon)",
+        "Parameter Name EN": "Acetamiprid (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12501,
+        "Parameter Name DE": "Azoxystrobin (Bilacon)",
+        "Parameter Name EN": "Azoxystrobin (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12502,
+        "Parameter Name DE": "Boscalid (Bilacon)",
+        "Parameter Name EN": "Boscalid (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12503,
+        "Parameter Name DE": "Carbendazim (Bilacon)",
+        "Parameter Name EN": "Carbendazim (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12504,
+        "Parameter Name DE": "Carbendazim and benomyl (sum of benomyl and carbendazim expressed as carbendazim) (Bilacon",
+        "Parameter Name EN": "Carbendazim and benomyl (sum of benomyl and carbendazim expressed as carbendazim) (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12505,
+        "Parameter Name DE": "Chlorantraniliprole (Bilacon)",
+        "Parameter Name EN": "Chlorantraniliprole (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12506,
+        "Parameter Name DE": "Difenoconazol (Bilacon)",
+        "Parameter Name EN": "Difenoconazol (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12507,
+        "Parameter Name DE": "Matrine (Bilacon)",
+        "Parameter Name EN": "Matrine (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12508,
+        "Parameter Name DE": "Paclobutrazol (Bilacon)",
+        "Parameter Name EN": "Paclobutrazol (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12509,
+        "Parameter Name DE": "Propiconazole (sum of isomers) (Bilacon)",
+        "Parameter Name EN": "Propiconazole (sum of isomers) (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12510,
+        "Parameter Name DE": "Pyraclostrobin (Bilacon)",
+        "Parameter Name EN": "Pyraclostrobin (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12511,
+        "Parameter Name DE": "Tebuconazole (Bilacon)",
+        "Parameter Name EN": "Tebuconazole (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12512,
+        "Parameter Name DE": "Thiamethoxam (Bilacon)",
+        "Parameter Name EN": "Thiamethoxam (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12513,
+        "Parameter Name DE": "Benzo-(a)-pyrene (Bilacon)",
+        "Parameter Name EN": "Benzo-(a)-pyrene (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12514,
+        "Parameter Name DE": "Benzo(a)anthracene (Bilacon)",
+        "Parameter Name EN": "Benzo(a)anthracene (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12515,
+        "Parameter Name DE": "Benzo-(b)-fluoranthene (Bilacon)",
+        "Parameter Name EN": "Benzo-(b)-fluoranthene (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12516,
+        "Parameter Name DE": "Chrysene (Bilacon)",
+        "Parameter Name EN": "Chrysene (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12517,
+        "Parameter Name DE": "Sum PAH 4* (Bilacon)",
+        "Parameter Name EN": "Sum PAH 4* (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12518,
+        "Parameter Name DE": "Lead (Bilacon)",
+        "Parameter Name EN": "Lead (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12519,
+        "Parameter Name DE": "Cadmium (Bilacon)",
+        "Parameter Name EN": "Cadmium (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12520,
+        "Parameter Name DE": "Mercury (Bilacon)",
+        "Parameter Name EN": "Mercury (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12521,
+        "Parameter Name DE": "Arsenic (Bilacon)",
+        "Parameter Name EN": "Arsenic (Bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12522,
+        "Parameter Name DE": "Vitamin B6-V2",
+        "Parameter Name EN": "Vitamin B6-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
     }
 ]
