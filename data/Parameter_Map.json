@@ -19174,8 +19174,8 @@
     },
     {
         "Param_ID": 12194,
-        "Parameter Name DE": "Gesamt-Vitamin-B12 All forms (Order the package)",
-        "Parameter Name EN": "Vitamin B12 All forms (Order the package)",
+        "Parameter Name DE": "Gesamt-Vitamin-B12 All forms",
+        "Parameter Name EN": "Vitamin B12 All forms",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -21274,8 +21274,8 @@
     },
     {
         "Param_ID": 12494,
-        "Parameter Name DE": "2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)(Bil",
-        "Parameter Name EN": "2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)(Bilacon)",
+        "Parameter Name DE": "2-phenylphenol (sum of 2-phenylphenol)(Bilacon)",
+        "Parameter Name EN": "2-phenylphenol (sum of 2-phenylphenol)(Bilacon)",
         "Param Group": 220,
         "Lab": "Bilacon"
     },
@@ -21472,6 +21472,62 @@
         "Param_ID": 12522,
         "Parameter Name DE": "Vitamin B6-V2",
         "Parameter Name EN": "Vitamin B6-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12523,
+        "Parameter Name DE": "Silbinol",
+        "Parameter Name EN": "Silbinol",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12524,
+        "Parameter Name DE": "Sitosterol",
+        "Parameter Name EN": "Sitosterol",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12525,
+        "Parameter Name DE": "Sum of Withanolides",
+        "Parameter Name EN": "Sum of Withanolides",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 12526,
+        "Parameter Name DE": "mixture of alkylbenzyldimethylammonium chlorides (bilacon)",
+        "Parameter Name EN": "mixture of alkylbenzyldimethylammonium chlorides (bilacon)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12527,
+        "Parameter Name DE": "Bilacon_Test_Parameter 2",
+        "Parameter Name EN": "Bilacon_Test_Parameter 2",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 12528,
+        "Parameter Name DE": "Inulin berechnet",
+        "Parameter Name EN": "Inulin",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12529,
+        "Parameter Name DE": "Citrinin_35215",
+        "Parameter Name EN": "Citrinin_35215",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 12530,
+        "Parameter Name DE": "Vitamin B2-V2",
+        "Parameter Name EN": "Vitamin B2-V2",
         "Param Group": 207,
         "Lab": "GBA"
     }
