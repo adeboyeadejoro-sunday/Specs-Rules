@@ -49,13 +49,13 @@ PARAMETERS: List[ParameterSpec] = [
     ParameterSpec(5444, "Fatty acid, saturated", "locked"),
     ParameterSpec(5244, "Carbohydrates*", "locked"),
     ParameterSpec(5245, "Sugar", "locked"),
+    ParameterSpec(5246, "Sugar, total", "locked"),
     ParameterSpec(5252, "Fibre", "locked"),
     ParameterSpec(11940, "Dietary_Fibre", "locked"),
     ParameterSpec(11423, "Protein, N x 6.25", "locked"),
     ParameterSpec(11440, "Salt from sodium", "locked"),
 
     ParameterSpec(5240, "Fatty acid*", "other"),
-    ParameterSpec(5246, "Sugar, total", "other"),
     ParameterSpec(5247, "Fructose", "other"),
     ParameterSpec(5248, "Glucose", "other"),
     ParameterSpec(5249, "Sucrose", "other"),
@@ -76,7 +76,7 @@ LOCKED_UNIT: str = "g/100g"
 
 # “Other parameters” set (exactly as you listed)
 OTHER_PARAM_IDS: set[int] = {
-    5240, 5246, 5247, 5248, 5249, 5250, 5251, 11249, 11377, 12016
+    5240, 5247, 5248, 5249, 5250, 5251, 11249, 11377, 12016
 }
 
 SODIUM_LIKE_IDS: set[int] = {5299, 5445, 5446}
@@ -301,12 +301,14 @@ def build_rules_payload(
                 dev = deviation_piecewise_10_40(target, low_abs=Decimal("1.5"), high_abs=Decimal("8"))
             elif p.parametertype_id == 5444:  # saturated fat
                 dev = deviation_saturated_like(target, threshold=Decimal("4"), low_abs=Decimal("0.8"))
-            elif p.parametertype_id in (5244, 5245, 5252, 11423, 11940):  # carbs/sugar/fibre/protein
+            elif p.parametertype_id in (5244, 5245, 5246, 5252, 11423, 11940):  # carbs/sugar/fibre/protein
                 dev = deviation_piecewise_10_40(target, low_abs=Decimal("2"), high_abs=Decimal("8"))
             elif p.parametertype_id == 11440:  # salt
                 dev = deviation_saturated_like(target, threshold=Decimal("1.25"), low_abs=Decimal("0.375"))
             else:
                 # Should not happen, but fall back to 20%
+                warnings.append(
+                    f"{p.name}: no deviation rule defined for locked parameter; used flat 20%.")
                 dev = q4(target * Decimal("0.20"))
 
         elif p.group == "sodium_like":
