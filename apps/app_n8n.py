@@ -14,6 +14,7 @@ Streamlit UI for generate_standalone_rules.py (CLI behavior preserved strictly)
 from __future__ import annotations
 
 import json
+import requests # <--- ADD THIS LINE
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -591,6 +592,25 @@ with right:
             file_name=filename,
             mime="application/json",
         )
+        
+        # --- NEW CODE: Send to n8n Webhook ---
+        st.write("") # adds a little visual spacing
+        if st.button("🚀 Send to LIMS"):
+            webhook_url = "https://n8n.sunday.de/webhook-test/ccdc1813-7461-4926-804d-a8bc2bf5a601"
+            try:
+                # Decode the bytes back to a Python dictionary
+                payload = json.loads(generated.decode("utf-8"))
+                
+                # Send the POST request to n8n
+                with st.spinner("Sending payload..."):
+                    response = requests.post(webhook_url, json=payload)
+                    response.raise_for_status() # Check for errors (404, 500, etc.)
+                
+                st.success("Successfully sent to n8n!")
+            except Exception as e:
+                st.error(f"Failed to send to n8n: {e}")
+        # -------------------------------------
+
         st.caption(f"Rules count: {rules_count}")
 
         try:
