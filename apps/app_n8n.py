@@ -359,7 +359,7 @@ def perform_clear_all_pre_widgets() -> None:
 # UI
 # -----------------------------
 
-st.set_page_config(page_title="Standalone Rules Generator", layout="wide")
+st.set_page_config(page_title="Automatic Standalone Rules Generator", layout="wide")
 st.title("Standalone Rules Generator")
 
 # Initialize core states
