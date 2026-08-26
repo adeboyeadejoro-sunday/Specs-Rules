@@ -360,7 +360,7 @@ def perform_clear_all_pre_widgets() -> None:
 # -----------------------------
 
 st.set_page_config(page_title="Automatic Standalone Rules Generator", layout="wide")
-st.title("Standalone Rules Generator")
+st.title("Automatic Standalone Rules Generator")
 
 # Initialize core states
 if "rows" not in st.session_state:
