@@ -596,7 +596,7 @@ with right:
         # --- NEW CODE: Send to n8n Webhook ---
         st.write("") # adds a little visual spacing
         if st.button("🚀 Send to LIMS"):
-            webhook_url = "https://n8n.sunday.de/webhook-test/ccdc1813-7461-4926-804d-a8bc2bf5a601"
+            webhook_url = "https://n8n.sunday.de/webhook/ccdc1813-7461-4926-804d-a8bc2bf5a601"
             try:
                 # Decode the bytes back to a Python dictionary
                 payload = json.loads(generated.decode("utf-8"))
