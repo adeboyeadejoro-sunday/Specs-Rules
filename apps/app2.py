@@ -25,6 +25,7 @@ from __future__ import annotations
 
 import json
 import re
+import requests 
 from dataclasses import dataclass
 from datetime import datetime
 from decimal import Decimal, ROUND_HALF_UP, InvalidOperation
@@ -582,18 +583,41 @@ def main() -> None:
             st.dataframe(preview_rows, use_container_width=True, height=420)
 
         # Download
+        # Ensure we store the JSON in session state so the button doesn't clear on click
         now = datetime.now()
         fname = f"{file_prefix}_{spec_id}_{now.strftime('%Y%m%d_%H%M')}.json"
         json_bytes = json.dumps(payload, ensure_ascii=False, indent=2).encode("utf-8")
+        
+        st.session_state["nutri_json_bytes"] = json_bytes
+        st.session_state["nutri_fname"] = fname
+        st.session_state["nutri_rules_count"] = len(payload['rules'])
+        st.session_state["nutri_payload_dict"] = payload
 
-        st.download_button(
-            label="Download Rules JSON",
-            data=json_bytes,
-            file_name=fname,
-            mime="application/json",
-        )
-
-        st.success(f"Generated {len(payload['rules'])} rules.")
+    # Always show download/send buttons if data exists in session state
+    if "nutri_json_bytes" in st.session_state:
+        st.success(f"Generated {st.session_state['nutri_rules_count']} rules.")
+        
+        col1, col2 = st.columns([1, 4])
+        
+        with col1:
+            st.download_button(
+                label="Download Rules JSON",
+                data=st.session_state["nutri_json_bytes"],
+                file_name=st.session_state["nutri_fname"],
+                mime="application/json",
+            )
+            
+        with col2:
+            if st.button("🚀 Send to LIMS"):
+                # Make sure this matches your active n8n Production URL!
+                webhook_url = "https://n8n.sunday.de/webhook/ccdc1813-7461-4926-804d-a8bc2bf5a601"
+                try:
+                    with st.spinner("Sending payload..."):
+                        response = requests.post(webhook_url, json=st.session_state["nutri_payload_dict"])
+                        response.raise_for_status()
+                    st.success("Successfully sent to n8n!")
+                except Exception as e:
+                    st.error(f"Failed to send to n8n: {e}")
 
     st.markdown("---")
     st.caption(
