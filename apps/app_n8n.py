@@ -393,6 +393,7 @@ if sample_id_target and not st.session_state["rows_initialized"]:
     try:
         df = load_gsheet_data(SHEET_ID)
         sample_df = df[df['Sample Name'].astype(str) == sample_id_target]
+        sample_df = sample_df.drop_duplicates(subset=['Parameter ID'], keep='last')
         
         if not sample_df.empty:
             # 1. Parse Attached Spec IDs for the dropdown
