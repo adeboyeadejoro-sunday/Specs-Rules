@@ -396,13 +396,25 @@ if sample_id_target and not st.session_state["rows_initialized"]:
         sample_df = sample_df.drop_duplicates(subset=['Parameter ID'], keep='last')
         
         if not sample_df.empty:
-            # 1. Parse Attached Spec IDs for the dropdown
+            # 1. Parse Attached Spec IDs AND Names for the dropdown
             raw_specs = str(sample_df.iloc[0]['Attached Spec IDs'])
-            spec_list = [int(s.strip()) for s in raw_specs.split(",") if s.strip().isdigit()]
+            raw_spec_names = str(sample_df.iloc[0].get('Attached Spec Names', ''))
             
-            if spec_list:
-                st.session_state["spec_options"] = spec_list
-                st.session_state["spec_id"] = spec_list[0]
+            spec_ids = [s.strip() for s in raw_specs.split(",") if s.strip().isdigit()]
+            spec_names = [s.strip() for s in raw_spec_names.split(",")]
+            
+            # Create a dictionary mapping the ID to a formatted string: {1279: "1279 - Contaminants_Template"}
+            spec_mapping = {}
+            for i, sid_str in enumerate(spec_ids):
+                sid_int = int(sid_str)
+                name = spec_names[i] if i < len(spec_names) and spec_names[i] else "Unknown Spec"
+                spec_mapping[sid_int] = f"{sid_int} - {name}"
+            
+            if spec_ids:
+                spec_list_int = [int(x) for x in spec_ids]
+                st.session_state["spec_options"] = spec_list_int
+                st.session_state["spec_mapping"] = spec_mapping
+                st.session_state["spec_id"] = spec_list_int[0]
             
             # 2. Build the parameter rows dynamically
             initial_rows = []
@@ -435,14 +447,21 @@ with left:
 
     # Spec ID Dropdown logic
     spec_options = st.session_state.get("spec_options", [int(st.session_state["spec_id"])])
+    spec_mapping = st.session_state.get("spec_mapping", {})
+    
     current_spec_id = int(st.session_state["spec_id"])
     if current_spec_id not in spec_options:
         spec_options.insert(0, current_spec_id)
+
+    # Function to display the formatted name in the dropdown
+    def format_spec(sid):
+        return spec_mapping.get(sid, str(sid))
 
     spec_id: int = st.selectbox(
         "spec_id",
         options=spec_options,
         index=spec_options.index(current_spec_id),
+        format_func=format_spec,
         key="spec_id",
     )
 
