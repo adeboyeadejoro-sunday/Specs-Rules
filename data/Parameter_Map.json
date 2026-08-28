@@ -31526,5 +31526,47 @@
         "Parameter Name EN": "Bisphenol S, subparameter",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13959,
+        "Parameter Name DE": "Methylsulfonylmethan-V2",
+        "Parameter Name EN": "Methylsulfonylmethan-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13960,
+        "Parameter Name DE": "Kalium-V2",
+        "Parameter Name EN": "Potassium-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13961,
+        "Parameter Name DE": "Capsaicin",
+        "Parameter Name EN": "Capsaicin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13962,
+        "Parameter Name DE": "AKBA (3-acetyl-11-keto-ß-boswellic acid)",
+        "Parameter Name EN": "AKBA (3-acetyl-11-keto-ß-boswellic acid)",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13963,
+        "Parameter Name DE": "Pesticides",
+        "Parameter Name EN": "Pesticides",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13964,
+        "Parameter Name DE": "Biotin-V2",
+        "Parameter Name EN": "Biotin-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
     }
 ]
