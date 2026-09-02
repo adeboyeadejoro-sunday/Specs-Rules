@@ -260,6 +260,7 @@ def build_rules_payload(
     per_param_target: Dict[int, Optional[Decimal]],
     per_param_unit: Dict[int, Optional[str]],
     per_param_deviation_percent: Dict[int, Optional[Decimal]],
+    removed_params: set[int],
 ) -> Tuple[Dict[str, Any], List[str]]:
     """
     Returns (payload, warnings).
@@ -268,6 +269,10 @@ def build_rules_payload(
     rules: List[Dict[str, Any]] = []
 
     for p in PARAMETERS:
+        # Skip generation if parameter was removed by user
+        if p.parametertype_id in removed_params:
+            continue
+
         target = per_param_target.get(p.parametertype_id)
         unit = per_param_unit.get(p.parametertype_id)
 
@@ -383,9 +388,19 @@ def main() -> None:
     st.title("Nutri Rules Generator")
     st.caption("Generate Apps Script–compatible Rules JSON for nutrition specs (Rules first).")
 
+    # Initialize state for removed parameters
+    if "removed_params" not in st.session_state:
+        st.session_state.removed_params = set()
+
     with st.sidebar:
         st.subheader("Global")
         spec_id_raw = st.text_input("spec_id", value="", placeholder="e.g. 1256")
+        
+        st.write("")
+        if st.button("🔄 Restore All Parameters", help="Bring back any removed parameters"):
+            st.session_state.removed_params = set()
+            st.rerun()
+
         st.write("")
         st.subheader("Output")
         file_prefix = st.text_input("Filename prefix", value="Rules", help="Used for the download file name.")
@@ -422,14 +437,18 @@ def main() -> None:
     parse_errors: List[str] = []
 
     # Render table-like inputs
-    header_cols = st.columns([4, 1.5, 1.5, 1.5])
+    header_cols = st.columns([3.5, 1.5, 1.5, 1.5, 0.5])
     header_cols[0].markdown("**Parameter (parametertype_id)**")
     header_cols[1].markdown("**Target**")
     header_cols[2].markdown("**Unit**")
     header_cols[3].markdown("**Deviation %**")
 
     for p in PARAMETERS:
-        cols = st.columns([4, 1.5, 1.5, 1.5])
+        # Skip rendering if it was removed
+        if p.parametertype_id in st.session_state.removed_params:
+            continue
+
+        cols = st.columns([3.5, 1.5, 1.5, 1.5, 0.5])
 
         cols[0].write(f"{p.name}  \n`{p.parametertype_id}`")
 
@@ -537,6 +556,11 @@ def main() -> None:
             cols[3].write("—")
             per_param_dev[p.parametertype_id] = None
 
+        # Add the remove button in the final column
+        if cols[4].button("➖", key=f"remove_{p.parametertype_id}", help="Remove parameter"):
+            st.session_state.removed_params.add(p.parametertype_id)
+            st.rerun()
+
     if input_notes:
         st.warning("\n".join(input_notes))
 
@@ -555,6 +579,7 @@ def main() -> None:
             per_param_target=per_param_target,
             per_param_unit=per_param_unit,
             per_param_deviation_percent=per_param_dev,
+            removed_params=st.session_state.removed_params,
         )
 
         if warnings:
