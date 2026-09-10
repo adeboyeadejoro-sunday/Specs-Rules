@@ -14736,8 +14736,8 @@
     },
     {
         "Param_ID": 11542,
-        "Parameter Name DE": "Epigallocatechingallat",
-        "Parameter Name EN": "Epigallocatechin gallate",
+        "Parameter Name DE": "Epigallocatechingallat EGCG",
+        "Parameter Name EN": "Epigallocatechin gallate EGCG",
         "Param Group": 213,
         "Lab": "Plenum"
     },
@@ -31568,5 +31568,152 @@
         "Parameter Name EN": "Biotin-V2",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13965,
+        "Parameter Name DE": "Salicylsäure",
+        "Parameter Name EN": "Salicyl acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13966,
+        "Parameter Name DE": "Gesamtsalicylat-Gehalt",
+        "Parameter Name EN": "total salicylat-content",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13967,
+        "Parameter Name DE": "Galactolipid",
+        "Parameter Name EN": "Galactolipid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13968,
+        "Parameter Name DE": "Methionin-V2",
+        "Parameter Name EN": "Methionine-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13969,
+        "Parameter Name DE": "Tryptophan einzeln frei-V2",
+        "Parameter Name EN": "Tryptophan free-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13970,
+        "Parameter Name DE": "2-MCPD\/3-MCPD\/Glycidylester in LM",
+        "Parameter Name EN": "2-MCPD\/3-MCPD\/Glycidylester in LM",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 13971,
+        "Parameter Name DE": "Chlorparaffine (C10-C13)",
+        "Parameter Name EN": "Chlorparaffine (C10-C13)",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13972,
+        "Parameter Name DE": "Chlorparaffine (C14-C17)",
+        "Parameter Name EN": "Chlorparaffine (C14-C17)",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13973,
+        "Parameter Name DE": "Chlorparaffine total (C10-C20)",
+        "Parameter Name EN": "Chlorparaffine total (C10-C20)",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13974,
+        "Parameter Name DE": "3-MCPD ester (calc. as free 3-MCPD)",
+        "Parameter Name EN": "3-MCPD ester (calc. as free 3-MCPD)",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13975,
+        "Parameter Name DE": "3-MCPD ester and glycidyl ester (determined as 3-MCPD)",
+        "Parameter Name EN": "3-MCPD ester and glycidyl ester (determined as 3-MCPD)",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13976,
+        "Parameter Name DE": "Glycidylester",
+        "Parameter Name EN": "Glycidylester",
+        "Param Group": 228,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13977,
+        "Parameter Name DE": "Artemisin",
+        "Parameter Name EN": "Artemisin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13978,
+        "Parameter Name DE": "Casticin",
+        "Parameter Name EN": "Casticin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13979,
+        "Parameter Name DE": "Artemetin",
+        "Parameter Name EN": "Artemetin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13980,
+        "Parameter Name DE": "Chrysoplenol",
+        "Parameter Name EN": "Chrysoplenol",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13981,
+        "Parameter Name DE": "Artemisia Ketone",
+        "Parameter Name EN": "Artemisia Ketone",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13982,
+        "Parameter Name DE": "1,8 Cineole",
+        "Parameter Name EN": "1,8 Cineole",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13983,
+        "Parameter Name DE": "Green Tea Extract",
+        "Parameter Name EN": "Green Tea Extract",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13984,
+        "Parameter Name DE": "16S-Sequencing (Zymo)",
+        "Parameter Name EN": "16S-Sequencing (Zymo)",
+        "Param Group": 220,
+        "Lab": "Bilacon"
+    },
+    {
+        "Param_ID": 13985,
+        "Parameter Name DE": "D-glucuronolactone",
+        "Parameter Name EN": "D-glucuronolactone",
+        "Param Group": 213,
+        "Lab": "Plenum"
     }
 ]
