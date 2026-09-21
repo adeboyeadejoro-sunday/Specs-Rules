@@ -31634,15 +31634,15 @@
     },
     {
         "Param_ID": 13974,
-        "Parameter Name DE": "3-MCPD ester (calc. as free 3-MCPD)",
-        "Parameter Name EN": "3-MCPD ester (calc. as free 3-MCPD)",
+        "Parameter Name DE": "3-MCPD ester",
+        "Parameter Name EN": "3-MCPD ester",
         "Param Group": 228,
         "Lab": "Bilacon"
     },
     {
         "Param_ID": 13975,
-        "Parameter Name DE": "3-MCPD ester and glycidyl ester (determined as 3-MCPD)",
-        "Parameter Name EN": "3-MCPD ester and glycidyl ester (determined as 3-MCPD)",
+        "Parameter Name DE": "3-MCPD ester\/glycidyl ester",
+        "Parameter Name EN": "3-MCPD ester\/glycidyl ester ",
         "Param Group": 228,
         "Lab": "Bilacon"
     },
@@ -31715,5 +31715,124 @@
         "Parameter Name EN": "D-glucuronolactone",
         "Param Group": 213,
         "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13986,
+        "Parameter Name DE": "Peroxide Value",
+        "Parameter Name EN": "Peroxide Value",
+        "Param Group": 214,
+        "Lab": "Exim internal analysis"
+    },
+    {
+        "Param_ID": 13987,
+        "Parameter Name DE": "Anisidine Value",
+        "Parameter Name EN": "Anisidine Value",
+        "Param Group": 214,
+        "Lab": "Exim internal analysis"
+    },
+    {
+        "Param_ID": 13988,
+        "Parameter Name DE": "Totox",
+        "Parameter Name EN": "Totox",
+        "Param Group": 214,
+        "Lab": "Exim internal analysis"
+    },
+    {
+        "Param_ID": 13989,
+        "Parameter Name DE": "Lactoferrin",
+        "Parameter Name EN": "Lactoferrin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13990,
+        "Parameter Name DE": "Inulin",
+        "Parameter Name EN": "Inulin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13991,
+        "Parameter Name DE": "Oligofructosaccharide",
+        "Parameter Name EN": "Oligofructosaccharide",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 13992,
+        "Parameter Name DE": "Paclobutrazol",
+        "Parameter Name EN": "Paclobutrazole",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13993,
+        "Parameter Name DE": "Weitere Pflanzenschutz- und Schädlingsbekämpfungsmittel (GC-MS\/MS)",
+        "Parameter Name EN": "Other pesticides (GC-MS\/MS)",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13994,
+        "Parameter Name DE": "Chlorantraniliprol",
+        "Parameter Name EN": "Chlorantraniliprole",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13995,
+        "Parameter Name DE": "Clothianidin",
+        "Parameter Name EN": "Clothianidin",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13996,
+        "Parameter Name DE": "Difenoconazol",
+        "Parameter Name EN": "Difenoconazole",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13997,
+        "Parameter Name DE": "Imidacloprid",
+        "Parameter Name EN": "Imidacloprid",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13998,
+        "Parameter Name DE": "Nicotin",
+        "Parameter Name EN": "Nicotine",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 13999,
+        "Parameter Name DE": "Pyraclostrobin",
+        "Parameter Name EN": "Pyraclostrobin",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14000,
+        "Parameter Name DE": "Tebuconazol",
+        "Parameter Name EN": "Tebuconazole",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14001,
+        "Parameter Name DE": "Weitere Pflanzenschutz- und Schädlingsbekämpfungsmittel (LC-MS\/MS)",
+        "Parameter Name EN": "Other pesticides (LC-MS\/MS)",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14002,
+        "Parameter Name DE": "Chlorid (potentiometrisch)_19403",
+        "Parameter Name EN": "Chloride (potentiometric)_19403",
+        "Param Group": 207,
+        "Lab": "GBA"
     }
 ]
