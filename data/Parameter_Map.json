@@ -31834,5 +31834,131 @@
         "Parameter Name EN": "Chloride (potentiometric)_19403",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14003,
+        "Parameter Name DE": "Molybdän-V2",
+        "Parameter Name EN": "Molybdenum-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14004,
+        "Parameter Name DE": "2,4- D",
+        "Parameter Name EN": "2,4- D",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14005,
+        "Parameter Name DE": "Haloxyfop",
+        "Parameter Name EN": "Haloxyfop",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14006,
+        "Parameter Name DE": "Tricyclazol",
+        "Parameter Name EN": "Tricyclazol",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14007,
+        "Parameter Name DE": "Anthrachinon",
+        "Parameter Name EN": "Anthrachinon",
+        "Param Group": 225,
+        "Lab": "Limbach"
+    },
+    {
+        "Param_ID": 14008,
+        "Parameter Name DE": "phytosterol",
+        "Parameter Name EN": "phytosterol",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14009,
+        "Parameter Name DE": "XRD",
+        "Parameter Name EN": "XRD",
+        "Param Group": 220,
+        "Lab": "Universal Lab"
+    },
+    {
+        "Param_ID": 14010,
+        "Parameter Name DE": "Tocotrienols",
+        "Parameter Name EN": "Tocotrienols",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14011,
+        "Parameter Name DE": "Tocopherols",
+        "Parameter Name EN": "Tocopherols",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14012,
+        "Parameter Name DE": "2-fucosyllactose",
+        "Parameter Name EN": "2-fucosyllactose",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14013,
+        "Parameter Name DE": "3-fucosyllactose",
+        "Parameter Name EN": "3-fucosyllactose",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14014,
+        "Parameter Name DE": "6-sialyllactose",
+        "Parameter Name EN": "6-sialyllactose",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14015,
+        "Parameter Name DE": "3-sialyllactose",
+        "Parameter Name EN": "3-sialyllactose",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14016,
+        "Parameter Name DE": "Lösungsmittelrückstände, klein",
+        "Parameter Name EN": "Solvents Small",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14017,
+        "Parameter Name DE": "Verbascosides",
+        "Parameter Name EN": "Verbascosides",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14018,
+        "Parameter Name DE": "Bilobalides",
+        "Parameter Name EN": "Bilobalides",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14019,
+        "Parameter Name DE": "Ginkgolic acid",
+        "Parameter Name EN": "Ginkgolic acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14020,
+        "Parameter Name DE": "Zink-V2",
+        "Parameter Name EN": "Zinc-V2",
+        "Param Group": 207,
+        "Lab": "GBA"
     }
 ]
