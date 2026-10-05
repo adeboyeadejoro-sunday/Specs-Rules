@@ -5,7 +5,7 @@ Streamlit UI for generate_standalone_rules.py (CLI behavior preserved strictly)
 - Dynamic form rows (add/remove params)
 - In-memory JSON generation + Download button
 - Same rule-building logic as the CLI version
-- Dummy modes (dummy-green, dummy-orange) keep value='""' (literal quotes) as required by LIMS
+- Dummy mode keeps value='""' (literal quotes) as required by LIMS
 - Reset button: resets rows + outputs (does NOT force-reset widget-backed values)
 - Clear all button: hard-resets spec_id + all row widgets + qualitative texts + outputs
 - Param ID name preview: shows "Name (ID)" next to parametertype_id
@@ -14,7 +14,7 @@ Streamlit UI for generate_standalone_rules.py (CLI behavior preserved strictly)
 from __future__ import annotations
 
 import json
-import requests
+import requests # <--- ADD THIS LINE
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -45,7 +45,7 @@ def load_gsheet_data(sheet_id: str) -> pd.DataFrame:
 # Types
 # -----------------------------
 
-Mode = Literal["active", "mineral", "limit3", "limit2", "qualitative", "dummy-green", "dummy-orange"]
+Mode = Literal["active", "mineral", "limit3", "limit2", "qualitative", "dummy"]
 
 @dataclass(frozen=True)
 class ParamSpec:
@@ -206,14 +206,9 @@ def build_qualitative_rules(ps: ParamSpec, spec_id: int, qual_en: str, qual_de: 
     not_ok = make_rule(base_data(parametertype_id=pid, spec_id=spec_id, unit=unit, target=t, ddf_type="not OK", color="red", operator=">", value=r2(t)))
     return [perfect, not_ok]
 
-def build_dummy_green_rules(ps: ParamSpec, spec_id: int) -> List[Dict[str, Any]]:
+def build_dummy_rules(ps: ParamSpec, spec_id: int) -> List[Dict[str, Any]]:
     pid = ps.parametertype_id
     rule = make_rule(base_data(parametertype_id=pid, spec_id=spec_id, unit=None, target=None, ddf_type="perfect", color="green", operator="!=", value='""'))
-    return [rule]
-
-def build_dummy_orange_rules(ps: ParamSpec, spec_id: int) -> List[Dict[str, Any]]:
-    pid = ps.parametertype_id
-    rule = make_rule(base_data(parametertype_id=pid, spec_id=spec_id, unit=None, target=None, ddf_type="OK", color="orange", operator="!=", value='""'))
     return [rule]
 
 
@@ -276,7 +271,7 @@ def to_param_spec(row: ParamRow) -> ParamSpec:
     target: Optional[float]
     unit: Optional[str]
 
-    if row["mode"] in ("dummy-green", "dummy-orange"):
+    if row["mode"] == "dummy":
         target = None
         unit = None
     else:
@@ -328,10 +323,8 @@ def build_rules_from_specs(spec_id: int, param_specs: List[ParamSpec], qual_en: 
         elif ps.mode == "qualitative":
             if ps.target is None: raise ValueError("Qualitative requires numeric target.")
             rules = build_qualitative_rules(ps, spec_id, qual_en, qual_de)
-        elif ps.mode == "dummy-green":
-            rules = build_dummy_green_rules(ps, spec_id)
-        elif ps.mode == "dummy-orange":
-            rules = build_dummy_orange_rules(ps, spec_id)
+        elif ps.mode == "dummy":
+            rules = build_dummy_rules(ps, spec_id)
         else:
             raise ValueError(f"Unsupported mode: {ps.mode}")
         all_rules.extend(rules)
@@ -511,17 +504,17 @@ with left:
                 Mode,
                 c2.selectbox(
                     f"mode (row {idx+1})",
-                    options=["active", "mineral", "limit3", "limit2", "qualitative", "dummy-green", "dummy-orange"],
-                    index=["active", "mineral", "limit3", "limit2", "qualitative", "dummy-green", "dummy-orange"].index(row["mode"]),
+                    options=["active", "mineral", "limit3", "limit2", "qualitative", "dummy"],
+                    index=["active", "mineral", "limit3", "limit2", "qualitative", "dummy"].index(row["mode"]),
                     key=f"mode_{idx}",
                 ),
             )
 
-            if row["mode"] in ("dummy-green", "dummy-orange"):
+            if row["mode"] == "dummy":
                 row["target_is_null"] = True
                 row["target_value"] = 0.0
-                c3.caption(f"target ({row['mode']} ignores target/unit)")
-                c3.text(f"{row['mode']}: target=null, unit=null")
+                c3.caption("target (dummy ignores target/unit)")
+                c3.text("dummy: target=null, unit=null")
             else:
                 tcol1, tcol2 = c3.columns([1, 1])
                 row["target_is_null"] = tcol1.checkbox(
@@ -538,7 +531,7 @@ with left:
                     key=f"t_val_{idx}",
                 )
 
-            if row["mode"] in ("dummy-green", "dummy-orange"):
+            if row["mode"] == "dummy":
                 row["unit_is_null"] = True
                 row["unit_value"] = ""
             else:
