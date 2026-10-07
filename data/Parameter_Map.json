@@ -31960,5 +31960,320 @@
         "Parameter Name EN": "Zinc-V2",
         "Param Group": 207,
         "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14021,
+        "Parameter Name DE": "Chicoric acid",
+        "Parameter Name EN": "Chicoric acid",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14022,
+        "Parameter Name DE": "Cycloastragenol",
+        "Parameter Name EN": "Cycloastragenol",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14023,
+        "Parameter Name DE": "Calycosin",
+        "Parameter Name EN": "Calycosin",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14024,
+        "Parameter Name DE": "Parthenolides",
+        "Parameter Name EN": "Parthenolides",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14025,
+        "Parameter Name DE": "Asiaticoside",
+        "Parameter Name EN": "Asiaticoside",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14026,
+        "Parameter Name DE": "Triterpenglycoside",
+        "Parameter Name EN": "Triterpenglycoside",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14027,
+        "Parameter Name DE": "SGS_Energy",
+        "Parameter Name EN": "SGS_Energy",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14028,
+        "Parameter Name DE": "Fat (davon gesattigte fettsauren)",
+        "Parameter Name EN": "Fat",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14029,
+        "Parameter Name DE": "Carbohydrate",
+        "Parameter Name EN": "Carbohydrate",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14030,
+        "Parameter Name DE": "Sugar",
+        "Parameter Name EN": "Sugar",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14031,
+        "Parameter Name DE": "Protein",
+        "Parameter Name EN": "Protein",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14032,
+        "Parameter Name DE": "Salt",
+        "Parameter Name EN": "Salt",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14033,
+        "Parameter Name DE": "Vitamin C",
+        "Parameter Name EN": "Vitamin C",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14034,
+        "Parameter Name DE": "Vitamin E",
+        "Parameter Name EN": "Vitamin E",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14035,
+        "Parameter Name DE": "Vitamin A (als Beta-carotin)",
+        "Parameter Name EN": "Vitamin A (as Beta-carotin)",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14036,
+        "Parameter Name DE": "Vitamin B1",
+        "Parameter Name EN": "Vitamin B1",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14037,
+        "Parameter Name DE": "Vitamin B2",
+        "Parameter Name EN": "Vitamin B2",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14038,
+        "Parameter Name DE": "Niacin",
+        "Parameter Name EN": "Niacin",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14039,
+        "Parameter Name DE": "Pantothensaure",
+        "Parameter Name EN": "Pantothenic Acid",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14040,
+        "Parameter Name DE": "Vitamin B6",
+        "Parameter Name EN": "Vitamin B6",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14041,
+        "Parameter Name DE": "Folsaure",
+        "Parameter Name EN": "Folic Acid",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14042,
+        "Parameter Name DE": "Vitamin B12",
+        "Parameter Name EN": "Vitamin B12",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14043,
+        "Parameter Name DE": "Biotin",
+        "Parameter Name EN": "Biotin",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14044,
+        "Parameter Name DE": "Vitamin K",
+        "Parameter Name EN": "Vitamin K",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14045,
+        "Parameter Name DE": "Vitamin D",
+        "Parameter Name EN": "Vitamin D",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14046,
+        "Parameter Name DE": "Magnesium",
+        "Parameter Name EN": "Magnesium",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14047,
+        "Parameter Name DE": "Selenium",
+        "Parameter Name EN": "Selenium",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14048,
+        "Parameter Name DE": "Copper",
+        "Parameter Name EN": "Copper",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14049,
+        "Parameter Name DE": "Iron",
+        "Parameter Name EN": "Iron",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14050,
+        "Parameter Name DE": "Zink",
+        "Parameter Name EN": "Zinc",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14051,
+        "Parameter Name DE": "Manganese",
+        "Parameter Name EN": "Manganese",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14052,
+        "Parameter Name DE": "Chromium",
+        "Parameter Name EN": "Chromium",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14053,
+        "Parameter Name DE": "Iodine",
+        "Parameter Name EN": "Iodine",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14054,
+        "Parameter Name DE": "Molybdenum.",
+        "Parameter Name EN": "Molybdenum",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14055,
+        "Parameter Name DE": "HMF (hydroxymethylfurfural)",
+        "Parameter Name EN": "HMF (hydroxymethylfurfural)",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14056,
+        "Parameter Name DE": "Withanolides",
+        "Parameter Name EN": "Withanolides",
+        "Param Group": 220,
+        "Lab": "SGS"
+    },
+    {
+        "Param_ID": 14057,
+        "Parameter Name DE": "Deoxynivalenol (DON)_32541",
+        "Parameter Name EN": "Deoxynivalenol (DON)_32541",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14058,
+        "Parameter Name DE": "Zearalenon_32540",
+        "Parameter Name EN": "Zearalenon_32540",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14059,
+        "Parameter Name DE": "T2-Toxin\/HT2-Toxin",
+        "Parameter Name EN": "T2-Toxin\/HT2-Toxin",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14060,
+        "Parameter Name DE": "HT2-Toxin",
+        "Parameter Name EN": "HT2-Toxin",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14061,
+        "Parameter Name DE": "T2-Toxin",
+        "Parameter Name EN": "T2-Toxin",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14062,
+        "Parameter Name DE": "T2-Toxin\/HT2-Toxin, Summe",
+        "Parameter Name EN": "T2-Toxin\/HT2-Toxin, Summe",
+        "Param Group": 207,
+        "Lab": "GBA"
+    },
+    {
+        "Param_ID": 14063,
+        "Parameter Name DE": "Iron",
+        "Parameter Name EN": "Iron",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14064,
+        "Parameter Name DE": "Isoflavones",
+        "Parameter Name EN": "Isoflavones",
+        "Param Group": 213,
+        "Lab": "Plenum"
+    },
+    {
+        "Param_ID": 14065,
+        "Parameter Name DE": "Diosgenin",
+        "Parameter Name EN": "Diosgenin",
+        "Param Group": 213,
+        "Lab": "Plenum"
     }
 ]
